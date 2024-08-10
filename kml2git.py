@@ -207,10 +207,12 @@ def create_polygon_style(style_id):
     poly_outline = ET.SubElement(poly_style, "outline")
     poly_outline.text = "true"
 
-    
+     
     label_style = ET.SubElement(style, "LabelStyle")
     color = ET.SubElement(label_style, "color")
     color.text = "ffa9e600"
+    scale = ET.SubElement(label_style, "scale")
+    scale.text ="1.5"
 
     return style
 
