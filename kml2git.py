@@ -11,7 +11,7 @@ from shapely.ops import unary_union
 from datetime import datetime, timedelta
 import subprocess
 
-OUTPUT_DIR = r"C:\Users\adrie\ArcGIStoTAK"
+OUTPUT_DIR = r"C:\Users\adrie\KML2git"
 
 
 def unescape(s):
@@ -214,22 +214,17 @@ def commit_and_push_to_github(repo_dir, file_name):
         # Navigate to the local repository directory
         os.chdir(repo_dir)
 
-       # subprocess.run(["git", "pull"], check=True)
-        
-        # Add the file to the staging area
+        # Check the status
+        status_output = subprocess.check_output(["git", "status", "--short"]).decode("utf-8")
+        print("Git status:\n", status_output)
+
+        # Add files to the staging area
         subprocess.run(["git", "add", file_name], check=True)
-        print(f"Staged {file_name} for commit.")
-        
-        # Check the status before committing
-        subprocess.run(["git", "status"], check=True)
+        subprocess.run(["git", "add", "kml2git.py"], check=True)
         
         # Commit the changes with a message
         commit_message = f"Add {file_name} - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-        result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
-        if result.returncode != 0:
-            print(f"Git commit error: {result.stderr}")
-            return
-        print(f"Committed {file_name} to Git.")
+        subprocess.run(["git", "commit", "-m", commit_message], check=True)
         
         # Push the changes to the GitHub repository
         subprocess.run(["git", "push"], check=True)
@@ -238,6 +233,7 @@ def commit_and_push_to_github(repo_dir, file_name):
     
     except subprocess.CalledProcessError as e:
         print(f"Error during Git operations: {e}")
+
 
 
 
