@@ -207,7 +207,15 @@ def create_polygon_style(style_id):
     poly_outline = ET.SubElement(poly_style, "outline")
     poly_outline.text = "true"
 
+    
+    label_style = ET.SubElement(style, "LabelStyle")
+    color = ET.SubElement(label_style, "color")
+    color.text = "ffa9e600"
+
     return style
+
+   
+    
 
 def commit_and_push_to_github(repo_dir, file_name):
     try:
