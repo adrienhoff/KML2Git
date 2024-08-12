@@ -12099,4 +12099,92 @@
                   <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
                 </body>
             </html>
-            </description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-118.419544672086,35.3339290158226,0 -118.419537672087,35.3339320158218,0 -118.419543672086,35.333934015822,0 -118.419544672086,35.3339290158226,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+            </description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-118.419544672086,35.3339290158226,0 -118.419537672087,35.3339320158218,0 -118.419543672086,35.333934015822,0 -118.419544672086,35.3339290158226,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>PASS</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
+<tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
+<html>
+                <body>
+                  <table border="1">
+                    <tr>
+                      <th>Source</th>
+                      <th>CAL FIRE INTEL FLIGHT DATA</th>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Mission</td>
+                      <td>PASS</td>
+                    </tr>
+                    <tr>
+                      <td>Incident Name</td>
+                      <td>PASS</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Incident Number</td>
+                      <td>873c3c46-bd6a-4f9e-b855-3e4156b2e462</td>
+                    </tr>
+                    <tr>
+                      <td>Area in Acres</td>
+                      <td>1.55</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Description</td>
+                      <td>Infrared Image</td>
+                    </tr>
+                    <tr>
+                      <td>Date</td>
+                      <td>2024-08-11 17:30:00</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>OID</td>
+                      <td>928</td>
+                    </tr>
+                  </table>
+                  <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+                </body>
+            </html>
+            </description><Polygon /><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-120.203491938587,39.3290627570194,0 -120.203489938587,39.329065757019,0 -120.203453938594,39.3290627570164,0 -120.203347938611,39.3290587570085,0 -120.203323938614,39.3290677570058,0 -120.203251938622,39.3290937569979,0 -120.20318293863,39.3291197569903,0 -120.203127938636,39.3291407569842,0 -120.20307993864,39.3291667569782,0 -120.203048938641,39.3292027569726,0 -120.203058938635,39.3292367569705,0 -120.203047938636,39.3292427569691,0 -120.203038938631,39.3292927569641,0 -120.203019938628,39.3293377569587,0 -120.202949938633,39.329386756949,0 -120.202856938647,39.3293937569412,0 -120.202796938658,39.329387756937,0 -120.20274493867,39.3293537569358,0 -120.202759938673,39.3293117569407,0 -120.202783938678,39.3292427569485,0 -120.202804938682,39.3291917569545,0 -120.202889938684,39.3290677569719,0 -120.202980938671,39.3290547569801,0 -120.203013938671,39.3290107569865,0 -120.203010938678,39.3289637569903,0 -120.203021938681,39.3289247569945,0 -120.203027938686,39.3288817569987,0 -120.20307393869,39.3287957570097,0 -120.203111938688,39.3287607570157,0 -120.203132938691,39.3287147570213,0 -120.203154938696,39.3286437570292,0 -120.203215938689,39.3286257570355,0 -120.203291938676,39.3286277570413,0 -120.203345938668,39.3286247570458,0 -120.203374938667,39.3285967570504,0 -120.203369938673,39.3285537570538,0 -120.203368938677,39.3285247570562,0 -120.203408938684,39.328423757068,0 -120.203469938677,39.3283957570752,0 -120.203524938672,39.3283707570817,0 -120.203570938673,39.3283037570911,0 -120.203608938677,39.3282247571009,0 -120.203722938671,39.3281267571182,0 -120.203857938665,39.3280067571391,0 -120.204046938654,39.3278597571666,0 -120.204353938626,39.3276877572055,0 -120.204426938613,39.3276997572101,0 -120.204460938599,39.3277627572074,0 -120.204461938594,39.3278037572039,0 -120.204436938594,39.3278357571992,0 -120.204371938598,39.32788275719,0 -120.204314938601,39.3279287571816,0 -120.204288938598,39.3279837571748,0 -120.204252938594,39.3280617571653,0 -120.204203938595,39.3281187571565,0 -120.204124938603,39.3281517571475,0 -120.204042938614,39.3281717571394,0 -120.203942938629,39.3281827571306,0 -120.203905938631,39.3282107571253,0 -120.203888938625,39.3282807571179,0 -120.203894938619,39.3283157571154,0 -120.203899938611,39.328370757111,0 -120.203879938608,39.328421757105,0 -120.203832938609,39.3284687570973,0 -120.203772938615,39.3284977570901,0 -120.203733938616,39.3285387570835,0 -120.203721938613,39.3285787570791,0 -120.203682938615,39.328614757073,0 -120.203633938614,39.3286787570636,0 -120.203617938612,39.3287147570593,0 -120.203618938607,39.3287557570558,0 -120.203589938607,39.3287887570507,0 -120.203559938608,39.3288207570456,0 -120.203551938605,39.3288517570423,0 -120.203550938602,39.3288747570402,0 -120.203587938594,39.3288927570415,0 -120.203572938587,39.3289637570342,0 -120.203542938584,39.3290237570267,0 -120.203491938587,39.3290627570194,0</coordinates></LinearRing></outerBoundaryIs></Placemark><Placemark id="928_1"><name>PASS_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+    <head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
+    <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+    <tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
+    <tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
+    <html>
+                <body>
+                  <table border="1">
+                    <tr>
+                      <th>Source</th>
+                      <th>CAL FIRE INTEL FLIGHT DATA</th>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Mission</td>
+                      <td>PASS</td>
+                    </tr>
+                    <tr>
+                      <td>Incident Name</td>
+                      <td>PASS</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Incident Number</td>
+                      <td>873c3c46-bd6a-4f9e-b855-3e4156b2e462</td>
+                    </tr>
+                    <tr>
+                      <td>Area in Acres</td>
+                      <td>1.55</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>Description</td>
+                      <td>Infrared Image</td>
+                    </tr>
+                    <tr>
+                      <td>Date</td>
+                      <td>2024-08-11 17:30:00</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                      <td>OID</td>
+                      <td>928</td>
+                    </tr>
+                  </table>
+                  <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+                </body>
+            </html>
+            </description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-120.202416938689,39.3296187568873,0 -120.202388938693,39.3296247568846,0 -120.202370938698,39.3296077568847,0 -120.202386938699,39.3295787568884,0 -120.202412938696,39.3295677568914,0 -120.202430938691,39.3295847568914,0 -120.202434938689,39.3295997568904,0 -120.202416938689,39.3296187568873,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
