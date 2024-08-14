@@ -231,7 +231,6 @@ def commit_and_push_to_github(repo_dir, file_name):
 
 
 
-
 def main():
     while True:
         print("Generating KML file...")
