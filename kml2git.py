@@ -115,13 +115,11 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     styleurl.text = "#-1073741762"
     
     # Define the HTML structure to be prepended
-    html_structure = """<![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
+    html_structure = """<![CDATA[<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
 <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
 <tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
 <tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
 """
-
     # Concatenate the HTML structure with the description data
     full_description = html_structure + description_data 
 
@@ -159,8 +157,7 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
 
     
         # Define the HTML structure to be prepended
-        html_structure = """<![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-    <head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
+        html_structure = """<![CDATA[<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
     <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
     <tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
     <tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
