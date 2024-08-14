@@ -278,13 +278,22 @@ def main():
             OID = attributes.get("OBJECTID", "")
 
             description_data = """<html>
-            <body>
-            <table border="1">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-16">
+</head>
+<body style="margin:0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+    <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+        <td colspan="2"></td> <!-- Ensure <td> is used correctly within <tr> -->
+    </tr>
+    <tr>
+        <td>
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
                 <tr>
                     <th>Source</th>
                     <th>{}</th>
                 </tr>
-                <tr bgcolor = "#D4E4F3">
+                <tr bgcolor="#D4E4F3">
                     <td>Mission</td>
                     <td>{}</td>
                 </tr>
@@ -292,7 +301,7 @@ def main():
                     <td>Incident Name</td>
                     <td>{}</td>
                 </tr>
-                <tr bgcolor = "#D4E4F3">
+                <tr bgcolor="#D4E4F3">
                     <td>Incident Number</td>
                     <td>{}</td>
                 </tr>
@@ -300,7 +309,7 @@ def main():
                     <td>Area in Acres</td>
                     <td>{}</td>
                 </tr>
-                <tr bgcolor = "#D4E4F3">
+                <tr bgcolor="#D4E4F3">
                     <td>Description</td>
                     <td>{}</td>
                 </tr>
@@ -308,17 +317,18 @@ def main():
                     <td>Date</td>
                     <td>{}</td>
                 </tr>
-                <tr bgcolor = "#D4E4F3">
+                <tr bgcolor="#D4E4F3">
                     <td>OID</td>
                     <td>{}</td>
                 </tr>
             </table>
-            <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-            </td>
-            </tr>
-        </table>
-    </body>
-</html>]]
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>
+          
             """.format(source, mission, incident_name, incident_number, area_acres, description_text, Date, OID)
 
             placemarks = create_polygon_placemark(attributes, geometry, description_data)
