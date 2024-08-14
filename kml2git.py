@@ -107,28 +107,29 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     
     # Create the main Placemark for the outer polygon
     placemark_outer = ET.Element("Placemark")
+    
     name = ET.SubElement(placemark_outer, "name")
     name.text = attributes.get("incident_name", "")
+    
     visibility = ET.SubElement(placemark_outer, "visibility")
     visibility.text = "true"
+    
     styleurl = ET.SubElement(placemark_outer, "styleUrl")
     styleurl.text = "#-1073741762"
     
-    
-    # Concatenate the HTML structure with the description data
-    full_description = description_data 
-
     description = ET.SubElement(placemark_outer, "description")
-    description.text = full_description
-
+    description.text = description_data
 
     # Define the outer Polygon element
-    ET.SubElement(placemark_outer, "Polygon")
-    extrude = ET.SubElement(placemark_outer, "extrude")
+    polygon = ET.SubElement(placemark_outer, "Polygon")
+    
+    extrude = ET.SubElement(polygon, "extrude")
     extrude.text = "0"  # Set to '0' to disable extrusion
-    altitude_mode = ET.SubElement(placemark_outer, "altitudeMode")
+    
+    altitude_mode = ET.SubElement(polygon, "altitudeMode")
     altitude_mode.text = "clampToGround"
-    outer_boundary_is = ET.SubElement(placemark_outer, "outerBoundaryIs")
+    
+    outer_boundary_is = ET.SubElement(polygon, "outerBoundaryIs")
     linear_ring = ET.SubElement(outer_boundary_is, "LinearRing")
     coordinates = ET.SubElement(linear_ring, "coordinates")
 
@@ -143,34 +144,30 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     for i in range(1, len(polygon_data["rings"])):
         inner_placemark = ET.Element("Placemark")
         inner_placemark.set("id", f"{base_id}_{i}")
+        
         inner_name = ET.SubElement(inner_placemark, "name")
         inner_name.text = f"{attributes.get('incident_name', '')}_ring_{i}"
+        
         inner_visibility = ET.SubElement(inner_placemark, "visibility")
         inner_visibility.text = "true"
+        
         inner_styleurl = ET.SubElement(inner_placemark, "styleUrl")
         inner_styleurl.text = "#-1073741762"
+        
+        inner_description = ET.SubElement(inner_placemark, "description")
+        inner_description.text = description_data
 
-    
-        # Define the HTML structure to be prepended
-  
-
-        # Concatenate the HTML structure with the description data
-        full_description = description_data 
-
-        description = ET.SubElement(inner_placemark, "description")
-        description.text = full_description
-
-            
-
-
-        # Add Polygon to inner Placemark
+        # Define the Polygon for the inner Placemark
         inner_polygon = ET.SubElement(inner_placemark, "Polygon")
+        
         inner_extrude = ET.SubElement(inner_polygon, "extrude")
         inner_extrude.text = "0"  # Set to '0' to disable extrusion
+        
         inner_altitude_mode = ET.SubElement(inner_polygon, "altitudeMode")
         inner_altitude_mode.text = "clampToGround"
-        inner_boundary_is = ET.SubElement(inner_polygon, "outerBoundaryIs")
-        inner_linear_ring = ET.SubElement(inner_boundary_is, "LinearRing")
+        
+        inner_outer_boundary_is = ET.SubElement(inner_polygon, "outerBoundaryIs")
+        inner_linear_ring = ET.SubElement(inner_outer_boundary_is, "LinearRing")
         inner_coordinates = ET.SubElement(inner_linear_ring, "coordinates")
 
         inner_coords = polygon_data["rings"][i]
@@ -180,6 +177,7 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
         inner_placemarks.append(inner_placemark)
 
     return [placemark_outer] + inner_placemarks
+
 
 def create_polygon_style(style_id):
     style = ET.Element("Style", id=style_id)
