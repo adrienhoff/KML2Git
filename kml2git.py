@@ -281,47 +281,47 @@ def main():
             OID = attributes.get("OBJECTID", "")
 
             description_data = """<html>
-                        <body>
-                        <table border="1">
-                            <tr>
-                                <th>Source</th>
-                                <th>{}</th>
-                            </tr>
-                            <tr bgcolor = "#D4E4F3">
-                                <td>Mission</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr>
-                                <td>Incident Name</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr bgcolor = "#D4E4F3">
-                                <td>Incident Number</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr>
-                                <td>Area in Acres</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr bgcolor = "#D4E4F3">
-                                <td>Description</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr>
-                                <td>Date</td>
-                                <td>{}</td>
-                            </tr>
-                            <tr bgcolor = "#D4E4F3">
-                                <td>OID</td>
-                                <td>{}</td>
-                            </tr>
-                        </table>
-                        <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-                        </td>
-                        </tr>
-                    </table>
-                </body>
-            </html> ]]
+                <body>
+                <table border="1">
+                    <tr>
+                        <th>Source</th>
+                        <th>{}</th>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                        <td>Mission</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr>
+                        <td>Incident Name</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                        <td>Incident Number</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr>
+                        <td>Area in Acres</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                        <td>Description</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr>
+                        <td>Date</td>
+                        <td>{}</td>
+                    </tr>
+                    <tr bgcolor = "#D4E4F3">
+                        <td>OID</td>
+                        <td>{}</td>
+                    </tr>
+                </table>
+                <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+                </td>
+                </tr>
+            </table>
+        </body>
+    </html>]]
             """.format(source, mission, incident_name, incident_number, area_acres, description_text, Date, OID)
 
             placemarks = create_polygon_placemark(attributes, geometry, description_data)
