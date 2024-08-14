@@ -116,9 +116,9 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     
     # Define the HTML structure to be prepended
     html_structure = """<![CDATA[<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
-<tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+                            <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                                <td colspan="2"></td>>">
 """
     # Concatenate the HTML structure with the description data
     full_description = html_structure + description_data 
@@ -158,9 +158,9 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     
         # Define the HTML structure to be prepended
         html_structure = """<![CDATA[<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-16"></head>
-    <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-    <tr style="text-align:center;font-weight:bold;background:#9CBCE2"><td></td></tr>
-    <tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px]]>">
+    <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+                            <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                                <td colspan="2"></td>">
     """
 
         # Concatenate the HTML structure with the description data
