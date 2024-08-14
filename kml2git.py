@@ -319,7 +319,7 @@ def main():
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>""".format(source, mission, incident_name, incident_number, area_acres, description_text, Date, OID)
+</html>]]>""".format(source, mission, incident_name, incident_number, area_acres, description_text, Date, OID)
 
             placemarks = create_polygon_placemark(attributes, geometry, description_data)
             for placemark in placemarks:
