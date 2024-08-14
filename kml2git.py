@@ -167,7 +167,7 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     """
 
         # Concatenate the HTML structure with the description data
-        full_description = html_structure + description_data + "</table></td></tr></table></body></html>]]>"
+        full_description = html_structure + description_data + "]]>"
 
         description = ET.SubElement(inner_placemark, "description")
         description.text = full_description
