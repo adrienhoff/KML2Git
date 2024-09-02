@@ -54,7 +54,7 @@ def fetch_fire_data():
         # Calculate the date three days ago
         three_days_ago = datetime.now() - timedelta(days=3)
         filter_date = three_days_ago.strftime('%Y-%m-%d')
-
+ 
         # URL with date filter included
         url = (
             f"https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/ArcGIS/rest/services/CA_Perimeters_NIFC_FIRIS_public_view/FeatureServer/0/query?"
@@ -237,8 +237,8 @@ def main():
 
         features = fetch_fire_data()
         if not features:
-            print("No features fetched. Waiting for 1 minute before retrying...")
-            time.sleep(60)
+            print("No features fetched. Waiting for 5 minutes before retrying...")
+            time.sleep(300)
             continue
 
         kml = ET.Element("kml", xmlns="http://www.opengis.net/kml/2.2")
