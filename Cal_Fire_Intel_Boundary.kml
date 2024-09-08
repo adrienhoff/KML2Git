@@ -1427,4 +1427,667 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.44832716705,41.2508668771476,0 -123.448281167024,41.2510798771292,0 -123.448158166999,41.2513668770989,0 -123.448144166996,41.2513998770955,0 -123.448007166969,41.2517038770629,0 -123.447749166977,41.251900877027,0 -123.447581166992,41.2519618770082,0 -123.447292167053,41.2518408769912,0 -123.44707916711,41.2516728769841,0 -123.446950167159,41.2514748769863,0 -123.446871167189,41.2513538769876,0 -123.446846167199,41.2513148769881,0 -123.446419167237,41.2514728769401,0 -123.446368167242,41.2514918769344,0 -123.446097167266,41.2515918769039,0 -123.446024167271,41.2516318768948,0 -123.445804167291,41.25171487687,0 -123.445744167296,41.2517378768632,0 -123.445663167303,41.2517678768541,0 -123.445609167289,41.2519108768397,0 -123.44552816728,41.2520458768235,0 -123.445301167283,41.25224787679,0 -123.444892167298,41.2525388767345,0 -123.444509167301,41.2528858766776,0 -123.444115167334,41.2530528766318,0 -123.443972167345,41.2531138766152,0 -123.443785167367,41.2531528765963,0 -123.443733167373,41.253163876591,0 -123.443383167408,41.2532708765532,0 -123.443140167439,41.25330087653,0 -123.442708167494,41.2533518764888,0 -123.442501167525,41.2533518764708,0 -123.442304167553,41.2533518764536,0 -123.442105167556,41.2535288764242,0 -123.442227167507,41.2537268764214,0 -123.442047167452,41.2542608763694,0 -123.441947167459,41.2543088763575,0 -123.441992167433,41.2544348763528,0 -123.442089167392,41.2546128763492,0 -123.442224167352,41.254744876352,0 -123.442346167334,41.2547458763626,0 -123.442424167315,41.254795876366,0 -123.442435167303,41.2548648763622,0 -123.442524167286,41.2548858763686,0 -123.442608167272,41.2549008763749,0 -123.442665167255,41.254956876376,0 -123.442705167229,41.2550848763708,0 -123.442812167213,41.2550908763798,0 -123.442865167193,41.2551668763792,0 -123.442830167173,41.2553328763649,0 -123.442874167164,41.2553488763676,0 -123.443421167036,41.2556578763943,0 -123.443468166946,41.2562038763613,0 -123.443524166881,41.256575876341,0 -123.443540166862,41.2566798763353,0 -123.443540166808,41.2570358763111,0 -123.443873166734,41.2572028763288,0 -123.444514166632,41.2572498763815,0 -123.44518016656,41.2570838764509,0 -123.445821166448,41.2572028764987,0 -123.44617816641,41.2571078765363,0 -123.4460121665,41.2566798765509,0 -123.446355166469,41.2565508765896,0 -123.446582166449,41.2564658766151,0 -123.446671166438,41.256448876624,0 -123.446922166409,41.2564028766491,0 -123.447224166373,41.2563468766792,0 -123.447540166318,41.2564058767028,0 -123.44798416624,41.2564898767358,0 -123.448151166255,41.2562278767681,0 -123.448317166249,41.2561088767907,0 -123.448460166235,41.2560618768064,0 -123.448935166155,41.256132876843,0 -123.449315166092,41.2561808768728,0 -123.449719166011,41.2563228768984,0 -123.450005165958,41.2563948769185,0 -123.450242165923,41.2563948769392,0 -123.450860165836,41.2563708769947,0 -123.450892165832,41.256363876998,0 -123.451079165909,41.2556868770602,0 -123.451350165885,41.2555828770909,0 -123.452029165729,41.2559518771251,0 -123.452158165721,41.2558778771414,0 -123.452437165704,41.2557188771765,0 -123.452684165681,41.2556368772036,0 -123.452572165741,41.2553488772134,0 -123.452144165961,41.2543268772455,0 -123.451740166133,41.2535898772603,0 -123.451336166276,41.2530428772622,0 -123.450837166422,41.252567877251,0 -123.450623166573,41.2517838772855,0 -123.450361166644,41.2515698772772,0 -123.449387166816,41.2513798772052,0 -123.448935166919,41.251141877182,0 -123.44832716705,41.2508668771476,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.44832716705,41.2508668771476,0 -123.448281167024,41.2510798771292,0 -123.448158166999,41.2513668770989,0 -123.448144166996,41.2513998770955,0 -123.448007166969,41.2517038770629,0 -123.447749166977,41.251900877027,0 -123.447581166992,41.2519618770082,0 -123.447292167053,41.2518408769912,0 -123.44707916711,41.2516728769841,0 -123.446950167159,41.2514748769863,0 -123.446871167189,41.2513538769876,0 -123.446846167199,41.2513148769881,0 -123.446419167237,41.2514728769401,0 -123.446368167242,41.2514918769344,0 -123.446097167266,41.2515918769039,0 -123.446024167271,41.2516318768948,0 -123.445804167291,41.25171487687,0 -123.445744167296,41.2517378768632,0 -123.445663167303,41.2517678768541,0 -123.445609167289,41.2519108768397,0 -123.44552816728,41.2520458768235,0 -123.445301167283,41.25224787679,0 -123.444892167298,41.2525388767345,0 -123.444509167301,41.2528858766776,0 -123.444115167334,41.2530528766318,0 -123.443972167345,41.2531138766152,0 -123.443785167367,41.2531528765963,0 -123.443733167373,41.253163876591,0 -123.443383167408,41.2532708765532,0 -123.443140167439,41.25330087653,0 -123.442708167494,41.2533518764888,0 -123.442501167525,41.2533518764708,0 -123.442304167553,41.2533518764536,0 -123.442105167556,41.2535288764242,0 -123.442227167507,41.2537268764214,0 -123.442047167452,41.2542608763694,0 -123.441947167459,41.2543088763575,0 -123.441992167433,41.2544348763528,0 -123.442089167392,41.2546128763492,0 -123.442224167352,41.254744876352,0 -123.442346167334,41.2547458763626,0 -123.442424167315,41.254795876366,0 -123.442435167303,41.2548648763622,0 -123.442524167286,41.2548858763686,0 -123.442608167272,41.2549008763749,0 -123.442665167255,41.254956876376,0 -123.442705167229,41.2550848763708,0 -123.442812167213,41.2550908763798,0 -123.442865167193,41.2551668763792,0 -123.442830167173,41.2553328763649,0 -123.442874167164,41.2553488763676,0 -123.443421167036,41.2556578763943,0 -123.443468166946,41.2562038763613,0 -123.443524166881,41.256575876341,0 -123.443540166862,41.2566798763353,0 -123.443540166808,41.2570358763111,0 -123.443873166734,41.2572028763288,0 -123.444514166632,41.2572498763815,0 -123.44518016656,41.2570838764509,0 -123.445821166448,41.2572028764987,0 -123.44617816641,41.2571078765363,0 -123.4460121665,41.2566798765509,0 -123.446355166469,41.2565508765896,0 -123.446582166449,41.2564658766151,0 -123.446671166438,41.256448876624,0 -123.446922166409,41.2564028766491,0 -123.447224166373,41.2563468766792,0 -123.447540166318,41.2564058767028,0 -123.44798416624,41.2564898767358,0 -123.448151166255,41.2562278767681,0 -123.448317166249,41.2561088767907,0 -123.448460166235,41.2560618768064,0 -123.448935166155,41.256132876843,0 -123.449315166092,41.2561808768728,0 -123.449719166011,41.2563228768984,0 -123.450005165958,41.2563948769185,0 -123.450242165923,41.2563948769392,0 -123.450860165836,41.2563708769947,0 -123.450892165832,41.256363876998,0 -123.451079165909,41.2556868770602,0 -123.451350165885,41.2555828770909,0 -123.452029165729,41.2559518771251,0 -123.452158165721,41.2558778771414,0 -123.452437165704,41.2557188771765,0 -123.452684165681,41.2556368772036,0 -123.452572165741,41.2553488772134,0 -123.452144165961,41.2543268772455,0 -123.451740166133,41.2535898772603,0 -123.451336166276,41.2530428772622,0 -123.450837166422,41.252567877251,0 -123.450623166573,41.2517838772855,0 -123.450361166644,41.2515698772772,0 -123.449387166816,41.2513798772052,0 -123.448935166919,41.251141877182,0 -123.44832716705,41.2508668771476,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>DAVIS</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.840251999042,39.3179227296279,0 -119.840212999055,39.3178767296289,0 -119.840256999051,39.3178467296349,0 -119.840320999038,39.3178657296382,0 -119.840251999042,39.3179227296279,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_1"><name>DAVIS_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.839845999097,39.3180127295883,0 -119.839762999117,39.3179637295861,0 -119.839845999112,39.3178957295986,0 -119.839894999096,39.3179597295968,0 -119.839845999097,39.3180127295883,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_2"><name>DAVIS_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.84056699845,39.3221057292854,0 -119.840459998474,39.3220597292811,0 -119.840519998477,39.3219577292947,0 -119.840590998463,39.3219757292987,0 -119.84056699845,39.3221057292854,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_3"><name>DAVIS_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.840829998382,39.3223007292888,0 -119.840721998418,39.3221617292926,0 -119.84079399842,39.3220507293079,0 -119.840889998398,39.3221057293106,0 -119.840960998371,39.3222177293063,0 -119.840829998382,39.3223007292888,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_4"><name>DAVIS_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.830783999763,39.3243137283287,0 -119.83049799984,39.3240817283268,0 -119.830402999891,39.3238047283437,0 -119.830211999947,39.3236187283451,0 -119.830200999972,39.3234337283605,0 -119.830141000001,39.3232857283688,0 -119.83028499999,39.3231937283881,0 -119.830618999941,39.3231477284182,0 -119.830856999871,39.3233887284156,0 -119.830987999833,39.3235187284144,0 -119.830999999801,39.3237497283951,0 -119.830950999777,39.3239997283693,0 -119.830926999751,39.3242307283471,0 -119.830783999763,39.3243137283287,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_5"><name>DAVIS_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.832205999601,39.3237697284873,0 -119.832360999569,39.3238257284945,0 -119.832371999533,39.3240847284726,0 -119.832573999458,39.32440872846,0 -119.832597999416,39.3247047284359,0 -119.832668999381,39.3248907284251,0 -119.832620999369,39.3250387284083,0 -119.832428999392,39.3251027283877,0 -119.832118999443,39.3251027283636,0 -119.831952999507,39.3248157283758,0 -119.831797999564,39.3245747283849,0 -119.831977999591,39.3241397284371,0 -119.832205999601,39.3237697284873,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_6"><name>DAVIS_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.840102997922,39.3267797288391,0 -119.839971997955,39.3266867288371,0 -119.840043997957,39.3265847288516,0 -119.840127997931,39.32667772885,0 -119.840102997922,39.3267797288391,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_7"><name>DAVIS_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.835445998551,39.3278007283863,0 -119.835377998573,39.3277117283888,0 -119.835392998582,39.3276227283978,0 -119.835499998572,39.3275697284108,0 -119.835629998555,39.3275337284241,0 -119.835767998529,39.3275637284322,0 -119.835812998508,39.3276647284269,0 -119.835659998515,39.3278067284025,0 -119.835445998551,39.3278007283863,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_8"><name>DAVIS_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.834160998673,39.3284797282265,0 -119.834045998699,39.3284207282227,0 -119.834114998694,39.3283737282322,0 -119.834206998676,39.3283967282374,0 -119.834160998673,39.3284797282265,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_9"><name>DAVIS_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.837781998028,39.3288937284726,0 -119.837667998058,39.3288047284715,0 -119.837659998069,39.3287277284777,0 -119.83785199805,39.328632728501,0 -119.838080998017,39.3285977285219,0 -119.838240997979,39.3286867285266,0 -119.837781998028,39.3288937284726,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_10"><name>DAVIS_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.836740998096,39.3296797283225,0 -119.836603998128,39.329608728318,0 -119.836672998129,39.3295077283322,0 -119.836840998096,39.3295497283417,0 -119.836740998096,39.3296797283225,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_11"><name>DAVIS_ring_11</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.834786997959,39.3332047278608,0 -119.834500998019,39.3331027278474,0 -119.834309998068,39.3329637278447,0 -119.834262998098,39.3327967278557,0 -119.834166998118,39.3327597278515,0 -119.83383299818,39.3327037278303,0 -119.833690998239,39.3324257278436,0 -119.834084998218,39.3320937279035,0 -119.834646998126,39.3320937279473,0 -119.835075998023,39.3323447279588,0 -119.835254997971,39.3325207279573,0 -119.835444997904,39.3327987279477,0 -119.835491997872,39.3329927279344,0 -119.835288997865,39.3332977278918,0 -119.834786997959,39.3332047278608,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1040_12"><name>DAVIS_ring_12</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>DAVIS</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>98194093-088b-4c62-aa32-9c215853f039</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>3247.92</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Infrared Image</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2024-09-08 12:23:30</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>1040</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-119.832751001787,39.3061617300757,0 -119.832637001801,39.3061987300636,0 -119.83237000184,39.3062347300396,0 -119.83212500186,39.3063877300071,0 -119.831887001857,39.3067137299599,0 -119.831864001841,39.3068617299451,0 -119.831940001798,39.3071047299297,0 -119.832092001753,39.307258729928,0 -119.832271001719,39.3072977299385,0 -119.83242100169,39.3073297299474,0 -119.832566001656,39.3074077299518,0 -119.832443001651,39.3076027299251,0 -119.83214500169,39.3076797298952,0 -119.831870001715,39.3078327298603,0 -119.831739001698,39.3081287298241,0 -119.831731001677,39.3083067298078,0 -119.831669001654,39.3085617297806,0 -119.831684001619,39.3088157297595,0 -119.831619001603,39.3090167297368,0 -119.831714001578,39.3090947297373,0 -119.831851001533,39.3092667297329,0 -119.83207200148,39.3093967297387,0 -119.832400001399,39.3096107297455,0 -119.832492001371,39.3097117297438,0 -119.832767001314,39.3098007297574,0 -119.832973001265,39.309919729763,0 -119.833240001196,39.3101157297666,0 -119.83356000112,39.3103057297748,0 -119.833743001058,39.3105547297672,0 -119.833865001028,39.31063172977,0 -119.833987000995,39.3107327297706,0 -119.833971000979,39.3108747297569,0 -119.834032000953,39.3109987297508,0 -119.83419300092,39.3110467297591,0 -119.834269000897,39.3111297297578,0 -119.834215000898,39.3111947297478,0 -119.833971000939,39.3111827297299,0 -119.833925000936,39.311265729719,0 -119.833985000907,39.3114137297107,0 -119.834084000869,39.3115797297038,0 -119.834153000843,39.3116987296987,0 -119.834458000786,39.3117517297179,0 -119.834794000722,39.3118237297377,0 -119.834977000671,39.3119837297379,0 -119.835076000635,39.3121377297321,0 -119.835274000572,39.3123747297268,0 -119.83534300055,39.3124637297243,0 -119.835281000518,39.3127897296909,0 -119.835281000498,39.3129377296779,0 -119.835410000454,39.3131157296723,0 -119.835461000433,39.3132197296672,0 -119.835680000381,39.3133437296734,0 -119.835835000338,39.3134827296732,0 -119.835882000308,39.3136487296623,0 -119.835870000298,39.3137417296532,0 -119.836073000254,39.3138247296618,0 -119.836180000224,39.3139267296611,0 -119.836144000205,39.3141217296412,0 -119.836084000196,39.3142607296243,0 -119.836167000163,39.314417729617,0 -119.836250000126,39.314593729608,0 -119.836369000079,39.3148067295986,0 -119.836643000019,39.3149277296094,0 -119.836797999974,39.3150757296085,0 -119.836975999909,39.315353729598,0 -119.837118999866,39.3155107295953,0 -119.83735799981,39.3156407296025,0 -119.837703999754,39.3156327296302,0 -119.838169999696,39.3154937296787,0 -119.838539999651,39.3153737297181,0 -119.839113999566,39.3153097297685,0 -119.839351999517,39.3153847297804,0 -119.839434999481,39.3155607297715,0 -119.839505999433,39.3158387297526,0 -119.839505999411,39.3160137297372,0 -119.83962499936,39.3162547297254,0 -119.839588999346,39.3164117297088,0 -119.839659999313,39.3165787296997,0 -119.839850999254,39.3167917296959,0 -119.839921999228,39.3169027296917,0 -119.839777999228,39.3170877296642,0 -119.839586999243,39.3172077296388,0 -119.839478999243,39.3173467296182,0 -119.83963399921,39.3174027296253,0 -119.8395499992,39.3175877296025,0 -119.839525999184,39.3177447295869,0 -119.839549999169,39.3178287295814,0 -119.83962099913,39.3180417295682,0 -119.83965599909,39.3183097295474,0 -119.839811999074,39.3182357295661,0 -119.839990999035,39.3183097295736,0 -119.840168998978,39.3185237295687,0 -119.840215998947,39.3187087295561,0 -119.840143998917,39.319032729522,0 -119.840071998898,39.3192637294962,0 -119.839999998879,39.3195037294695,0 -119.840082998833,39.319753729454,0 -119.840129998797,39.3199767294381,0 -119.84017699876,39.3201987294223,0 -119.840236998721,39.3204297294067,0 -119.840283998683,39.32066172939,0 -119.840271998659,39.3208647293713,0 -119.84030699863,39.3210407293586,0 -119.840234998609,39.3212997293302,0 -119.840257998587,39.3214387293198,0 -119.840329998562,39.3215407293165,0 -119.840376998528,39.3217447293022,0 -119.840316998516,39.321910729283,0 -119.840327998482,39.3221607292619,0 -119.840351998452,39.3223647292459,0 -119.840315998442,39.3224847292326,0 -119.840279998424,39.3226697292135,0 -119.840218998401,39.322928729186,0 -119.840254998377,39.3230677291767,0 -119.840253998346,39.3233087291554,0 -119.84033799832,39.3234007291539,0 -119.840552998316,39.3231607291917,0 -119.840695998287,39.3232077291988,0 -119.840850998235,39.3234107291931,0 -119.840957998194,39.3235967291851,0 -119.840968998156,39.3238737291616,0 -119.841075998107,39.3241147291488,0 -119.841063998069,39.3244297291203,0 -119.841039998051,39.3245957291038,0 -119.840931998047,39.3247627290807,0 -119.840739998067,39.3248547290577,0 -119.840572998076,39.3249937290325,0 -119.840584998051,39.325169729018,0 -119.840547998037,39.3253267290013,0 -119.840344998068,39.3253447289839,0 -119.840225998062,39.3255387289576,0 -119.840177998054,39.3256597289433,0 -119.840176998027,39.3258727289245,0 -119.840140998021,39.3259647289136,0 -119.839973998053,39.3259277289038,0 -119.839805998039,39.3262517288623,0 -119.839626998056,39.3263437288403,0 -119.839602998038,39.3265097288238,0 -119.839374998049,39.3267137287881,0 -119.839255998054,39.3268247287691,0 -119.839218998029,39.3270647287452,0 -119.839218998008,39.3272317287305,0 -119.839218997997,39.3273147287233,0 -119.839277997966,39.3274817287132,0 -119.839277997948,39.327620728701,0 -119.839026997996,39.3275647286863,0 -119.838990997991,39.3276477286763,0 -119.838966997975,39.3278047286606,0 -119.838870997988,39.3278237286514,0 -119.838631998014,39.3279247286239,0 -119.838392998047,39.3279707286013,0 -119.837986998113,39.3279707285696,0 -119.837807998142,39.3279797285548,0 -119.837521998191,39.3279607285342,0 -119.837294998217,39.3280437285092,0 -119.837246998214,39.3281267284982,0 -119.837150998202,39.328339728472,0 -119.836887998245,39.3283387284516,0 -119.836720998277,39.3283017284418,0 -119.836696998305,39.3281167284562,0 -119.836601998336,39.3279967284593,0 -119.836566998365,39.327820728472,0 -119.836518998398,39.3276257284854,0 -119.836268998467,39.3274037284853,0 -119.835994998534,39.3272367284786,0 -119.835755998587,39.3271247284698,0 -119.835516998618,39.3271897284455,0 -119.835492998606,39.3273097284331,0 -119.835313998607,39.3275317283996,0 -119.835133998621,39.327651728375,0 -119.835037998625,39.3277447283594,0 -119.834858998649,39.3277807283423,0 -119.834608998705,39.3276607283333,0 -119.834525998744,39.3274657283439,0 -119.835003998709,39.3271337284104,0 -119.83524299868,39.3270597284355,0 -119.834896998743,39.3270037284134,0 -119.8346819988,39.3268367284113,0 -119.834598998839,39.3266427284219,0 -119.834419998892,39.3264567284242,0 -119.834109998933,39.3265307283935,0 -119.833906998983,39.3264007283891,0 -119.833632999051,39.3262247283832,0 -119.833334999127,39.3260117283786,0 -119.833084999231,39.3255207284022,0 -119.832882999319,39.3250947284239,0 -119.832799999374,39.324779728445,0 -119.832884999402,39.3244557284801,0 -119.833111999403,39.3241597285238,0 -119.832897999458,39.324001728521,0 -119.832874999523,39.3235297285606,0 -119.833041999519,39.3233447285898,0 -119.833257999498,39.3232347286163,0 -119.833543999471,39.3230867286516,0 -119.833866999417,39.3230967286759,0 -119.834021999411,39.322948728701,0 -119.834213999409,39.3227177287363,0 -119.834118999439,39.3226057287387,0 -119.833724999505,39.3225967287088,0 -119.833425999556,39.3225777286871,0 -119.833390999578,39.3224477286958,0 -119.833534999594,39.3221427287338,0 -119.833367999643,39.3219757287354,0 -119.833307999665,39.3218827287389,0 -119.833140999698,39.3218367287299,0 -119.832986999747,39.3216517287341,0 -119.832807999786,39.3215767287268,0 -119.832867999803,39.3213737287493,0 -119.832963999813,39.3211697287746,0 -119.832688999873,39.3210587287629,0 -119.832462999922,39.3209657287535,0 -119.832379999965,39.3207337287674,0 -119.832225000032,39.3204097287837,0 -119.832010000068,39.320409728767,0 -119.83187900006,39.3206317287373,0 -119.831783000058,39.3207707287176,0 -119.831597000085,39.3207967287008,0 -119.831625000077,39.3208257287004,0 -119.831434000067,39.3211427286577,0 -119.831334000062,39.3213087286354,0 -119.831303000039,39.3215217286142,0 -119.830752000061,39.3220537285246,0 -119.830691000051,39.3222017285068,0 -119.83050700006,39.3223677284779,0 -119.830361000059,39.3225627284494,0 -119.83009300008,39.3227347284134,0 -119.82994800009,39.3228407283928,0 -119.829734000114,39.3229237283688,0 -119.829504000141,39.3230117283432,0 -119.829305000162,39.3230947283204,0 -119.829183000163,39.3232427282979,0 -119.829068000165,39.3233727282775,0 -119.829128000129,39.323579728264,0 -119.829418000053,39.3237997282673,0 -119.829502000005,39.3240607282509,0 -119.829531999975,39.3242617282356,0 -119.829584999935,39.324498728219,0 -119.829622999903,39.3247007282042,0 -119.829590999872,39.3249787281773,0 -119.829651999838,39.3251687281654,0 -119.829795999771,39.325505728147,0 -119.829932999714,39.3257727281343,0 -119.829978999686,39.3259267281244,0 -119.83000099966,39.3261047281105,0 -119.829985999632,39.326335728089,0 -119.829969999596,39.3266377280613,0 -119.829968999581,39.3267507280513,0 -119.830129999541,39.326862728054,0 -119.830120999519,39.3270407280377,0 -119.830257999465,39.327283728027,0 -119.830502999417,39.3273497280403,0 -119.8304949994,39.3274917280272,0 -119.83057899937,39.3276157280229,0 -119.830562999352,39.3277757280076,0 -119.830439999357,39.3278887279881,0 -119.830371999358,39.327965727976,0 -119.830217999349,39.3282317279407,0 -119.830087999334,39.3285157279056,0 -119.829994999328,39.3286757278843,0 -119.829811999333,39.3288707278529,0 -119.829657999343,39.3289887278306,0 -119.829497999349,39.3291427278046,0 -119.829374999354,39.3292557277851,0 -119.829168999391,39.3292367277707,0 -119.828992999392,39.3294497277383,0 -119.828999999374,39.3295807277273,0 -119.828910999384,39.3296127277176,0 -119.828903999375,39.3296937277099,0 -119.828932999353,39.3298267277005,0 -119.829088999315,39.3299217277043,0 -119.829230999285,39.3299747277107,0 -119.829215999279,39.3300427277036,0 -119.829161999268,39.3301907276864,0 -119.829053999279,39.330247727673,0 -119.828818999319,39.3302357276557,0 -119.828627999342,39.3302997276352,0 -119.828612999319,39.3304897276173,0 -119.828626999298,39.3306407276052,0 -119.828636999281,39.330754727596,0 -119.828513999283,39.3308947275741,0 -119.82842599928,39.3310277275555,0 -119.828312999294,39.3310657275434,0 -119.828355999273,39.3311697275376,0 -119.828385999259,39.3312437275335,0 -119.828409999231,39.331429727519,0 -119.828585999191,39.3315167275251,0 -119.828683999192,39.3313857275442,0 -119.828781999181,39.3313457275554,0 -119.829056999136,39.3313457275769,0 -119.829094999115,39.3314647275694,0 -119.829078999087,39.3316957275479,0 -119.829162999063,39.3317787275471,0 -119.829304999031,39.3318437275525,0 -119.829181999026,39.332036727526,0 -119.829034999033,39.3321737275025,0 -119.828838999048,39.3323057274756,0 -119.8285899991,39.3322147274642,0 -119.828389999158,39.3320207274656,0 -119.828178999202,39.3319447274558,0 -119.828022999216,39.332031727436,0 -119.827743999265,39.3320087274163,0 -119.827587999307,39.3318827274151,0 -119.827422999339,39.3318437274057,0 -119.827290999328,39.3320927273735,0 -119.827265999302,39.3323247273512,0 -119.827253999285,39.3324727273373,0 -119.827336999255,39.3326027273324,0 -119.827443999212,39.3327967273237,0 -119.827479999174,39.3330467273046,0 -119.827216999214,39.3330647272824,0 -119.826810999269,39.3331567272427,0 -119.826785999244,39.3333787272213,0 -119.826772999204,39.3337027271918,0 -119.826868999167,39.3338697271847,0 -119.826735999106,39.3345077271183,0 -119.826689999053,39.3349787270734,0 -119.826723999031,39.3351077270647,0 -119.826664999008,39.3353587270381,0 -119.826595999,39.3355097270195,0 -119.826423999004,39.33569172699,0 -119.826394998998,39.3357787269802,0 -119.82644799897,39.3359267269713,0 -119.826344998967,39.3360817269497,0 -119.826119999009,39.3360397269358,0 -119.825919999053,39.3359487269282,0 -119.825841999091,39.3357587269388,0 -119.825817999121,39.3355577269545,0 -119.825665999142,39.33558772694,0 -119.825469999147,39.3357967269064,0 -119.825234999181,39.3358267268854,0 -119.825107999201,39.3358337268749,0 -119.824911999218,39.3359507268493,0 -119.824623999259,39.3359957268229,0 -119.824403999297,39.3359807268071,0 -119.824183999346,39.335877726799,0 -119.823943999395,39.3358057267866,0 -119.82375299942,39.3358547267673,0 -119.823566999431,39.3359987267402,0 -119.823424999438,39.3361307267175,0 -119.823233999469,39.3361307267026,0 -119.822950999522,39.3360767266853,0 -119.822661999565,39.3361067266601,0 -119.822637999585,39.3359857266689,0 -119.822446999631,39.3358717266639,0 -119.82223199967,39.3358407266499,0 -119.822094999689,39.3358677266368,0 -119.822069999662,39.3361097266136,0 -119.822259999608,39.3362887266128,0 -119.822334999578,39.3364247266067,0 -119.822448999532,39.3366377265969,0 -119.822325999524,39.3368517265685,0 -119.822209999492,39.3372417265252,0 -119.822247999466,39.3373957265147,0 -119.822109999432,39.3378347264654,0 -119.822016999399,39.3382077264254,0 -119.822038999361,39.3384737264038,0 -119.82190099936,39.3386517263774,0 -119.821465999455,39.3384727263591,0 -119.821274999493,39.3384197263489,0 -119.820930999554,39.3383777263257,0 -119.820410999642,39.3383587262868,0 -119.820166999672,39.338435726261,0 -119.820066999651,39.3387197262283,0 -119.819920999655,39.3388737262034,0 -119.819782999647,39.3391167261713,0 -119.819628999628,39.3394537261297,0 -119.819528999621,39.3396317261062,0 -119.819474999593,39.3399157260771,0 -119.819535999565,39.3400577260694,0 -119.819825999514,39.3400877260894,0 -119.820292999435,39.3401067261242,0 -119.820620999371,39.3401897261425,0 -119.820612999344,39.3404087261227,0 -119.820252999371,39.3406507260733,0 -119.819977999402,39.3407577260425,0 -119.819495999483,39.3407387260065,0 -119.819159999545,39.3406907259845,0 -119.818777999609,39.3406787259557,0 -119.818532999643,39.340719725933,0 -119.818463999643,39.3408087259198,0 -119.818593999615,39.3408617259253,0 -119.818684999587,39.3409627259236,0 -119.818462999605,39.3411047258938,0 -119.818378999604,39.3412167258774,0 -119.818362999592,39.3413297258662,0 -119.81824099961,39.3413477258551,0 -119.818095999625,39.3414117258382,0 -119.817918999634,39.3415657258109,0 -119.817903999615,39.3417317257951,0 -119.817803999625,39.3417787257832,0 -119.817689999646,39.3417607257759,0 -119.817391999695,39.3417607257526,0 -119.817306999691,39.341896725734,0 -119.817313999668,39.3420687257195,0 -119.817527999615,39.3422047257243,0 -119.817504999598,39.3423707257079,0 -119.817351999627,39.3423347256991,0 -119.81709999968,39.3422457256873,0 -119.817068999666,39.3423937256718,0 -119.817121999635,39.3425657256609,0 -119.817274999598,39.3426607256645,0 -119.817319999566,39.3428507256513,0 -119.817136999601,39.3428087256407,0 -119.816884999655,39.3427077256299,0 -119.816739999691,39.3426187256264,0 -119.816517999739,39.3425297256169,0 -119.816349999762,39.3425587256013,0 -119.816288999766,39.3426057255924,0 -119.816333999733,39.3428017255787,0 -119.816340999712,39.3429557255657,0 -119.8163339997,39.3430627255558,0 -119.816057999744,39.3430677255338,0 -119.81585199978,39.3430497255193,0 -119.815744999804,39.3430017255152,0 -119.815522999819,39.3431677254832,0 -119.815522999809,39.3432447254765,0 -119.815468999803,39.3433567254624,0 -119.815277999814,39.343510725434,0 -119.815155999846,39.3434217254323,0 -119.815117999873,39.3432557254439,0 -119.815308999854,39.3431677254666,0 -119.81549299983,39.3431147254855,0 -119.815255999897,39.3429007254858,0 -119.815080999938,39.3428057254805,0 -119.81501999996,39.3427107254841,0 -119.814783,39.3426987254667,0 -119.81466000002,39.3427047254565,0 -119.81474500002,39.3425977254726,0 -119.814913000016,39.3424147255017,0 -119.814960000033,39.3422247255221,0 -119.814794000067,39.3421697255139,0 -119.814703000079,39.3421917255049,0 -119.814440000126,39.3421627254869,0 -119.814201000172,39.3421067254732,0 -119.813903000243,39.3419397254646,0 -119.813569000302,39.3419027254418,0 -119.813449000313,39.3419667254268,0 -119.813449000287,39.3421707254089,0 -119.813520000251,39.3423557253982,0 -119.813675000211,39.3424677254005,0 -119.813866000153,39.3426807253967,0 -119.813829000134,39.3428747253768,0 -119.812023000333,39.343612725171,0 -119.811793000363,39.3436767251474,0 -119.811695000377,39.3436877251388,0 -119.811828000369,39.3435817251585,0 -119.811852000376,39.3435027251673,0 -119.811789000408,39.3433317251774,0 -119.811423000475,39.3432737251539,0 -119.811418000484,39.3432127251589,0 -119.811608000461,39.3431467251795,0 -119.811877000417,39.3431477252004,0 -119.812182000377,39.3430737252307,0 -119.812282000374,39.3429737252473,0 -119.812297000387,39.3428497252594,0 -119.812088000436,39.3427337252533,0 -119.812004000464,39.3426287252559,0 -119.811684000528,39.3425357252391,0 -119.811455000566,39.3425317252216,0 -119.811175000609,39.3425577251974,0 -119.811018000642,39.3424987251904,0 -119.81082300068,39.3424507251794,0 -119.81053100073,39.3424317251582,0 -119.810457000719,39.3426107251368,0 -119.810494000696,39.342742725128,0 -119.810713000647,39.3428477251359,0 -119.810688000637,39.3429517251248,0 -119.810444000661,39.3430737250951,0 -119.810419000647,39.3432157250807,0 -119.81041900063,39.3433477250691,0 -119.810285000648,39.3433757250562,0 -119.810200000684,39.3432057250644,0 -119.810176000731,39.3428747250917,0 -119.810104000767,39.3426857251026,0 -119.809897000816,39.3425727250964,0 -119.809727000861,39.3424397250948,0 -119.80945900094,39.3421657250979,0 -119.809411000966,39.3420237251066,0 -119.809594000963,39.3418157251392,0 -119.809327001031,39.341626725135,0 -119.809022001068,39.341730725102,0 -119.808424001157,39.3417957250496,0 -119.808180001173,39.3419837250141,0 -119.808106001148,39.3422667249835,0 -119.808215001103,39.3424747249737,0 -119.808227001074,39.3426827249564,0 -119.808129001071,39.3428337249355,0 -119.808287001035,39.3429097249411,0 -119.808250000997,39.3432497249084,0 -119.808298000954,39.3435237248881,0 -119.808590000894,39.3436187249025,0 -119.809059000838,39.3434597249531,0 -119.809441000767,39.3435207249776,0 -119.809925000688,39.3435217250153,0 -119.810174000641,39.3435707250304,0 -119.810306000602,39.3437097250285,0 -119.810337000568,39.3439277250118,0 -119.810110000583,39.3441017249788,0 -119.809471000683,39.3441317249263,0 -119.809089000746,39.3441307248965,0 -119.808542000828,39.3441907248486,0 -119.808269000862,39.3442747248199,0 -119.807957000915,39.3442557247972,0 -119.807723000941,39.3443527247704,0 -119.807660000935,39.344472724755,0 -119.807785000897,39.3446127247524,0 -119.807948000851,39.3447637247519,0 -119.807909000841,39.3448907247377,0 -119.807830000839,39.3450057247215,0 -119.807596000879,39.3449927247043,0 -119.807441000924,39.344835724706,0 -119.807160000982,39.3447447246921,0 -119.806669001056,39.3447917246496,0 -119.806606001048,39.344936724632,0 -119.806637001009,39.3451967246115,0 -119.806597000976,39.3455047245814,0 -119.806417000987,39.3456437245552,0 -119.806214000996,39.3458307245229,0 -119.806245000975,39.3459517245147,0 -119.806595000909,39.3460247245356,0 -119.806985000846,39.346013724567,0 -119.807159000811,39.3460647245761,0 -119.807578000729,39.3461687245997,0 -119.807825000643,39.3465237245878,0 -119.807900000598,39.3467747245716,0 -119.80795600053,39.3472317245359,0 -119.807953000397,39.348264724445,0 -119.807906000332,39.3488197243926,0 -119.807913000282,39.3492007243597,0 -119.807943000225,39.349599724327,0 -119.807903000172,39.3500647242831,0 -119.807902000137,39.3503307242596,0 -119.807901000088,39.3507117242261,0 -119.807884000019,39.351267724176,0 -119.807859999998,39.3514607241572,0 -119.807470000055,39.3515087241225,0 -119.807088000108,39.3515867240858,0 -119.806947000114,39.3517197240631,0 -119.80668900014,39.3518397240325,0 -119.806275000179,39.3520627239806,0 -119.806181000177,39.3521957239616,0 -119.805837000204,39.3524247239146,0 -119.805455000239,39.3526357238662,0 -119.80529800025,39.3527507238439,0 -119.805135000277,39.3527447238317,0 -119.805018000313,39.3526167238338,0 -119.804870000365,39.3523997238413,0 -119.804660000415,39.3522777238356,0 -119.80426200048,39.3522777238045,0 -119.803817000542,39.3523677237619,0 -119.80351300058,39.3524517237308,0 -119.803403000587,39.3525417237143,0 -119.803216000593,39.3527287236832,0 -119.803090000595,39.3528737236607,0 -119.80305100058,39.3530367236433,0 -119.803105000561,39.3531157236406,0 -119.803089000548,39.3532367236287,0 -119.803300000506,39.3532917236404,0 -119.803268000497,39.3534057236279,0 -119.803167000502,39.353496723612,0 -119.803205000478,39.3536297236033,0 -119.803291000442,39.3537987235952,0 -119.80326700042,39.3539987235758,0 -119.803165000399,39.3542947235418,0 -119.803125000379,39.3544997235207,0 -119.803164000345,39.3547117235051,0 -119.803327000296,39.354880723503,0 -119.803381000272,39.3549957234971,0 -119.803443000231,39.3552377234807,0 -119.803575000187,39.3554077234761,0 -119.80376200013,39.3556137234726,0 -119.803854000068,39.355975723448,0 -119.803916000034,39.3561637234364,0 -119.804071999985,39.3563387234332,0 -119.804421999898,39.3565697234403,0 -119.804429999881,39.3566907234303,0 -119.804647999822,39.3568717234314,0 -119.804787999777,39.3570417234274,0 -119.804903999738,39.3571987234227,0 -119.805075999698,39.3572897234282,0 -119.805176999676,39.3573317234324,0 -119.805222999639,39.3575617234158,0 -119.805276999592,39.3578517233945,0 -119.805401999565,39.3579067233995,0 -119.805549999523,39.3580397233994,0 -119.805666999509,39.3580037234117,0 -119.805986999458,39.3579927234376,0 -119.806165999407,39.3581617234368,0 -119.806234999362,39.3584157234199,0 -119.806381999276,39.3588937233894,0 -119.806707999153,39.3594377233671,0 -119.806808999103,39.3596917233527,0 -119.806839999066,39.3599397233334,0 -119.806799999048,39.3601277233137,0 -119.80667499905,39.3602727232913,0 -119.806853999004,39.3603997232941,0 -119.806946998976,39.3604967232929,0 -119.806954998959,39.360616723283,0 -119.806821998965,39.3607437232614,0 -119.806501999004,39.3608457232275,0 -119.80618899904,39.3609607231929,0 -119.806110999048,39.3609967231837,0 -119.806204999015,39.3611357231788,0 -119.806086999022,39.3612327231611,0 -119.805899999048,39.3612627231439,0 -119.805812999049,39.3613697231277,0 -119.805847999029,39.361476723121,0 -119.805544999077,39.3614897230962,0 -119.805501999066,39.3616297230806,0 -119.805518999043,39.3617837230684,0 -119.805595999015,39.3619047230638,0 -119.805500999019,39.3619917230487,0 -119.805344999038,39.3620447230319,0 -119.805318999021,39.3622057230157,0 -119.805413999,39.3622457230196,0 -119.80529299901,39.3623257230032,0 -119.805093999037,39.3623657229841,0 -119.804894999074,39.3623317229716,0 -119.804747999091,39.3623847229554,0 -119.804721999063,39.3626327229316,0 -119.804522999084,39.3627257229079,0 -119.804357999096,39.362839722885,0 -119.804158999109,39.362993722856,0 -119.80426299908,39.3630807228565,0 -119.804356999022,39.3634147228345,0 -119.80420099903,39.3635487228105,0 -119.803690999093,39.3637017227573,0 -119.803301999148,39.3637747227205,0 -119.802636999272,39.3636537226791,0 -119.802299999325,39.3636667226517,0 -119.801608999452,39.3635647226066,0 -119.801133999524,39.3636037225661,0 -119.800779999574,39.3636707225326,0 -119.800329999638,39.363743722491,0 -119.80029799964,39.3637677224864,0 -119.80026899965,39.3637277224877,0 -119.79982999975,39.3635087224726,0 -119.799536999822,39.3633267224657,0 -119.799320999855,39.3633397224477,0 -119.799078999878,39.3634667224176,0 -119.798956999872,39.3636677223904,0 -119.799024999821,39.3639757223687,0 -119.799024999799,39.3641497223534,0 -119.798937999775,39.3644437223208,0 -119.798807999772,39.3646247222948,0 -119.798582999794,39.3647447222667,0 -119.79840999983,39.3646837222585,0 -119.798142999887,39.3645827222465,0 -119.798246999905,39.3643087222787,0 -119.798039999941,39.3642947222638,0 -119.797822999957,39.3644417222339,0 -119.797744999949,39.3646027222137,0 -119.797718999935,39.3647427221993,0 -119.79775299991,39.3648967221885,0 -119.797769999892,39.3650107221798,0 -119.797708999877,39.365204722158,0 -119.797699999863,39.3653247221468,0 -119.797655999851,39.3654727221304,0 -119.797560999843,39.3656527221071,0 -119.797525999826,39.3658267220891,0 -119.797248999863,39.3658937220616,0 -119.796928999896,39.3660467220232,0 -119.796808999926,39.3659597220214,0 -119.796834999937,39.3658457220335,0 -119.796783999977,39.3656047220506,0 -119.796819000006,39.3653367220769,0 -119.796906000019,39.3651227221025,0 -119.796828000046,39.3650157221058,0 -119.796716000079,39.364901722107,0 -119.796544000117,39.3648277221001,0 -119.796492000116,39.3648947220901,0 -119.796457000096,39.3650957220698,0 -119.796465000077,39.3652357220581,0 -119.796560000051,39.365309722059,0 -119.796551000036,39.3654367220472,0 -119.79630900008,39.3654027220313,0 -119.796196000082,39.3655297220113,0 -119.796265000058,39.3656307220078,0 -119.79637700002,39.365784722003,0 -119.796308000017,39.3658917219883,0 -119.796315999995,39.3660527219748,0 -119.796246999997,39.366125721963,0 -119.796015000025,39.3662027219381,0 -119.796006000032,39.3661607219411,0 -119.795890000055,39.3661307219346,0 -119.795735000078,39.3661427219215,0 -119.795664000087,39.3661687219136,0 -119.795630000079,39.3662717219019,0 -119.79558500007,39.3663997218872,0 -119.795480000089,39.3663867218801,0 -119.795475000104,39.3662707218899,0 -119.795332000133,39.3662327218821,0 -119.795210000167,39.366124721882,0 -119.795122000201,39.3659707218887,0 -119.795079000241,39.3657177219075,0 -119.795040000268,39.3655547219188,0 -119.795019000289,39.3654217219288,0 -119.794994000301,39.3653647219319,0 -119.79493100033,39.36521672194,0 -119.794992000343,39.3650407219602,0 -119.794898000365,39.3649897219573,0 -119.794854000363,39.3650577219479,0 -119.794743000382,39.3650537219396,0 -119.794655000405,39.3649887219384,0 -119.794528000414,39.3650787219206,0 -119.794506000413,39.365110721916,0 -119.794484000418,39.3650987219154,0 -119.794450000415,39.3651647219069,0 -119.794245000432,39.3652967218793,0 -119.794207000452,39.3651897218857,0 -119.794196000465,39.3650997218928,0 -119.79406900048,39.3651467218787,0 -119.793969000473,39.3653257218552,0 -119.793886000485,39.3653387218476,0 -119.793891000494,39.3652657218544,0 -119.793847000506,39.3652277218543,0 -119.793792000506,39.3652997218437,0 -119.793609000521,39.3654117218195,0 -119.793365000527,39.3656717217777,0 -119.79318700053,39.3658727217461,0 -119.793071000534,39.3659887217269,0 -119.793143000505,39.3661257217205,0 -119.792993000506,39.3663057216929,0 -119.792854000504,39.3664977216652,0 -119.792721000507,39.366643721642,0 -119.792698000494,39.366771721629,0 -119.792527000506,39.3668957216047,0 -119.792405000508,39.3670327215832,0 -119.79229900052,39.3670737215713,0 -119.792277000514,39.3671477215631,0 -119.792183000514,39.3672677215452,0 -119.792122000508,39.3673877215299,0 -119.792293000471,39.3674567215372,0 -119.792309000462,39.367507721534,0 -119.792298000438,39.3677087215155,0 -119.792291000404,39.3679787214912,0 -119.792241000384,39.3681977214681,0 -119.792130000378,39.3683817214433,0 -119.792130000364,39.3684927214335,0 -119.792190000347,39.3685417214339,0 -119.792293000326,39.3685747214391,0 -119.792445000294,39.3686297214461,0 -119.792448000279,39.3687447214363,0 -119.792366000277,39.3688627214195,0 -119.79232000027,39.3689777214058,0 -119.79229100026,39.3690897213937,0 -119.792323000246,39.3691587213901,0 -119.792319000231,39.3692767213795,0 -119.792298000216,39.3694157213656,0 -119.792244000214,39.3695037213537,0 -119.792166000213,39.3696077213385,0 -119.79207000021,39.369755721318,0 -119.791932000219,39.3698537212986,0 -119.791829000211,39.3700457212737,0 -119.791818000202,39.3701337212651,0 -119.791842000189,39.3702047212608,0 -119.791892000164,39.3703287212538,0 -119.791994000136,39.370416721254,0 -119.791923000142,39.3704657212442,0 -119.791792000159,39.3704977212311,0 -119.791686000164,39.3705907212147,0 -119.791519000174,39.3707257211898,0 -119.791402000194,39.3707197211812,0 -119.791300000213,39.3706977211751,0 -119.791212000247,39.3705517211811,0 -119.791237000275,39.3703057212046,0 -119.791255000298,39.3700997212241,0 -119.791068000331,39.3700807212112,0 -119.791001000357,39.3699677212158,0 -119.790881000398,39.3698007212211,0 -119.790860000421,39.3696497212327,0 -119.790878000433,39.3695367212441,0 -119.790914000441,39.3694307212562,0 -119.791003000446,39.3692797212764,0 -119.791131000449,39.3690957213025,0 -119.791128000472,39.3689177213179,0 -119.791241000473,39.3687727213395,0 -119.791418000449,39.3687317213569,0 -119.791507000453,39.3685897213763,0 -119.791575000459,39.3684557213934,0 -119.791472000478,39.3684417213866,0 -119.791345000501,39.3684197213786,0 -119.791228000513,39.3684767213645,0 -119.791009000543,39.3685227213433,0 -119.790938000551,39.3685507213353,0 -119.790909000541,39.3686627213232,0 -119.790845000545,39.3687147213136,0 -119.790732000561,39.3687337213031,0 -119.79065800057,39.3687587212952,0 -119.790611000563,39.3688677212819,0 -119.790540000565,39.3689467212694,0 -119.790420000579,39.3689857212566,0 -119.790303000594,39.3690237212441,0 -119.790066000628,39.3690587212226,0 -119.790041000623,39.3691277212146,0 -119.789934000633,39.3691897212008,0 -119.789916000622,39.3692917211904,0 -119.789884000614,39.369392721179,0 -119.789718000638,39.3694197211637,0 -119.789573000658,39.36944672115,0 -119.789459000653,39.3696277211252,0 -119.789370000665,39.3696547211159,0 -119.789197000697,39.369624721105,0 -119.78907000072,39.3696077210965,0 -119.789070000707,39.3697097210876,0 -119.788900000731,39.3697367210719,0 -119.788769000752,39.3697367210617,0 -119.788574000786,39.3697227210477,0 -119.788507000799,39.369705721044,0 -119.788444000829,39.369557721052,0 -119.78848000085,39.3693437210736,0 -119.788469000869,39.3692127210843,0 -119.788530000875,39.3690947210994,0 -119.788626000881,39.3689277211216,0 -119.788644000896,39.3687847211355,0 -119.788648000921,39.3685877211531,0 -119.788723000948,39.3682857211855,0 -119.788780000957,39.3681467212022,0 -119.788926000949,39.3680207212246,0 -119.789093000927,39.3679777212414,0 -119.788972000988,39.3676637212596,0 -119.788730001082,39.3672447212774,0 -119.788528001124,39.3671707212682,0 -119.788460001118,39.3673067212509,0 -119.788299001162,39.3671707212503,0 -119.788354001195,39.366846721283,0 -119.788518001251,39.3662087213518,0 -119.788505001298,39.3658637213811,0 -119.788803001296,39.3654987214364,0 -119.78920900128,39.3651117215021,0 -119.789304001302,39.3648197215352,0 -119.789602001277,39.364642721574,0 -119.789738001299,39.3642977216149,0 -119.789766001368,39.3637327216667,0 -119.789591001413,39.3636067216641,0 -119.78942900143,39.363679721645,0 -119.789265001458,39.363671721633,0 -119.789162001514,39.363362721652,0 -119.789249001523,39.363189721674,0 -119.78908500157,39.3630347216748,0 -119.789034001607,39.3628137216902,0 -119.788689001669,39.3627667216674,0 -119.788456001711,39.3627397216516,0 -119.788370001737,39.3626457216531,0 -119.788448001762,39.3623577216845,0 -119.788604001772,39.3620777217213,0 -119.788493001821,39.3618427217333,0 -119.788623001824,39.3616557217598,0 -119.788727001842,39.3613877217915,0 -119.788832001876,39.3609867218349,0 -119.789014001877,39.3607527218696,0 -119.789023001895,39.3606057218833,0 -119.788626001983,39.3604237218682,0 -119.788376002014,39.3604977218422,0 -119.788194002019,39.360690721811,0 -119.788020002006,39.3610117217693,0 -119.787925002003,39.361158721749,0 -119.787958001956,39.3614737217239,0 -119.787837001947,39.361694721695,0 -119.787699001979,39.3616277216901,0 -119.787613002026,39.3613727217058,0 -119.787372002082,39.3612447216982,0 -119.786940002154,39.3612307216657,0 -119.786646002196,39.3612837216381,0 -119.786438002189,39.3615987215942,0 -119.786428002166,39.361785721577,0 -119.786290002165,39.3619727215498,0 -119.786194002164,39.3620997215311,0 -119.786531002096,39.3622007215486,0 -119.78684200204,39.3622347215699,0 -119.787109001983,39.3623427215812,0 -119.78719500196,39.3624097215821,0 -119.787100001956,39.3625627215612,0 -119.787272001913,39.3626707215652,0 -119.787702001794,39.3630527215652,0 -119.787427001836,39.3630687215423,0 -119.786985001915,39.3630187215122,0 -119.786647001956,39.3631327214758,0 -119.786437002018,39.3629197214781,0 -119.786374002079,39.3625277215076,0 -119.786016002157,39.3623797214926,0 -119.785826002173,39.3624937214678,0 -119.78525700226,39.3625417214191,0 -119.784687002343,39.3626227213675,0 -119.784497002342,39.3628677213311,0 -119.784011002407,39.3629807212832,0 -119.783568002465,39.3630947212386,0 -119.783273002528,39.3629797212257,0 -119.783527002512,39.3627837212627,0 -119.783507002562,39.3624247212927,0 -119.783993002539,39.3619837213694,0 -119.784748002485,39.3614487214753,0 -119.78498100252,39.3608867215429,0 -119.78458700265,39.360375721557,0 -119.784490002736,39.3598397215965,0 -119.784722002777,39.3592267216685,0 -119.785019002768,39.3589217217185,0 -119.786516002628,39.3581117219065,0 -119.786909002612,39.3577357219702,0 -119.787112002616,39.3574537220108,0 -119.78723400262,39.3572657220369,0 -119.787531002582,39.3571827220674,0 -119.787733002526,39.3573607220675,0 -119.788003002468,39.3574657220794,0 -119.788246002444,39.3573507221084,0 -119.788597002378,39.3574147221302,0 -119.788774002407,39.3569647221836,0 -119.789017002397,39.3567357222227,0 -119.7893690024,39.3562657222914,0 -119.789499002393,39.3561567223112,0 -119.789278002441,39.3560697223015,0 -119.790104002418,39.3552027224422,0 -119.790667002415,39.3545147225466,0 -119.790537002545,39.3536737226103,0 -119.790606002585,39.3532767226505,0 -119.790377002654,39.3530357226538,0 -119.790432002679,39.3527747226811,0 -119.790691002774,39.3517087227949,0 -119.791181002844,39.3505487229351,0 -119.791777002881,39.3495137230725,0 -119.792076002906,39.3489397231463,0 -119.791199003055,39.3488967230816,0 -119.790673003143,39.3488847230416,0 -119.790119003224,39.348956722992,0 -119.78956600331,39.3489977229452,0 -119.789039003396,39.3489967229042,0 -119.789324003405,39.348568722964,0 -119.789717003415,39.3479947230451,0 -119.79019000336,39.3478177230976,0 -119.79060800328,39.3479127231219,0 -119.791108003222,39.3477247231774,0 -119.791499003165,39.3476737232124,0 -119.792550003024,39.3474337233156,0 -119.792887002972,39.3474077233441,0 -119.79314600292,39.3474817233578,0 -119.793431002868,39.3475217233766,0 -119.793311002915,39.3473147233854,0 -119.793302002932,39.3471937233953,0 -119.793502002933,39.3469337234338,0 -119.793787002916,39.346706723476,0 -119.793995002887,39.3466667234957,0 -119.794184002841,39.3467807235004,0 -119.794383002807,39.3467947235148,0 -119.794841002744,39.3467017235587,0 -119.795057002717,39.3466347235814,0 -119.795239002716,39.346414723615,0 -119.795369002713,39.3462737236375,0 -119.79550700268,39.3463547236411,0 -119.79568000265,39.346361723654,0 -119.795904002623,39.346287723678,0 -119.796103002571,39.3464427236799,0 -119.79644800252,39.346395723711,0 -119.796707002479,39.3463897237317,0 -119.796906002436,39.3464707237402,0 -119.797269002391,39.3463577237784,0 -119.797347002401,39.3461837237998,0 -119.797270002451,39.345895723819,0 -119.7970200025,39.3458287238054,0 -119.796950002486,39.3460287237824,0 -119.796708002516,39.3461017237571,0 -119.796457002546,39.3461887237299,0 -119.796406002567,39.3460887237347,0 -119.79649200257,39.3459607237526,0 -119.796700002556,39.3458007237829,0 -119.796554002587,39.3457467237763,0 -119.796286002619,39.3458407237471,0 -119.796407002613,39.3457337237659,0 -119.796321002643,39.3456067237704,0 -119.796295002671,39.3454257237843,0 -119.796486002655,39.3453057238097,0 -119.796598002659,39.3451377238332,0 -119.7964870027,39.3449577238403,0 -119.796279002727,39.3450167238189,0 -119.79606300275,39.3451107237938,0 -119.795968002784,39.3449627237994,0 -119.796336002756,39.3447177238496,0 -119.797181002694,39.3441317239671,0 -119.797856002632,39.3437567240527,0 -119.800200002402,39.34256772434,0 -119.800475002385,39.3423557243801,0 -119.800181002488,39.3419307243945,0 -119.799718002598,39.3416677243815,0 -119.798978002731,39.3415687243324,0 -119.798479002819,39.3415257242973,0 -119.798264002876,39.3413577242952,0 -119.798061002918,39.3412847242858,0 -119.798075002932,39.341158724298,0 -119.797914002975,39.3410327242965,0 -119.797819002971,39.3411797242761,0 -119.797644003008,39.341116724268,0 -119.797334003077,39.3409797242559,0 -119.797185003109,39.3409167242498,0 -119.797240003126,39.3407187242715,0 -119.797496003084,39.3407187242914,0 -119.797632003084,39.3405417243176,0 -119.797430003143,39.3403417243194,0 -119.797320003173,39.3402537243186,0 -119.797321003209,39.3399727243433,0 -119.797494003189,39.3399057243627,0 -119.797503003203,39.3397927243733,0 -119.797382003231,39.3397247243699,0 -119.797132003272,39.3397247243504,0 -119.796838003325,39.339683724331,0 -119.796777003315,39.3398377243127,0 -119.796768003293,39.3400257242955,0 -119.796587003318,39.3400587242785,0 -119.796258003369,39.3400777242511,0 -119.795887003423,39.3401307242175,0 -119.795593003468,39.3401567241923,0 -119.795360003523,39.3400227241859,0 -119.795084003573,39.3399887241673,0 -119.79492900359,39.34004872415,0 -119.794514003676,39.3399147241294,0 -119.794187003741,39.3398267241116,0 -119.793954003791,39.3397327241017,0 -119.79436000373,39.3396867241374,0 -119.79474800367,39.33966072417,0 -119.795033003631,39.3396007241975,0 -119.795267003613,39.3394477242292,0 -119.795439003574,39.3395347242349,0 -119.795932003492,39.3395417242728,0 -119.796796003367,39.3394167243512,0 -119.797383003279,39.3393507244028,0 -119.79740900326,39.3394637243949,0 -119.797737003205,39.3394777244193,0 -119.798255003143,39.3392987244754,0 -119.798886003051,39.3392187245317,0 -119.798783003112,39.3388707245542,0 -119.798706003166,39.3385557245759,0 -119.798430003217,39.3385087245585,0 -119.798694003199,39.3383167245959,0 -119.798863003205,39.338055724632,0 -119.798758003247,39.3378597246411,0 -119.798780003282,39.3375657246686,0 -119.798570003354,39.3372707246781,0 -119.798423003421,39.3369437246954,0 -119.798445003451,39.33668272472,0 -119.798846003389,39.3366507247541,0 -119.799077003328,39.3368307247563,0 -119.799372003263,39.3369617247678,0 -119.799962003162,39.3369957248109,0 -119.800363003092,39.3370287248393,0 -119.800953002985,39.337111724878,0 -119.801269002912,39.3372757248883,0 -119.801437002853,39.3375207248799,0 -119.801393002812,39.3378967248434,0 -119.801795002775,39.3376687248948,0 -119.80221700274,39.3374077249506,0 -119.802302002785,39.3369507249974,0 -119.802683002767,39.3366077250573,0 -119.803021002752,39.3362977251109,0 -119.803486002739,39.3358087251901,0 -119.803824002703,39.3356617252294,0 -119.804141002723,39.3351067253029,0 -119.80454300271,39.3346987253701,0 -119.805049002636,39.3346347254152,0 -119.805332002631,39.3343107254657,0 -119.805428002661,39.3339627255038,0 -119.805507002711,39.3334737255529,0 -119.805336002833,39.3327447256036,0 -119.805651002822,39.3324297256558,0 -119.806277002769,39.3320477257382,0 -119.807068002653,39.3319467258088,0 -119.807726002512,39.3322027258376,0 -119.807891002505,39.3320497258639,0 -119.807871002642,39.3310207259527,0 -119.807780002848,39.3295357260761,0 -119.807809002938,39.3288037261426,0 -119.8081200029,39.3287097261752,0 -119.808579002841,39.3285857262219,0 -119.80928100275,39.3283977262931,0 -119.809753002682,39.3283257263363,0 -119.810184002582,39.3285567263496,0 -119.81035900253,39.3287347263476,0 -119.810331002493,39.329058726317,0 -119.810290002458,39.3293827262853,0 -119.810628002425,39.3292057263272,0 -119.810749002385,39.3293627263228,0 -119.811113002318,39.3294257263457,0 -119.81154500225,39.3294057263812,0 -119.811976002162,39.3295417264028,0 -119.812191002106,39.3296997264057,0 -119.812098002159,39.3294067264242,0 -119.81182900223,39.3291967264217,0 -119.811924002247,39.3289457264511,0 -119.812288002212,39.3287587264959,0 -119.812451002224,39.3284557265353,0 -119.812830002215,39.3280477266006,0 -119.813439002211,39.3273067267132,0 -119.813763002203,39.3269617267688,0 -119.814115002179,39.3267007268192,0 -119.814331002186,39.3263777268644,0 -119.814374002277,39.3256137269348,0 -119.814389002334,39.3251537269764,0 -119.814362002381,39.3248297270028,0 -119.814552002373,39.3246517270332,0 -119.814823002386,39.3242027270938,0 -119.814743002478,39.3235967271408,0 -119.814798002505,39.3233137271699,0 -119.815149002478,39.3230847272174,0 -119.815459002401,39.3232837272241,0 -119.815688002356,39.3233467272364,0 -119.815999002324,39.3232007272735,0 -119.816025002276,39.3235357272461,0 -119.816119002239,39.3237027272387,0 -119.816430002214,39.3235047272804,0 -119.816714002216,39.3231287273356,0 -119.816796002242,39.3228257273686,0 -119.816445002332,39.3225737273633,0 -119.816136002416,39.3223117273622,0 -119.81620300242,39.3221967273776,0 -119.816094002444,39.3221477273734,0 -119.816962002456,39.3209567275457,0 -119.817300002444,39.3206227276014,0 -119.817837002477,39.3196857277255,0 -119.818271002499,39.3189677278224,0 -119.818222002521,39.318860727828,0 -119.818288002532,39.3186937278478,0 -119.818388002536,39.3185357278695,0 -119.818272002562,39.3184797278654,0 -119.818112002583,39.3185177278495,0 -119.817974002609,39.3184917278411,0 -119.817853002645,39.3183717278422,0 -119.817836002659,39.3182817278488,0 -119.817985002631,39.3183077278581,0 -119.817997002649,39.3181577278722,0 -119.817842002683,39.3180897278661,0 -119.81798600267,39.3180077278845,0 -119.818130002655,39.3179437279014,0 -119.818367002606,39.318021727913,0 -119.81856100257,39.3180547279252,0 -119.818730002555,39.317956727947,0 -119.819005002573,39.3174667280115,0 -119.819448002524,39.3172877280617,0 -119.819786002515,39.3169287281196,0 -119.8194500026,39.3166997281135,0 -119.819387002644,39.3164377281316,0 -119.819176002687,39.3163727281209,0 -119.818713002779,39.3162407280964,0 -119.818735002803,39.3160287281167,0 -119.818525002875,39.3157347281262,0 -119.81846200292,39.3154727281443,0 -119.818420002956,39.3152437281611,0 -119.817662003076,39.3152757280993,0 -119.817451003136,39.3150787281001,0 -119.817030003219,39.3149637280774,0 -119.816567003308,39.3148657280499,0 -119.815977003409,39.3148317280069,0 -119.815555003461,39.3149617279626,0 -119.815302003483,39.31510872793,0 -119.815576003436,39.3151257279498,0 -119.815912003362,39.3152727279631,0 -119.815848003333,39.3155827279309,0 -119.816101003266,39.3157797279333,0 -119.81584700325,39.3162207278748,0 -119.815530003266,39.3164977278257,0 -119.815150003322,39.3165457277919,0 -119.814939003308,39.3169217277424,0 -119.815002003252,39.3172807277158,0 -119.813302003525,39.3173197275798,0 -119.810847003921,39.3173577273851,0 -119.810510003957,39.317503727346,0 -119.81000800393,39.3183497272326,0 -119.809965003913,39.3185377272127,0 -119.809895003941,39.3184047272189,0 -119.809358003907,39.3193527270938,0 -119.808789003885,39.3202407269714,0 -119.808443003877,39.3207437269002,0 -119.808387003862,39.32092372688,0 -119.808292003848,39.321158726852,0 -119.808198003828,39.3214327268206,0 -119.80821400379,39.3217067267977,0 -119.808047003795,39.3218777267697,0 -119.807881003798,39.3220617267406,0 -119.807842003795,39.3221337267312,0 -119.807833003773,39.3223207267141,0 -119.80779800375,39.3225357266925,0 -119.807763003736,39.3226957266757,0 -119.807685003728,39.3228497266561,0 -119.807417003775,39.322828726637,0 -119.807382003757,39.3230097266184,0 -119.807365003747,39.3231097266083,0 -119.807296003747,39.3231967265952,0 -119.807416003718,39.3232707265981,0 -119.807174003752,39.3233107265757,0 -119.807045003773,39.3233167265651,0 -119.806907003782,39.3234177265455,0 -119.806759003776,39.3236517265134,0 -119.806664003774,39.3237917264937,0 -119.806395003762,39.3242197264351,0 -119.806205003766,39.3244337264015,0 -119.806084003791,39.3243867263962,0 -119.805903003841,39.3242317263957,0 -119.805592003911,39.3240847263843,0 -119.8055660039,39.3242047263718,0 -119.805592003874,39.3243717263591,0 -119.805531003864,39.3245257263409,0 -119.805332003887,39.3245997263188,0 -119.805161003904,39.3246877262978,0 -119.805007003933,39.3246527262888,0 -119.804205004065,39.3246477262267,0 -119.803067004251,39.3246457261382,0 -119.801575004492,39.3246727260195,0 -119.800768004625,39.324667725957,0 -119.800619004644,39.324705725942,0 -119.800602004638,39.3247747259346,0 -119.800619004623,39.324864725928,0 -119.800574004615,39.3249837259141,0 -119.800420004651,39.3249067259088,0 -119.80035900466,39.3249127259035,0 -119.800292004655,39.3250377258873,0 -119.800291004625,39.3252677258671,0 -119.800088004615,39.3256017258219,0 -119.799925004611,39.3258417257881,0 -119.799763004607,39.3260717257552,0 -119.799708004593,39.3262497257353,0 -119.799694004569,39.3264587257158,0 -119.799451004586,39.3266357256813,0 -119.799369004577,39.3268037256602,0 -119.79930100456,39.3270227256356,0 -119.798909004569,39.3274507255674,0 -119.798720004586,39.3275547255435,0 -119.798734004608,39.3273667255612,0 -119.798884004657,39.3268027256224,0 -119.798911004678,39.326603725642,0 -119.798722004712,39.3265827256291,0 -119.798885004707,39.3264157256565,0 -119.798966004722,39.3261957256822,0 -119.799034004736,39.3259977257049,0 -119.79914200472,39.3259877257142,0 -119.799197004742,39.3257467257397,0 -119.799332004754,39.3254857257731,0 -119.799171004821,39.3251717257882,0 -119.799146004877,39.3247637258221,0 -119.799295004891,39.3244707258594,0 -119.799444004916,39.324084725905,0 -119.799634004937,39.3236877259547,0 -119.799595004985,39.3233637259801,0 -119.799379005037,39.3232377259744,0 -119.799176005056,39.3233417259494,0 -119.799002005111,39.3231427259533,0 -119.798786005174,39.3229227259558,0 -119.798760005222,39.3225877259832,0 -119.798909005226,39.3223687260141,0 -119.798977005244,39.3221387260396,0 -119.799167005243,39.3219087260746,0 -119.799100005278,39.3217207260859,0 -119.799249005286,39.3214697261196,0 -119.798993005351,39.3212917261153,0 -119.798980005367,39.3211867261235,0 -119.799331005312,39.3211667261526,0 -119.799507005303,39.3210107261801,0 -119.799534005329,39.3207797262025,0 -119.799373005378,39.3206017262056,0 -119.799616005341,39.3205817262263,0 -119.7999670053,39.3204567262646,0 -119.800353005243,39.320408726299,0 -119.800586005202,39.3204287263154,0 -119.800751005198,39.320248726344,0 -119.800950005186,39.3200947263731,0 -119.801046005225,39.3196667264182,0 -119.80092500525,39.3196267264123,0 -119.800830005247,39.3197737263919,0 -119.800648005266,39.3198597263702,0 -119.800415005296,39.3199197263467,0 -119.800139005362,39.3197587263394,0 -119.7999840054,39.3196587263361,0 -119.799907005428,39.3195377263407,0 -119.800123005422,39.319316726377,0 -119.800227005425,39.3191567263992,0 -119.800176005459,39.3189627264123,0 -119.800365005462,39.31870072645,0 -119.800542005441,39.3186367264694,0 -119.800851005392,39.3186237264947,0 -119.80091200539,39.318559726505,0 -119.800835005416,39.3184567265081,0 -119.800830005459,39.3181317265363,0 -119.800913005456,39.31804972655,0 -119.801107005431,39.3179987265696,0 -119.8014000054,39.3178707266037,0 -119.801550005386,39.3177857266228,0 -119.801400005413,39.3177677266127,0 -119.801251005437,39.3177727266007,0 -119.801246005455,39.3176347266124,0 -119.801121005481,39.3175917266064,0 -119.800862005539,39.3174717265968,0 -119.800880005581,39.3171237266288,0 -119.800855005633,39.3167547266593,0 -119.801003005641,39.3165007266931,0 -119.801150005648,39.3162607267257,0 -119.801220005657,39.3161067267447,0 -119.801134005688,39.3159727267498,0 -119.800943005708,39.3160597267272,0 -119.800908005677,39.3163467266993,0 -119.800822005681,39.3164207266861,0 -119.800848005707,39.3161867267087,0 -119.800728005744,39.3160587267106,0 -119.800711005767,39.3158987267233,0 -119.80084100577,39.31571072675,0 -119.800844005839,39.3151717267976,0 -119.800839005869,39.3149487268168,0 -119.800983005858,39.314846726837,0 -119.801071005838,39.3148937268397,0 -119.80119300581,39.3149577268436,0 -119.801337005809,39.3147827268702,0 -119.801365005828,39.3145947268889,0 -119.80127700585,39.314538726887,0 -119.801255005868,39.3144267268951,0 -119.801311005891,39.3141787269213,0 -119.801189005921,39.3141017269185,0 -119.801007005936,39.3142127268946,0 -119.800852005953,39.3142807268765,0 -119.800804005979,39.3141377268854,0 -119.800786006109,39.3131577269701,0 -119.800575006145,39.3131407269552,0 -119.800343006166,39.3132717269256,0 -119.800047006181,39.3135327268796,0 -119.79990000622,39.3134177268782,0 -119.800365006235,39.3127157269762,0 -119.800745006204,39.3124717270273,0 -119.801188006138,39.3124227270661,0 -119.801757006045,39.3124237271103,0 -119.801904005995,39.3126207271045,0 -119.802137005987,39.3123917271427,0 -119.802412006003,39.3119187272058,0 -119.802856005991,39.3114457272819,0 -119.803341005944,39.3112007273413,0 -119.803700005927,39.3108747273979,0 -119.803996005929,39.3104837274554,0 -119.804355005881,39.3104017274905,0 -119.804440005905,39.310107727523,0 -119.805346005761,39.3100767275963,0 -119.805524005729,39.310101727608,0 -119.805494005741,39.3100447276107,0 -119.806866005647,39.3090337278065,0 -119.807795005571,39.3084467279305,0 -119.808429005539,39.3078927280285,0 -119.808893005522,39.3074357281049,0 -119.809252005501,39.3071417281587,0 -119.809590005456,39.3070607281921,0 -119.810561005371,39.3064907283179,0 -119.81201100526,39.3055117285169,0 -119.812497005224,39.3051777285841,0 -119.813402005154,39.3045727287078,0 -119.814036005077,39.3043647287755,0 -119.814455005018,39.3042917288145,0 -119.815022004947,39.3041257288733,0 -119.815831004823,39.3040637289418,0 -119.816115004815,39.3037607289905,0 -119.816790004735,39.3035317290632,0 -119.817505004627,39.3034597291253,0 -119.81819300454,39.3032627291962,0 -119.818625004495,39.3030647292472,0 -119.8193540044,39.3028767293205,0 -119.820460004254,39.3026067294304,0 -119.821661004091,39.3023467295468,0 -119.822241004007,39.3022647295992,0 -119.822349004004,39.3021497296177,0 -119.822404004018,39.3019717296377,0 -119.822705003984,39.3018547296714,0 -119.823097003924,39.3018247297045,0 -119.823307003879,39.3019107297133,0 -119.823510003836,39.3019837297228,0 -119.823981003752,39.3020367297548,0 -119.824589003674,39.3018707298167,0 -119.825801003405,39.3024267298623,0 -119.826178003309,39.3026887298687,0 -119.826635003158,39.3032847298519,0 -119.827416002947,39.3039237298566,0 -119.827551002933,39.3038617298726,0 -119.828065002941,39.3031507299751,0 -119.828471002934,39.302691730047,0 -119.828849002906,39.3024307300994,0 -119.829103002875,39.302352730126,0 -119.829186002864,39.3023267301348,0 -119.829274002848,39.3023407301404,0 -119.829523002802,39.3023797301564,0 -119.829756002727,39.3026727301488,0 -119.830210002638,39.302787730174,0 -119.830668002544,39.3029347301968,0 -119.831288002421,39.3031037302303,0 -119.831800002307,39.30333373025,0 -119.832110002224,39.303585730252,0 -119.832501002151,39.303658730276,0 -119.833080002036,39.3038167303073,0 -119.833646001917,39.3040167303338,0 -119.833861001832,39.3044037303166,0 -119.833928001757,39.3049057302777,0 -119.833509001787,39.3051977302194,0 -119.833292001776,39.3055637301704,0 -119.833077001816,39.3055217301573,0 -119.833049001782,39.3058247301285,0 -119.832738001801,39.3060647300832,0 -119.832751001787,39.3061617300757,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
