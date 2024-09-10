@@ -2537,11 +2537,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2024-09-10 23:45:20</td>
+                    <td>2024-09-10 11:45:16</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>1064</td>
+                    <td>1065</td>
                 </tr>
             </table>
         </td>
@@ -2549,7 +2549,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.747660884066,34.2049920988281,0 -117.747561884086,34.2049540988267,0 -117.747512884103,34.2048440988363,0 -117.747613884089,34.2048100988458,0 -117.747717884069,34.2048370988487,0 -117.747755884058,34.2048890988451,0 -117.747753884054,34.2049430988389,0 -117.747660884066,34.2049920988281,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1064_1"><name>BRIDGE_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.747660884066,34.2049920988281,0 -117.747561884086,34.2049540988267,0 -117.747512884103,34.2048440988363,0 -117.747613884089,34.2048100988458,0 -117.747717884069,34.2048370988487,0 -117.747755884058,34.2048890988451,0 -117.747753884054,34.2049430988389,0 -117.747660884066,34.2049920988281,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="1065_1"><name>BRIDGE_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -2588,11 +2588,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2024-09-10 23:45:20</td>
+                    <td>2024-09-10 11:45:16</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>1064</td>
+                    <td>1065</td>
                 </tr>
             </table>
         </td>
