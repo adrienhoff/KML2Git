@@ -237,8 +237,8 @@ def main():
 
         features = fetch_fire_data()
         if not features:
-            print("No features fetched. Waiting for 5 minutes before retrying...")
-            time.sleep(300)
+            print("No features fetched. Waiting for 30 minutes before retrying...")
+            time.sleep(1800)
             continue
 
         kml = ET.Element("kml", xmlns="http://www.opengis.net/kml/2.2")
@@ -337,8 +337,8 @@ def main():
 
         print("KML file generated.")
 
-        print("Restarting the script in 5 minutes...")
-        time.sleep(300)
+        print("Restarting the script in 10 minutes...")
+        time.sleep(600)
 
 if __name__ == "__main__":
     main()
