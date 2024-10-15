@@ -1,56 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>CanadaVMP</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>CAL FIRE INTEL FLIGHT DATA</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CanadaVMP</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>CanadaVMP</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>63.82</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>Mixed Methods</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2024-10-11 13:45:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>1162</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.316546832496,37.4928770717424,0 -122.316869832446,37.4928950717641,0 -122.317068832415,37.4929030717777,0 -122.317360832369,37.4929220717971,0 -122.317518832328,37.4930770717955,0 -122.317661832289,37.4932320717928,0 -122.318143832194,37.4934300718109,0 -122.318407832141,37.4935470718201,0 -122.318776832083,37.4935760718442,0 -122.319130832025,37.4936180718661,0 -122.319632831963,37.4934990719121,0 -122.319724831951,37.4934850719199,0 -122.32008883191,37.4933680719558,0 -122.32039183188,37.4932280719893,0 -122.320587831863,37.4931270720118,0 -122.320779831804,37.4933910720035,0 -122.321060831744,37.493544072011,0 -122.32131383168,37.4937830720092,0 -122.323488831137,37.4957010720052,0 -122.323910831044,37.4959610720138,0 -122.324039831002,37.4961660720059,0 -122.324307830936,37.4963920720063,0 -122.324129830941,37.496578071978,0 -122.323857830966,37.4967170719468,0 -122.32343083102,37.4968110719083,0 -122.323169831053,37.496866071885,0 -122.322952831086,37.4968610718698,0 -122.322668831128,37.496866071849,0 -122.322502831137,37.4970050718254,0 -122.322118831188,37.4970580717934,0 -122.321856831229,37.4970450717756,0 -122.321591831281,37.4969330717659,0 -122.321078831365,37.4968700717343,0 -122.320826831409,37.4968210717203,0 -122.320519831454,37.4968270716978,0 -122.320257831496,37.4968050716808,0 -122.32005283153,37.4967730716687,0 -122.31980983158,37.4966510716614,0 -122.319625831616,37.4965740716547,0 -122.319213831684,37.4965230716293,0 -122.318908831732,37.496504071609,0 -122.318540831783,37.4965370715798,0 -122.318304831801,37.4966940715497,0 -122.317922831847,37.4967910715141,0 -122.317743831882,37.4967180715074,0 -122.317552831906,37.4967600714901,0 -122.317427831913,37.4968640714725,0 -122.317123831953,37.4969080714469,0 -122.31680583199,37.4970030714161,0 -122.316566832021,37.4970460713954,0 -122.31650083204,37.4969710713969,0 -122.316301832092,37.4967710713993,0 -122.31605283216,37.4964960714044,0 -122.315782832248,37.4960800714198,0 -122.31545083234,37.4957050714272,0 -122.315146832443,37.4952010714475,0 -122.31500583251,37.4947960714712,0 -122.314802832579,37.4944560714851,0 -122.314821832625,37.4940220715227,0 -122.314798832644,37.4938830715327,0 -122.314824832644,37.4938510715372,0 -122.314817832669,37.4936390715544,0 -122.315033832667,37.4933720715923,0 -122.31519183265,37.4933100716088,0 -122.315414832623,37.4932540716295,0 -122.315604832603,37.4931830716491,0 -122.315931832566,37.4930750716816,0 -122.316206832534,37.4929930717082,0 -122.316385832516,37.4929130717278,0 -122.316497832504,37.4928730717392,0 -122.316546832496,37.4928770717424,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>SHOE</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>SHOE</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
