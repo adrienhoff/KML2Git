@@ -52,7 +52,7 @@ def is_daylight_saving(dt):
 def fetch_fire_data():
     try:
         # Calculate the date three days ago
-        three_days_ago = datetime.now() - timedelta(days=3)
+        three_days_ago = datetime.now() - timedelta(days=360)
         filter_date = three_days_ago.strftime('%Y-%m-%d')
  
         # URL with date filter included
