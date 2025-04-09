@@ -52,7 +52,7 @@ def is_daylight_saving(dt):
 def fetch_fire_data():
     try:
         # Calculate the date three days ago
-        three_days_ago = datetime.now() - timedelta(days=3)
+        three_days_ago = datetime.now() - timedelta(days=360)
         filter_date = three_days_ago.strftime('%Y-%m-%d')
  
         # URL with date filter included
@@ -237,9 +237,17 @@ def main():
 
         features = fetch_fire_data()
         if not features:
-            print("No features fetched. Waiting for 30 minutes before retrying...")
+            print("No features fetched. Clearing existing KML...")
+            kml_path = os.path.join(OUTPUT_DIR, "Cal_Fire_Intel_Boundary.kml")
+            with open(kml_path, "w", encoding="utf-8") as f:
+                f.write('<?xml version="1.0" encoding="UTF-8"?>\n<kml xmlns="http://www.opengis.net/kml/2.2"><Document/></kml>')
+            
+            commit_and_push_to_github(OUTPUT_DIR, "Cal_Fire_Intel_Boundary.kml")
+
+            print("Empty KML committed. Waiting for 30 minutes before retrying...")
             time.sleep(1800)
             continue
+
 
         kml = ET.Element("kml", xmlns="http://www.opengis.net/kml/2.2")
         document = ET.SubElement(kml, "Document")
