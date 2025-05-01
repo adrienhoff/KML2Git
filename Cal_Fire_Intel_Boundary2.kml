@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cal_Fire_Intel_Boundary.kml</name>
+    <description>Cal_Fire_Intel_Boundary.kml</description>
+    <Style id="-728573378">
+      <LineStyle>
+        <color>ffa9e600</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <fill>true</fill>
+        <outline>true</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>placeholder</name>
+      <visibility>true</visibility>
+      <description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>N/A</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>N/A</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>NULL</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>NULL</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>N/A</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>NULL</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>NULL</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description>
+      <styleUrl>#-728573378</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>placeholder</value>
+        </Data>
+        <Data name="altitudeMode">
+          <value>clampToGround</value>
+        </Data>
+        <Data name="tessellate">
+          <value>-1</value>
+        </Data>
+        <Data name="visibility">
+          <value>1</value>
+        </Data>
+        <Data name="extrude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>2.2873237431436531,1.2789565078189336
+2.2833998044402368,1.3264949997604047
+2.348437505331455,1.3324488035162723
+2.3553055207949751,1.2799599562011958
+2.2873237431436531,1.2789565078189336</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
