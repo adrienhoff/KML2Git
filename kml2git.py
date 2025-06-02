@@ -58,7 +58,7 @@ def fetch_fire_data():
         # URL with date filter included
         url = (
             f"https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/ArcGIS/rest/services/CA_Perimeters_NIFC_FIRIS_public_view/FeatureServer/0/query?"
-            f"where=source%3D%27CAL+FIRE+INTEL+FLIGHT+DATA%27+OR+source+%3D+%27FIRIS%27+OR+source%3D%27USGS%27+AND+poly_DateCurrent+%3E%3D+date%27{filter_date}%27"
+            f"where=source%3D%27CAL+FIRE+INTEL+FLIGHT+DATA%27+OR+source+%3D+%27FIRIS%27+OR+source%3D%27USFS%27+AND+poly_DateCurrent+%3E%3D+date%27{filter_date}%27"
             f"&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0"
             f"&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false"
             f"&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation="
