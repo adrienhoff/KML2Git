@@ -1,5 +1,4 @@
 import requests
-import json
 import xml.etree.ElementTree as ET
 from arcgis.gis import GIS
 from arcgis.geometry import SpatialReference, Geometry
@@ -10,6 +9,7 @@ from shapely.geometry import Polygon, mapping
 from shapely.ops import unary_union
 from datetime import datetime, timedelta
 import subprocess
+from urllib.parse import quote
 
 OUTPUT_DIR = r"C:\Users\adrie\KML2git"
 
@@ -56,15 +56,18 @@ def fetch_fire_data():
         filter_date = three_days_ago.strftime('%Y-%m-%d')
  
         # URL with date filter included
+        where_clause = f"(source='CAL FIRE INTEL FLIGHT DATA' OR source='FIRIS' OR source='USFS') AND poly_DateCurrent >= date '{filter_date}'"
+        encoded_where = quote(where_clause)
+
         url = (
             f"https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/ArcGIS/rest/services/CA_Perimeters_NIFC_FIRIS_public_view/FeatureServer/0/query?"
-            f"where=source%3D%27CAL+FIRE+INTEL+FLIGHT+DATA%27+OR+source+%3D+%27FIRIS%27+OR+source%3D%27USFS%27+AND+poly_DateCurrent+%3E%3D+date%27{filter_date}%27"
+            f"where={encoded_where}"
             f"&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0"
             f"&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false"
             f"&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation="
             f"&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false"
             f"&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount="
-            f"&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=json&token="
+            f"&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=json"
         )
         response = requests.get(url)
         response.raise_for_status()  # Raise an error for bad status codes
