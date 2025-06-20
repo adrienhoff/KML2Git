@@ -112,7 +112,7 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
     placemark_outer = ET.Element("Placemark")
     
     name = ET.SubElement(placemark_outer, "name")
-    name.text = attributes.get("incident_name", "")
+    name.text = attributes.get("mission", "")
     
     visibility = ET.SubElement(placemark_outer, "visibility")
     visibility.text = "true"
@@ -149,7 +149,7 @@ def create_polygon_placemark(attributes, polygon_data, description_data):
         inner_placemark.set("id", f"{base_id}_{i}")
         
         inner_name = ET.SubElement(inner_placemark, "name")
-        inner_name.text = f"{attributes.get('incident_name', '')}_ring_{i}"
+        inner_name.text = f"{attributes.get('mission', '')}_ring_{i}"
         
         inner_visibility = ET.SubElement(inner_placemark, "visibility")
         inner_visibility.text = "true"
