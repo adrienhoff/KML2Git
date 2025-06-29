@@ -999,7 +999,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1007,11 +1007,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1019,7 +1019,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.342430363045,34.3038769788183,0 -117.342497205094,34.3038789275944,0 -117.34254567975,34.3039013620978,0 -117.342582881816,34.3039034235135,0 -117.342656168612,34.3039860491481,0 -117.342652183645,34.3040097709327,0 -117.34262048965,34.3040221830509,0 -117.342587658182,34.3040154773766,0 -117.342538270435,34.3040041925534,0 -117.342486080123,34.3039929640536,0 -117.342425461417,34.3039746794252,0 -117.342365026978,34.3039328011469,0 -117.342430363045,34.3038769788183,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_1"><name>CA-BDU-LAKE-N40Y_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.342430363045,34.3038769788183,0 -117.342497205094,34.3038789275944,0 -117.34254567975,34.3039013620978,0 -117.342582881816,34.3039034235135,0 -117.342656168612,34.3039860491481,0 -117.342652183645,34.3040097709327,0 -117.34262048965,34.3040221830509,0 -117.342587658182,34.3040154773766,0 -117.342538270435,34.3040041925534,0 -117.342486080123,34.3039929640536,0 -117.342425461417,34.3039746794252,0 -117.342365026978,34.3039328011469,0 -117.342430363045,34.3038769788183,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_1"><name>CA-BDU-LAKE-N40Y_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1050,7 +1050,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1058,11 +1058,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1070,7 +1070,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.344028565141,34.3035355136336,0 -117.344088258235,34.3035542734416,0 -117.344071337084,34.3036126296576,0 -117.344058400157,34.303638422274,0 -117.344015769079,34.3036473447697,0 -117.343977660042,34.3036234468151,0 -117.343964663068,34.3035721536354,0 -117.344028565141,34.3035355136336,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_2"><name>CA-BDU-LAKE-N40Y_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.344028565141,34.3035355136336,0 -117.344088258235,34.3035542734416,0 -117.344071337084,34.3036126296576,0 -117.344058400157,34.303638422274,0 -117.344015769079,34.3036473447697,0 -117.343977660042,34.3036234468151,0 -117.343964663068,34.3035721536354,0 -117.344028565141,34.3035355136336,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_2"><name>CA-BDU-LAKE-N40Y_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1101,7 +1101,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1109,11 +1109,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1121,7 +1121,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.341955112809,34.302940207355,0 -117.341994011902,34.3029640216544,0 -117.34198336558,34.3030159649648,0 -117.34195997726,34.3030400410222,0 -117.34192343646,34.3030360611248,0 -117.341889290245,34.3030210846078,0 -117.341873468798,34.3029927930709,0 -117.341899907318,34.3029555648916,0 -117.341955112809,34.302940207355,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_3"><name>CA-BDU-LAKE-N40Y_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34614782332,34.3025045473428,0 -117.346304231117,34.3025225229079,0 -117.346321650948,34.302606468288,0 -117.346278006637,34.3026817100351,0 -117.346272527366,34.3027195197602,0 -117.346248844399,34.3027518028213,0 -117.346213420639,34.3027941467578,0 -117.346148160877,34.3028430621287,0 -117.346078511484,34.3028306029452,0 -117.346028220007,34.3027630187357,0 -117.345999930168,34.3026789201774,0 -117.346041232132,34.3025689687524,0 -117.34614782332,34.3025045473428,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_3"><name>CA-BDU-LAKE-N40Y_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1152,7 +1152,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1160,11 +1160,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1172,7 +1172,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34614782332,34.3025045473428,0 -117.346304231117,34.3025225229079,0 -117.346321650948,34.302606468288,0 -117.346278006637,34.3026817100351,0 -117.346272527366,34.3027195197602,0 -117.346248844399,34.3027518028213,0 -117.346213420639,34.3027941467578,0 -117.346148160877,34.3028430621287,0 -117.346078511484,34.3028306029452,0 -117.346028220007,34.3027630187357,0 -117.345999930168,34.3026789201774,0 -117.346041232132,34.3025689687524,0 -117.34614782332,34.3025045473428,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_4"><name>CA-BDU-LAKE-N40Y_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.348923264034,34.3024449855615,0 -117.348981703477,34.3024573294148,0 -117.349001926546,34.3025163633455,0 -117.348947732567,34.3025569746418,0 -117.348891234616,34.3025383461092,0 -117.348879864299,34.302485184544,0 -117.348923264034,34.3024449855615,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_4"><name>CA-BDU-LAKE-N40Y_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1203,7 +1203,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1211,11 +1211,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1223,7 +1223,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.348923264034,34.3024449855615,0 -117.348981703477,34.3024573294148,0 -117.349001926546,34.3025163633455,0 -117.348947732567,34.3025569746418,0 -117.348891234616,34.3025383461092,0 -117.348879864299,34.302485184544,0 -117.348923264034,34.3024449855615,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_5"><name>CA-BDU-LAKE-N40Y_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34753095252,34.3023143990259,0 -117.347589777828,34.3023503991973,0 -117.34758990232,34.3024155341057,0 -117.347539507861,34.3024443914296,0 -117.347494409125,34.3024372224504,0 -117.347432748,34.3024024284783,0 -117.347442306612,34.3023181575489,0 -117.34753095252,34.3023143990259,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_5"><name>CA-BDU-LAKE-N40Y_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1254,7 +1254,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1262,11 +1262,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1274,7 +1274,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34753095252,34.3023143990259,0 -117.347589777828,34.3023503991973,0 -117.34758990232,34.3024155341057,0 -117.347539507861,34.3024443914296,0 -117.347494409125,34.3024372224504,0 -117.347432748,34.3024024284783,0 -117.347442306612,34.3023181575489,0 -117.34753095252,34.3023143990259,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_6"><name>CA-BDU-LAKE-N40Y_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.348092488102,34.3020600196243,0 -117.348143101801,34.3020862489913,0 -117.348164506804,34.3021314917896,0 -117.348151897242,34.3021802786762,0 -117.348114439683,34.3022440911421,0 -117.348039609316,34.3022811877372,0 -117.34796570184,34.3022729624054,0 -117.347910384138,34.3022057534228,0 -117.34790020511,34.3021426752406,0 -117.34794636599,34.3021102457579,0 -117.348013065315,34.3020678679586,0 -117.348092488102,34.3020600196243,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_6"><name>CA-BDU-LAKE-N40Y_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1305,7 +1305,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1313,11 +1313,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1325,7 +1325,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.348092488102,34.3020600196243,0 -117.348143101801,34.3020862489913,0 -117.348164506804,34.3021314917896,0 -117.348151897242,34.3021802786762,0 -117.348114439683,34.3022440911421,0 -117.348039609316,34.3022811877372,0 -117.34796570184,34.3022729624054,0 -117.347910384138,34.3022057534228,0 -117.34790020511,34.3021426752406,0 -117.34794636599,34.3021102457579,0 -117.348013065315,34.3020678679586,0 -117.348092488102,34.3020600196243,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_7"><name>CA-BDU-LAKE-N40Y_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.349971434508,34.3019396190671,0 -117.350022406732,34.3019907215428,0 -117.350026571874,34.3020418044455,0 -117.349992582766,34.3020770443222,0 -117.349922736468,34.3020692964942,0 -117.349857072777,34.302032276094,0 -117.349863273172,34.3019505915476,0 -117.349971434508,34.3019396190671,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_7"><name>CA-BDU-LAKE-N40Y_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1356,7 +1356,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1364,11 +1364,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1376,7 +1376,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.349971434508,34.3019396190671,0 -117.350022406732,34.3019907215428,0 -117.350026571874,34.3020418044455,0 -117.349992582766,34.3020770443222,0 -117.349922736468,34.3020692964942,0 -117.349857072777,34.302032276094,0 -117.349863273172,34.3019505915476,0 -117.349971434508,34.3019396190671,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_8"><name>CA-BDU-LAKE-N40Y_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34851734668,34.301884673077,0 -117.348558745924,34.301908936419,0 -117.348587061213,34.3019432549164,0 -117.348577263174,34.3019780092338,0 -117.348527852688,34.3019830277837,0 -117.348475781716,34.3019680203079,0 -117.348468036707,34.3019088305264,0 -117.34851734668,34.301884673077,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_8"><name>CA-BDU-LAKE-N40Y_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1407,7 +1407,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1415,11 +1415,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1427,7 +1427,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34851734668,34.301884673077,0 -117.348558745924,34.301908936419,0 -117.348587061213,34.3019432549164,0 -117.348577263174,34.3019780092338,0 -117.348527852688,34.3019830277837,0 -117.348475781716,34.3019680203079,0 -117.348468036707,34.3019088305264,0 -117.34851734668,34.301884673077,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_9"><name>CA-BDU-LAKE-N40Y_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.340015198083,34.299508472274,0 -117.340136659741,34.2996039421485,0 -117.340158981893,34.2997050872522,0 -117.340129749686,34.2997862843067,0 -117.340056038148,34.2998472932603,0 -117.339921194175,34.299824524647,0 -117.339837551693,34.2997220187078,0 -117.339777782294,34.2996058991917,0 -117.339860474227,34.2995129992346,0 -117.340015198083,34.299508472274,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_9"><name>CA-BDU-LAKE-N40Y_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1458,7 +1458,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1466,11 +1466,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1478,7 +1478,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.337973764644,34.2999138426857,0 -117.338055981813,34.299946093785,0 -117.338067078687,34.3000005629953,0 -117.338031858098,34.300041889091,0 -117.338006898535,34.3000699411732,0 -117.337959578575,34.3000766267725,0 -117.337915566545,34.3000585582153,0 -117.337906190551,34.3000083547913,0 -117.337913211669,34.2999639866115,0 -117.337973764644,34.2999138426857,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_10"><name>CA-BDU-LAKE-N40Y_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.342007505394,34.2986086564137,0 -117.342089938014,34.2986561238968,0 -117.342166459311,34.2986780548627,0 -117.342258679042,34.2986750707603,0 -117.342299168183,34.298726810675,0 -117.342250900473,34.2987902236478,0 -117.342230744111,34.2988585347976,0 -117.342264459367,34.2989377433007,0 -117.342318306877,34.2989393184294,0 -117.34239749864,34.2989551535012,0 -117.342381236247,34.2990203305547,0 -117.342314814079,34.2990966598892,0 -117.342244669454,34.2991324081652,0 -117.342129797248,34.2991262828218,0 -117.342044265585,34.2991227298223,0 -117.341966353016,34.2991277592815,0 -117.341893476842,34.299119988125,0 -117.341856747292,34.2991004160243,0 -117.341809387563,34.2990809317963,0 -117.341770587392,34.2991098620195,0 -117.341770278372,34.2991447867372,0 -117.34178102391,34.2991808945586,0 -117.341764169573,34.2992078933383,0 -117.341727796949,34.2992135927299,0 -117.341685463727,34.2991919514351,0 -117.341653762293,34.2992206232487,0 -117.341627618727,34.2992537498916,0 -117.341577828452,34.2992472543097,0 -117.341541993216,34.2991841307337,0 -117.341541902545,34.2991139535863,0 -117.341553884311,34.2990376038208,0 -117.341574904766,34.2989777227005,0 -117.341573381976,34.2989247951667,0 -117.341516033125,34.2988960357547,0 -117.34150694547,34.2988624856352,0 -117.341555179873,34.2987850392224,0 -117.341646125677,34.2987651097872,0 -117.341693510579,34.2987389141361,0 -117.341773358648,34.298706519463,0 -117.341825882926,34.2986459605318,0 -117.341901845049,34.2986113887587,0 -117.342007505394,34.2986086564137,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_10"><name>CA-BDU-LAKE-N40Y_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1509,7 +1509,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1517,11 +1517,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1529,7 +1529,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.342300844588,34.2989509245684,0 -117.342345368666,34.2989768904117,0 -117.342366392864,34.2990187500541,0 -117.342335471689,34.2990522337044,0 -117.342340184157,34.2990519880364,0 -117.342288147062,34.299067747939,0 -117.342225544055,34.2990732836494,0 -117.342186605409,34.2990557409167,0 -117.34216552615,34.2990158210846,0 -117.342185221359,34.2989753974944,0 -117.342253039131,34.2989637093707,0 -117.342300844588,34.2989509245684,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_11"><name>CA-BDU-LAKE-N40Y_ring_11</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.335956728922,34.2972588166,0 -117.336063123813,34.297261608889,0 -117.336092611608,34.2973181702033,0 -117.336058734989,34.2973594172214,0 -117.335984667607,34.2973595893833,0 -117.33592687604,34.2973155724682,0 -117.335956728922,34.2972588166,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_11"><name>CA-BDU-LAKE-N40Y_ring_11</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1560,7 +1560,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1568,11 +1568,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1580,7 +1580,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.341888211147,34.2988013569741,0 -117.341946913578,34.2988067987071,0 -117.341982326103,34.2988375565585,0 -117.342003507292,34.2988792547955,0 -117.341999895343,34.2989517950145,0 -117.341979137048,34.2989962738982,0 -117.341937633619,34.2990312559418,0 -117.34190340696,34.2990591838732,0 -117.341860781074,34.2990788857229,0 -117.341809387563,34.2990809317963,0 -117.341770587392,34.2991098620195,0 -117.341770278372,34.2991447867372,0 -117.34178102391,34.2991808945586,0 -117.341764169573,34.2992078933383,0 -117.341727796949,34.2992135927299,0 -117.341685463727,34.2991919514351,0 -117.341653762293,34.2992206232487,0 -117.341627618727,34.2992537498916,0 -117.341577828452,34.2992472543097,0 -117.341541993216,34.2991841307337,0 -117.341541902545,34.2991139535863,0 -117.341553884311,34.2990376038208,0 -117.341574904766,34.2989777227005,0 -117.341631506539,34.2989439786071,0 -117.341693046707,34.2989365361559,0 -117.341739059706,34.298895483748,0 -117.341755740823,34.2988338298248,0 -117.341811517634,34.2988056481998,0 -117.341888211147,34.2988013569741,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_12"><name>CA-BDU-LAKE-N40Y_ring_12</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.352129655647,34.2971769841692,0 -117.352163231074,34.2971921057425,0 -117.352167089331,34.2972145473678,0 -117.352160921777,34.2972247833186,0 -117.352164725056,34.2972370504334,0 -117.352162306567,34.2972503658171,0 -117.35215362925,34.2972585694769,0 -117.352130011481,34.2972626770745,0 -117.352100231802,34.2972616648226,0 -117.3520840936,34.297240243194,0 -117.352082806567,34.2972168225148,0 -117.352100020294,34.2971893130817,0 -117.352129655647,34.2971769841692,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_12"><name>CA-BDU-LAKE-N40Y_ring_12</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1611,7 +1611,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1619,11 +1619,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1631,7 +1631,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.34225343238,34.2987182375636,0 -117.342287044587,34.2987464678148,0 -117.342300872079,34.2987916224374,0 -117.34227153383,34.2988157461007,0 -117.342233662494,34.2988080468144,0 -117.342186343703,34.2987917544413,0 -117.342176002478,34.2987479980506,0 -117.342205874426,34.2987231566034,0 -117.34225343238,34.2987182375636,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_13"><name>CA-BDU-LAKE-N40Y_ring_13</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.335629344691,34.2970104965077,0 -117.335715687825,34.2970165009702,0 -117.33572923915,34.2970846647194,0 -117.335719641179,34.2971157973554,0 -117.335658336166,34.2971315779623,0 -117.33560699105,34.2971224035753,0 -117.335591109865,34.2970695537959,0 -117.335629344691,34.2970104965077,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_13"><name>CA-BDU-LAKE-N40Y_ring_13</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1662,7 +1662,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1670,11 +1670,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1682,7 +1682,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.352129655647,34.2971769841692,0 -117.352163231074,34.2971921057425,0 -117.352167089331,34.2972145473678,0 -117.352160921777,34.2972247833186,0 -117.352164725056,34.2972370504334,0 -117.352162306567,34.2972503658171,0 -117.35215362925,34.2972585694769,0 -117.352130011481,34.2972626770745,0 -117.352100231802,34.2972616648226,0 -117.3520840936,34.297240243194,0 -117.352082806567,34.2972168225148,0 -117.352100020294,34.2971893130817,0 -117.352129655647,34.2971769841692,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_14"><name>CA-BDU-LAKE-N40Y_ring_14</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.333651378298,34.2963312021329,0 -117.333782931597,34.2963783170232,0 -117.333784355461,34.2964643457275,0 -117.333749531415,34.2965078272021,0 -117.333685852589,34.2965112882498,0 -117.333645476223,34.2964867912877,0 -117.333592295823,34.2964260269993,0 -117.333651378298,34.2963312021329,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_14"><name>CA-BDU-LAKE-N40Y_ring_14</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1713,7 +1713,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1721,11 +1721,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1733,7 +1733,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.335836744589,34.2943277799305,0 -117.335945391793,34.2943689130881,0 -117.33599342987,34.2944240977943,0 -117.335958433086,34.2945208968311,0 -117.335923826687,34.2945797930795,0 -117.335864719199,34.2946109840871,0 -117.335802432674,34.2946039730566,0 -117.335731961578,34.2945969472117,0 -117.335700979144,34.2945448588006,0 -117.335728381324,34.2944722632987,0 -117.335698706166,34.2944102320166,0 -117.335731185159,34.2943382191028,0 -117.335836744589,34.2943277799305,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_15"><name>CA-BDU-LAKE-N40Y_ring_15</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.33716590936,34.2913449021528,0 -117.337210146367,34.2913491594007,0 -117.337232379991,34.2913790794234,0 -117.337225676329,34.2914136742438,0 -117.337208503896,34.2914326532659,0 -117.337165286665,34.2914328340104,0 -117.337139559485,34.2914095658212,0 -117.337131376386,34.2913763263754,0 -117.33716590936,34.2913449021528,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_15"><name>CA-BDU-LAKE-N40Y_ring_15</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1764,7 +1764,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1772,11 +1772,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1784,7 +1784,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.33716590936,34.2913449021528,0 -117.337210146367,34.2913491594007,0 -117.337232379991,34.2913790794234,0 -117.337225676329,34.2914136742438,0 -117.337208503896,34.2914326532659,0 -117.337165286665,34.2914328340104,0 -117.337139559485,34.2914095658212,0 -117.337131376386,34.2913763263754,0 -117.33716590936,34.2913449021528,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_16"><name>CA-BDU-LAKE-N40Y_ring_16</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.3378991626,34.2907130385382,0 -117.337917561996,34.2907344826442,0 -117.337916484648,34.2907718747478,0 -117.337890815897,34.2907961326337,0 -117.337869342141,34.29079912449,0 -117.337825821298,34.2907866288574,0 -117.337821144965,34.290750477145,0 -117.337850653322,34.2907189551188,0 -117.3378991626,34.2907130385382,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_16"><name>CA-BDU-LAKE-N40Y_ring_16</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1815,7 +1815,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1823,11 +1823,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1835,7 +1835,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.340342645772,34.2900778664692,0 -117.340383228139,34.2900816957308,0 -117.340405377092,34.290105083764,0 -117.340397536317,34.2901365225195,0 -117.340394575287,34.2901583170879,0 -117.340355218088,34.2901638623914,0 -117.340317067708,34.2901496586635,0 -117.34029594776,34.290120234546,0 -117.340306421954,34.2900874795502,0 -117.340342645772,34.2900778664692,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2711_17"><name>CA-BDU-LAKE-N40Y_ring_17</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.340342645772,34.2900778664692,0 -117.340383228139,34.2900816957308,0 -117.340451011142,34.2900846949795,0 -117.340483339262,34.2901213429605,0 -117.340481119153,34.2901799438773,0 -117.340458899522,34.2902088485026,0 -117.340394541276,34.2902228679875,0 -117.340353697054,34.2902106146433,0 -117.340296867975,34.2901928001863,0 -117.34025953535,34.2901580381319,0 -117.340257717619,34.2901292400073,0 -117.340274802938,34.2901010596598,0 -117.340306421954,34.2900874795502,0 -117.340342645772,34.2900778664692,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2712_17"><name>CA-BDU-LAKE-N40Y_ring_17</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1866,7 +1866,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>446.17377412914436</td>
+                    <td>477.8635730863022</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1874,11 +1874,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-06-28 19:01:10</td>
+                    <td>2025-06-28 19:39:19</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2711</td>
+                    <td>2712</td>
                 </tr>
             </table>
         </td>
@@ -1886,4 +1886,4 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.346466528177,34.2845057930871,0 -117.346645305951,34.2845143323383,0 -117.346711545706,34.2845962168629,0 -117.346840532685,34.284603251622,0 -117.346980618842,34.2845547247721,0 -117.347175947315,34.2845769813544,0 -117.347292381637,34.2846252917129,0 -117.347466966119,34.284688108007,0 -117.347661228324,34.2846894428748,0 -117.347758419729,34.2847259241956,0 -117.347865704045,34.2847766301805,0 -117.348060643318,34.2847675979952,0 -117.34820771604,34.2847946502042,0 -117.348402678209,34.2847554156002,0 -117.348539474948,34.2847547549658,0 -117.348677093327,34.2848002524782,0 -117.348708801091,34.2848985032782,0 -117.348797734052,34.2849694314994,0 -117.348953559249,34.2850041459038,0 -117.349166161212,34.284977336113,0 -117.349240287105,34.2848879959264,0 -117.349424529294,34.2848736398793,0 -117.349497129045,34.2849473165141,0 -117.349494433982,34.2850495796716,0 -117.349674705804,34.2850850039489,0 -117.349860568901,34.2850861245729,0 -117.349945814094,34.2851840040332,0 -117.349846727343,34.2852789109398,0 -117.349705326408,34.2853356196305,0 -117.349634191121,34.2854321197878,0 -117.34971909498,34.285517032425,0 -117.349783195757,34.2856119752036,0 -117.349696938999,34.2856990260604,0 -117.349659881643,34.2858288641419,0 -117.349731513437,34.2859359654662,0 -117.349900856294,34.2859208103542,0 -117.349997934615,34.2858073073075,0 -117.350188151334,34.2858743035098,0 -117.350314927241,34.2857941084499,0 -117.350437283399,34.2856593825609,0 -117.350608246036,34.2856579922016,0 -117.350706978936,34.2857330004559,0 -117.350841530596,34.2857693900897,0 -117.350909611011,34.2856866261336,0 -117.351115436207,34.2856127011514,0 -117.351286991657,34.285675988688,0 -117.351417901288,34.2858331345844,0 -117.351468237169,34.2859839772785,0 -117.351469774548,34.2861518324712,0 -117.351558137915,34.2863138053149,0 -117.351690331524,34.286541864395,0 -117.351778400816,34.2866809522027,0 -117.351794416195,34.2868043601758,0 -117.351727976072,34.2868951242533,0 -117.351618255278,34.2869198517566,0 -117.351499463137,34.2869694010208,0 -117.35143272234,34.2870604691409,0 -117.351315937482,34.2871515669707,0 -117.351329418063,34.2872683091909,0 -117.351271529091,34.2873853107881,0 -117.351121176327,34.2874605898818,0 -117.350969572453,34.2875192648007,0 -117.351010491292,34.2876284718627,0 -117.351020231488,34.2877713493415,0 -117.350900293776,34.2879524537502,0 -117.350687679457,34.2878954578395,0 -117.35056941291,34.2879642697615,0 -117.350516220553,34.2880815371944,0 -117.350565002255,34.2881987522781,0 -117.350419649229,34.2883070143614,0 -117.350345138418,34.2884317177944,0 -117.350339979698,34.2885808470951,0 -117.35030133988,34.288720062452,0 -117.350167158271,34.2887519271118,0 -117.349962106037,34.2887831256252,0 -117.349921309655,34.2889521640386,0 -117.349904613289,34.2890888422957,0 -117.350002275502,34.2892961340506,0 -117.350078632361,34.2894684127626,0 -117.350023695879,34.2895877090456,0 -117.349946945953,34.2897024199809,0 -117.349771021221,34.2898308176463,0 -117.349540196321,34.2898925121686,0 -117.34948507163,34.2900810238969,0 -117.34961159677,34.290215268739,0 -117.349581706973,34.2903477320325,0 -117.349521250344,34.2904920467452,0 -117.349561069397,34.2906004139569,0 -117.34961042031,34.2907331293888,0 -117.349717037801,34.2909125032078,0 -117.349848690873,34.2910364777365,0 -117.349782961303,34.2910815702354,0 -117.34975809128,34.2912924162934,0 -117.349836221495,34.2914449717028,0 -117.350020163295,34.2915883395356,0 -117.350147355146,34.291694749556,0 -117.350344669251,34.2918871604182,0 -117.350535827611,34.2921091592774,0 -117.35075191263,34.2922735526166,0 -117.350947733928,34.2924131637565,0 -117.351096740211,34.2925497012865,0 -117.351240631631,34.2926933020553,0 -117.351302588226,34.2928437216112,0 -117.351461686441,34.2930407666541,0 -117.351416688077,34.2933293888048,0 -117.351499734835,34.2935239759858,0 -117.35148293032,34.2936960761396,0 -117.351433934171,34.2939546231529,0 -117.351274926693,34.294171726621,0 -117.351224462147,34.2943895502776,0 -117.351117678418,34.294537962623,0 -117.350931883222,34.2947275612531,0 -117.350902704753,34.2949189838137,0 -117.350940436527,34.2951023510086,0 -117.351240069666,34.2951006856999,0 -117.351488877282,34.2951286351803,0 -117.351783948714,34.2951537419563,0 -117.352008859722,34.2952548737923,0 -117.352064220491,34.2954428768353,0 -117.35205367133,34.2956370577821,0 -117.35200216468,34.2958223379563,0 -117.351977917009,34.2960296138228,0 -117.352054512284,34.296122933716,0 -117.352035950032,34.2962585755931,0 -117.351945473908,34.2963869541424,0 -117.351906949233,34.2964898565239,0 -117.351814690363,34.2965598771849,0 -117.351681434324,34.296586508345,0 -117.351547951881,34.2965965416858,0 -117.351441063456,34.2966177881714,0 -117.351614977491,34.2966687882516,0 -117.351749089941,34.2966965974726,0 -117.351858169258,34.296772332633,0 -117.351826692997,34.2969371995605,0 -117.35184791304,34.2970479895217,0 -117.351868605801,34.2971762710636,0 -117.351889849458,34.2973156096193,0 -117.351932129958,34.2974381626792,0 -117.351815485077,34.2975621478787,0 -117.351693462718,34.2976686753675,0 -117.351675202838,34.2977917488162,0 -117.351517517947,34.2979039400051,0 -117.351355529444,34.2980440014211,0 -117.351336447321,34.2982020532258,0 -117.351377883793,34.2983210811658,0 -117.3514810162,34.2984409200816,0 -117.351619390732,34.2985563118182,0 -117.351601286737,34.2986840569537,0 -117.351541195385,34.2987604540898,0 -117.35143756756,34.2987366879863,0 -117.351348247413,34.2987194486166,0 -117.351267968559,34.2988225918756,0 -117.351297092829,34.2989419669764,0 -117.351422170761,34.2989884495379,0 -117.351493491073,34.299108105635,0 -117.351446276343,34.2991991008868,0 -117.351419910324,34.299314365041,0 -117.351385154612,34.2993270756044,0 -117.3514356506,34.2994598983873,0 -117.351486011967,34.2995569284852,0 -117.351537584289,34.2996985724543,0 -117.351498121353,34.2998684819558,0 -117.351459980887,34.3000595826693,0 -117.351398401324,34.3001647097232,0 -117.351261191384,34.3001788597861,0 -117.351116850757,34.3002405535952,0 -117.351037921137,34.3003813917797,0 -117.350964815699,34.3005385070786,0 -117.350875088985,34.300611785927,0 -117.350786668064,34.3006804368787,0 -117.350693178581,34.3006978890438,0 -117.350544464541,34.3006512459573,0 -117.350458980694,34.300574012233,0 -117.350312592295,34.3006031925617,0 -117.350176686474,34.3006911986616,0 -117.350066591454,34.3007614900894,0 -117.350067809166,34.3009094261928,0 -117.350082535951,34.3010336363725,0 -117.349921005697,34.3011466696447,0 -117.350033137433,34.3012545926795,0 -117.350019886913,34.3013299505427,0 -117.349894983175,34.3013853133927,0 -117.349746034307,34.3015031198757,0 -117.349583848831,34.3015444823298,0 -117.349542470238,34.3015583308083,0 -117.349384878527,34.3015652275459,0 -117.349386028828,34.3014060952442,0 -117.349186627847,34.3013309325738,0 -117.349089809041,34.3013108636507,0 -117.348979012325,34.3013247381916,0 -117.348914845341,34.3014401775702,0 -117.348861267809,34.3015087497597,0 -117.348774434039,34.3015016387033,0 -117.348775754246,34.3013454968609,0 -117.348688515319,34.3013190082233,0 -117.348558440916,34.301345858933,0 -117.348417461719,34.3014331202278,0 -117.348378485156,34.301576574023,0 -117.348319917003,34.3016881611949,0 -117.348235874511,34.3018091459344,0 -117.348112040727,34.3018523699487,0 -117.347953730104,34.3019031856905,0 -117.347880978457,34.3020138099231,0 -117.347734616908,34.3020627456747,0 -117.34766642128,34.3020412881762,0 -117.347574420668,34.3020491331107,0 -117.347505825685,34.30210794176,0 -117.347456122291,34.3021629882507,0 -117.347357319068,34.3022334989779,0 -117.34733087923,34.3022942025981,0 -117.347245339127,34.3023458048494,0 -117.347166699032,34.3023405708402,0 -117.347119931423,34.3023043920588,0 -117.347067968351,34.3022694090011,0 -117.346984343029,34.3022532316585,0 -117.346897340131,34.3022640223577,0 -117.346789110552,34.3023117737186,0 -117.346692651707,34.3023285419105,0 -117.34660942845,34.302354316298,0 -117.346503810863,34.3023724115094,0 -117.346414656869,34.3023764579026,0 -117.346367705029,34.3022698261133,0 -117.346338691716,34.302195335236,0 -117.346279660285,34.302166923731,0 -117.346144633612,34.3021325688362,0 -117.346008169441,34.302138913334,0 -117.345936368704,34.3021387591733,0 -117.345830534377,34.3021380968383,0 -117.345726343468,34.3021371306531,0 -117.345603125176,34.3021263640423,0 -117.345557356967,34.3020904573918,0 -117.345466802471,34.3021207199185,0 -117.345379135344,34.3021684291779,0 -117.345410706762,34.3022525565242,0 -117.345427959135,34.3023461368308,0 -117.345396677787,34.3024423523143,0 -117.345397003923,34.3025937290057,0 -117.345384804732,34.3027575833315,0 -117.345348010057,34.3028784090721,0 -117.345221797041,34.3029852961136,0 -117.3450647723,34.3031125816272,0 -117.344993478168,34.3032395424264,0 -117.344987653398,34.3033801907472,0 -117.345122336532,34.3035480024361,0 -117.345222680604,34.3036529843566,0 -117.345364133256,34.3037030423182,0 -117.345528400839,34.3037541657688,0 -117.345546419029,34.3038530193235,0 -117.345459381234,34.3039089010424,0 -117.345283392024,34.3038933050963,0 -117.345196954078,34.3038577269677,0 -117.345099753631,34.303837532286,0 -117.344886344861,34.3038693975305,0 -117.344644294207,34.3038945559542,0 -117.344509125128,34.3038452046693,0 -117.344260612629,34.3038553726756,0 -117.344179939391,34.303796985115,0 -117.344261448322,34.3037312696615,0 -117.344465584152,34.3036791019475,0 -117.344420940775,34.3035935238589,0 -117.344245441867,34.3035656881637,0 -117.344132263819,34.3034871430336,0 -117.34406995626,34.3033945749447,0 -117.344085245531,34.3033094537631,0 -117.344193536915,34.3031963568649,0 -117.344181036739,34.303048474148,0 -117.344161655394,34.3029643300415,0 -117.343937973021,34.3028876236782,0 -117.34374230459,34.3029579855556,0 -117.34363901892,34.3029023988637,0 -117.343714540193,34.3027905750006,0 -117.343713395371,34.302672167444,0 -117.34365328238,34.3025819230245,0 -117.343559401576,34.3024920419504,0 -117.343449087119,34.3024440568209,0 -117.343365811378,34.3026175245064,0 -117.343307163224,34.3027707840804,0 -117.343349895167,34.3029101337563,0 -117.343375382242,34.3030289120427,0 -117.343477772781,34.3030986603405,0 -117.34355526161,34.3031966338339,0 -117.343560375767,34.3032424587497,0 -117.343570406789,34.3032902210713,0 -117.34357556499,34.3033579704357,0 -117.343546024613,34.303401583669,0 -117.343477244325,34.3034010312886,0 -117.343452945125,34.3033493765032,0 -117.343409376826,34.3032780143605,0 -117.343375729752,34.3032187114846,0 -117.34336144857,34.3031673566603,0 -117.343323086307,34.3031279550388,0 -117.343275168909,34.3031083926924,0 -117.343193829574,34.303128417447,0 -117.343150695807,34.3031875250103,0 -117.343069896801,34.3032735238981,0 -117.343097749429,34.3033822857009,0 -117.343144630603,34.30346800413,0 -117.343116270306,34.3035765213478,0 -117.343088220039,34.3036742798638,0 -117.343060440757,34.3037952066557,0 -117.342975203921,34.3038527412237,0 -117.342927051206,34.3039252957272,0 -117.342845108612,34.3039435137617,0 -117.342760021076,34.3038841424764,0 -117.34271086261,34.3037868432779,0 -117.342631256684,34.3037506221095,0 -117.342479091375,34.3037086299635,0 -117.34238952721,34.303735608356,0 -117.342266699546,34.3037851342166,0 -117.34212015128,34.3038366847776,0 -117.342039648176,34.3038655453005,0 -117.341950661861,34.3038085993318,0 -117.341998422524,34.3036885686933,0 -117.341966216209,34.303565659994,0 -117.341986184041,34.303439647408,0 -117.342072772195,34.3033474966362,0 -117.342119066265,34.3032455681654,0 -117.342134151948,34.303132398412,0 -117.342200777019,34.3030272508162,0 -117.342260608842,34.3029252850148,0 -117.342334133681,34.3027989769909,0 -117.342318327041,34.3027153105573,0 -117.342283251883,34.3026389156792,0 -117.342238207879,34.302569768141,0 -117.342237059959,34.3025093059109,0 -117.342290572621,34.3024629492488,0 -117.342373195216,34.3024690210918,0 -117.342435841835,34.3024742315222,0 -117.34249361926,34.3024440939479,0 -117.342489587172,34.3023587136375,0 -117.342486192762,34.3022786610526,0 -117.342572540769,34.3022584520882,0 -117.342695809297,34.3022460951606,0 -117.342790565646,34.3021807673251,0 -117.342921433063,34.3021592147474,0 -117.343028667308,34.3021293546322,0 -117.34307506647,34.3020448495063,0 -117.343102606269,34.301957515326,0 -117.343195251792,34.3018991850984,0 -117.343283305552,34.3018449949833,0 -117.343329222925,34.3017931111835,0 -117.343309470337,34.3017420365392,0 -117.343248480473,34.3017150246703,0 -117.3431149007,34.3017174681016,0 -117.34297399759,34.3017226089047,0 -117.34283408925,34.3017519728164,0 -117.342770121999,34.3018036035075,0 -117.342687420116,34.3018548004983,0 -117.342618601903,34.3018713236187,0 -117.342524446461,34.3018414416859,0 -117.342463729414,34.3017887009269,0 -117.34241835434,34.3017211044693,0 -117.342418618167,34.3016521293804,0 -117.342422331856,34.3015851471594,0 -117.342296630903,34.3015264543728,0 -117.342166934731,34.301513969106,0 -117.341971592764,34.3013991912084,0 -117.341889901054,34.3012357185067,0 -117.342010263477,34.3011444123719,0 -117.342219362659,34.3011693926487,0 -117.342379944179,34.3011080414199,0 -117.34265935254,34.300972441048,0 -117.342721146201,34.3008577905178,0 -117.342948754264,34.3007233317381,0 -117.343094405836,34.3006162213127,0 -117.343034854099,34.3004903196552,0 -117.342793738044,34.300345120224,0 -117.342785124374,34.3001997004128,0 -117.3428965567,34.3001154369368,0 -117.342842717954,34.2999835756534,0 -117.342774707099,34.2998308191114,0 -117.342711974068,34.2996918690924,0 -117.342812582619,34.299495293933,0 -117.342765529874,34.299345207205,0 -117.342647251069,34.2992120270296,0 -117.342604803786,34.2991072401621,0 -117.342625308168,34.299001939054,0 -117.34271351005,34.2988863970284,0 -117.342681107867,34.2987309033463,0 -117.342640996701,34.2985601153372,0 -117.342559113466,34.2984241653727,0 -117.342473395999,34.2983272290815,0 -117.342386237548,34.2982471551772,0 -117.342410434003,34.2981376250517,0 -117.342532014108,34.2980656600979,0 -117.342770929818,34.2980224263259,0 -117.343011331586,34.2980618817889,0 -117.343012821307,34.2979541323982,0 -117.342905954739,34.2978348133984,0 -117.342777932438,34.2977449960872,0 -117.342729171883,34.2976439090416,0 -117.342817527978,34.2975555828363,0 -117.342760986694,34.2973915456768,0 -117.342580372384,34.2973642887438,0 -117.342420963386,34.2974058065497,0 -117.342295793799,34.2975222918762,0 -117.342200899907,34.2975952114344,0 -117.342080379457,34.297699935448,0 -117.341896576293,34.2978693739952,0 -117.341776785153,34.2979520085753,0 -117.341816198773,34.2981209725323,0 -117.341811404001,34.2982340202991,0 -117.341713180165,34.2983414710825,0 -117.341494255156,34.2985271606047,0 -117.34146138605,34.2986700216499,0 -117.341304917336,34.2988165864835,0 -117.34127017708,34.2989774049807,0 -117.341214606999,34.2990795191999,0 -117.341066905742,34.2991550505903,0 -117.341008025373,34.2990665516357,0 -117.341012111629,34.2989835927457,0 -117.341033042809,34.2988637123317,0 -117.341006407926,34.2987366188814,0 -117.340931409037,34.2986056659041,0 -117.340790301008,34.2984437494557,0 -117.340667982843,34.2983336700866,0 -117.340503670036,34.2983655952741,0 -117.340482579027,34.2985151860236,0 -117.340420474326,34.2986547061836,0 -117.340241106615,34.2986652234748,0 -117.340102518187,34.2986560488681,0 -117.339881285805,34.2986955855432,0 -117.339759577766,34.2987864930466,0 -117.33972033168,34.2989170053046,0 -117.339633315714,34.2990605546754,0 -117.339555927722,34.2991371385953,0 -117.339414338066,34.2991118525891,0 -117.339225091535,34.2991014051645,0 -117.339037400715,34.2991449779699,0 -117.338930843472,34.299236941708,0 -117.338755807819,34.2993464422221,0 -117.338598684352,34.2995686650008,0 -117.338439832249,34.2996597182975,0 -117.338297269848,34.2997093545389,0 -117.338080204574,34.2997360285603,0 -117.33787938597,34.2997063726479,0 -117.337730711669,34.2995998662461,0 -117.337587503743,34.2994716976415,0 -117.33737078855,34.2994320054434,0 -117.337168134931,34.2994510217877,0 -117.336984930377,34.2994656882303,0 -117.336898263288,34.2993681940914,0 -117.336826757001,34.2992509063503,0 -117.336798974131,34.2990611847546,0 -117.336878557646,34.2987865835549,0 -117.33696132086,34.2985294895637,0 -117.337071798473,34.2982691579812,0 -117.337128584617,34.2980792307103,0 -117.337177244088,34.2979315621551,0 -117.337288483,34.2976983143554,0 -117.337426215636,34.2975566832362,0 -117.337551128267,34.2974831492999,0 -117.33763887854,34.2974539751512,0 -117.337867163816,34.2974784758392,0 -117.337915695563,34.2973828772689,0 -117.338001240577,34.2972587852705,0 -117.338112268185,34.2971095473847,0 -117.338187643307,34.296970107107,0 -117.33825846418,34.2968149337006,0 -117.338340769029,34.2966644155191,0 -117.338427031682,34.296578306482,0 -117.338503528081,34.2964682344028,0 -117.33867930313,34.2962616886364,0 -117.338891920453,34.2960191274832,0 -117.339060505801,34.2958541927518,0 -117.339257922669,34.2956845817736,0 -117.339405436265,34.2955420893158,0 -117.339542299195,34.2954194251406,0 -117.339648005003,34.2952864409285,0 -117.33976162571,34.2951561457062,0 -117.339865442218,34.2950537736807,0 -117.340043504323,34.2949121954559,0 -117.340318479821,34.2946351380048,0 -117.34040816776,34.2945229173037,0 -117.340576524278,34.294344269626,0 -117.340690891339,34.2942406868302,0 -117.340804772286,34.2941076875264,0 -117.340900792362,34.2940046777022,0 -117.340980573505,34.2939084741516,0 -117.34107626843,34.293850444155,0 -117.341213445219,34.2938310125273,0 -117.341408194861,34.2938429307464,0 -117.341423171547,34.2939651448212,0 -117.341332494459,34.2941664747714,0 -117.341346461106,34.2943518264603,0 -117.341414493898,34.294549584449,0 -117.341371311767,34.2946871001827,0 -117.341354558047,34.2948319456574,0 -117.341475188182,34.2949476316757,0 -117.341609933347,34.2950191419394,0 -117.341704611868,34.2951046041798,0 -117.341857674289,34.295195575906,0 -117.342009761483,34.2952772837895,0 -117.342150525491,34.2953155883835,0 -117.342148510286,34.2954324989618,0 -117.342214104732,34.2955522867704,0 -117.342304222252,34.2954608255043,0 -117.342293419174,34.2953595912019,0 -117.342244669519,34.2952101597209,0 -117.342213040219,34.2950859436358,0 -117.342216625343,34.2949530867371,0 -117.342283594281,34.2948265139743,0 -117.342306703225,34.2947066877529,0 -117.342413148754,34.2946084232684,0 -117.342483058621,34.2944443838347,0 -117.342509632967,34.2943201042536,0 -117.342529310492,34.2941721512753,0 -117.342537788687,34.2940100873585,0 -117.342527324141,34.2938638314713,0 -117.342494836384,34.2937256937734,0 -117.342440392667,34.2935785666185,0 -117.342394485587,34.2934744679228,0 -117.342252645098,34.2933437580548,0 -117.342046336289,34.2933620027055,0 -117.342048261799,34.2935007467177,0 -117.342179771625,34.293706189763,0 -117.342170777429,34.2938551825583,0 -117.342039410619,34.293983869396,0 -117.341884078436,34.2939904155605,0 -117.341787902199,34.2938284665017,0 -117.341732934606,34.2937195304089,0 -117.341728793494,34.293573368183,0 -117.341750238911,34.2934532228458,0 -117.341775655745,34.2933132783786,0 -117.341840310191,34.2931766121114,0 -117.341923446327,34.2930399823895,0 -117.342031330717,34.2929140034987,0 -117.342150749959,34.2928158047873,0 -117.342255931038,34.2926930407066,0 -117.342245550575,34.2925843597599,0 -117.342088089444,34.2925454997348,0 -117.341825740776,34.2926442033291,0 -117.341600605196,34.2927710242985,0 -117.341378543815,34.292925243119,0 -117.341231066217,34.2930700826834,0 -117.341267317072,34.2932347229135,0 -117.341263948863,34.2934240114434,0 -117.341124643551,34.2935907804795,0 -117.340944222109,34.2937476335782,0 -117.340768902795,34.2939317436123,0 -117.340536899069,34.2940690167803,0 -117.340327159158,34.2943041431758,0 -117.340059099212,34.294564479779,0 -117.339855649588,34.2947758935636,0 -117.339746543706,34.2949642493469,0 -117.339606070274,34.2951188170926,0 -117.339422873844,34.2952667727348,0 -117.339327464463,34.2952729597335,0 -117.339166458413,34.2952997692326,0 -117.339028749539,34.2954012251655,0 -117.338853581179,34.2955342850713,0 -117.33873985038,34.2956529988097,0 -117.338792521692,34.2958560009433,0 -117.338671049598,34.2960333006666,0 -117.33850536203,34.2962386799007,0 -117.338362930277,34.2964100242013,0 -117.338181113442,34.2965559487322,0 -117.338077557505,34.2965852926244,0 -117.337979771942,34.2965377800726,0 -117.337827543149,34.2965734888206,0 -117.337621518884,34.2966697504296,0 -117.337342732288,34.2968575135757,0 -117.337319443662,34.2970171840366,0 -117.337368940064,34.2971610227452,0 -117.337304207022,34.297386083403,0 -117.3372228049,34.2974577149689,0 -117.337170747878,34.2975566198463,0 -117.337114687842,34.2976291487497,0 -117.337054597633,34.297697238001,0 -117.337024879577,34.2977716269851,0 -117.336976105525,34.2978648685026,0 -117.336960418236,34.2979463834495,0 -117.336848209527,34.2979363594255,0 -117.336789862833,34.2978441221216,0 -117.336890183227,34.2975067840226,0 -117.336990089041,34.297250261128,0 -117.337039742716,34.2970156985284,0 -117.336985870305,34.2968110498412,0 -117.33683640289,34.2966917143817,0 -117.336634007849,34.2967049638141,0 -117.336356272823,34.296794416877,0 -117.33628359042,34.2968716597364,0 -117.336125302377,34.2969237728399,0 -117.335986944307,34.2968913009271,0 -117.335912329425,34.296766411196,0 -117.335901792716,34.2966237315139,0 -117.335848609043,34.2964763232633,0 -117.335891550403,34.2962804651522,0 -117.335944988805,34.2961009283459,0 -117.335902492488,34.2959680820143,0 -117.336114014767,34.2958726663837,0 -117.336366914013,34.2958353793719,0 -117.336618786073,34.2956846458694,0 -117.336514644308,34.2956159822035,0 -117.336230562033,34.2956352568592,0 -117.335934728003,34.2956397429748,0 -117.335764104252,34.2955192248611,0 -117.335796363155,34.2953331290428,0 -117.335892871205,34.2951467472876,0 -117.336074780563,34.2950047000302,0 -117.336256362022,34.2949071838043,0 -117.336416667023,34.29478318892,0 -117.336597072794,34.2947037801529,0 -117.336796852706,34.2946690565083,0 -117.336859897118,34.2945106086254,0 -117.33668163736,34.2944830446484,0 -117.336501875157,34.2944290802242,0 -117.33647004937,34.2943138776378,0 -117.336670707734,34.2942271436497,0 -117.336639299879,34.294050139288,0 -117.336470046486,34.2939601799316,0 -117.336245572781,34.2939346751347,0 -117.336095101799,34.2937823417402,0 -117.336062026998,34.2935294105415,0 -117.336124599026,34.2933759208837,0 -117.336335872167,34.2933618739257,0 -117.336506984434,34.2934690276152,0 -117.33664541293,34.293502241725,0 -117.33683434933,34.2934256513601,0 -117.336921944517,34.2932531186875,0 -117.336775869921,34.2930721451374,0 -117.336745603819,34.2928615710547,0 -117.336749073889,34.2927248943136,0 -117.336903487176,34.2926166311151,0 -117.336902992872,34.2924487133806,0 -117.336896462844,34.2922828944958,0 -117.336969175202,34.292143161272,0 -117.337170105868,34.2920423480965,0 -117.337313153958,34.2918803532555,0 -117.337397754355,34.2917864905071,0 -117.3375233602,34.2915265661642,0 -117.337567605008,34.2913643721729,0 -117.337723908269,34.2911648089938,0 -117.337885084037,34.2910154142738,0 -117.338022535472,34.2908084017722,0 -117.338136370837,34.2906151564382,0 -117.338146371995,34.2904772555456,0 -117.338159195813,34.2903278609376,0 -117.338164913703,34.2901877311944,0 -117.33831389177,34.2901162323081,0 -117.338471799103,34.2901766359573,0 -117.338504663919,34.2903040564558,0 -117.338491556345,34.29046296496,0 -117.338476715072,34.2906015822454,0 -117.338587746132,34.2907051522186,0 -117.338590037303,34.2908477079627,0 -117.338724897158,34.2909543467122,0 -117.338838539825,34.291031615173,0 -117.338888947105,34.2911333053748,0 -117.339004462928,34.2912129323522,0 -117.339191852707,34.2912625488849,0 -117.339352037957,34.2912723626265,0 -117.339541820629,34.2911612608993,0 -117.339722146828,34.2911056651921,0 -117.339791295457,34.2909848067018,0 -117.339927928503,34.2908721214515,0 -117.340138445513,34.2907451545787,0 -117.340198465627,34.2905353403529,0 -117.340273115402,34.2904504425425,0 -117.340408111349,34.2904486318721,0 -117.340526193287,34.2905320518573,0 -117.340646086805,34.2904990178549,0 -117.340744528051,34.2903961139049,0 -117.340929739382,34.2903177037072,0 -117.340928987711,34.2902185258148,0 -117.340819572872,34.2901733575015,0 -117.340747028908,34.2900617092182,0 -117.340685824556,34.2899443908964,0 -117.340606891807,34.2898365081331,0 -117.340516542066,34.2897588192153,0 -117.340289746378,34.2897584937928,0 -117.340126952912,34.2897948271934,0 -117.33998801262,34.2897723242642,0 -117.33997988691,34.2896568517469,0 -117.340065546399,34.2896165976623,0 -117.340173893221,34.2896186146045,0 -117.340315424589,34.2896560609274,0 -117.340471539256,34.2896733567953,0 -117.340664963152,34.2897055002274,0 -117.340813282198,34.2896521758008,0 -117.34087116206,34.2895851704225,0 -117.340986145099,34.2896191554118,0 -117.341026395818,34.2897217677389,0 -117.341039937255,34.2898026823041,0 -117.341119703267,34.2898536083459,0 -117.341305441935,34.2898369787406,0 -117.341507198262,34.2898323975067,0 -117.341690276108,34.2898572314949,0 -117.341771047044,34.2899378321272,0 -117.34181530756,34.2900124630677,0 -117.341975938052,34.2900097710741,0 -117.342195786872,34.289929353046,0 -117.34236845181,34.2898586239215,0 -117.342607901992,34.2898420481213,0 -117.342847756387,34.2899045052591,0 -117.343040838497,34.2899257838826,0 -117.343188542963,34.2898798918668,0 -117.343298773343,34.2897854495174,0 -117.343393519255,34.2896285168121,0 -117.343496759674,34.289391484712,0 -117.343584885298,34.2892532955319,0 -117.34374471116,34.2892047767152,0 -117.343906669455,34.2892411853027,0 -117.344034546858,34.2893044335682,0 -117.344180966068,34.2892925254779,0 -117.344184334166,34.289158437775,0 -117.344057016967,34.2889975016026,0 -117.343973040645,34.2889136327417,0 -117.343924329776,34.2887369321773,0 -117.343928538822,34.288572722898,0 -117.343991780599,34.2884699135456,0 -117.344117435566,34.2883659384719,0 -117.344208106369,34.2882455180273,0 -117.344386226485,34.2881563084725,0 -117.344614939561,34.288066623816,0 -117.344770984129,34.2879433979293,0 -117.344899773796,34.2878522993382,0 -117.345104431482,34.287819032571,0 -117.34527112464,34.28777735533,0 -117.345437765158,34.2877188200397,0 -117.345638282132,34.287752278249,0 -117.345796910449,34.2877688808325,0 -117.345956917705,34.2877939655532,0 -117.34604755605,34.2878441678902,0 -117.346127992236,34.2879027123301,0 -117.346248739165,34.2879696437034,0 -117.34646988427,34.2879865233638,0 -117.346561401786,34.2881034505965,0 -117.346613724414,34.2882114763207,0 -117.346764653198,34.2882114856451,0 -117.34691425508,34.2881535839835,0 -117.347104853939,34.2881204964306,0 -117.347346487569,34.2881789380139,0 -117.347325666401,34.2879964581986,0 -117.347229487469,34.2879406493082,0 -117.347138261043,34.2878805175545,0 -117.347016488874,34.2877731909906,0 -117.346881449056,34.2877104880217,0 -117.346724317631,34.2876369036506,0 -117.346626936605,34.2875985570342,0 -117.346528760359,34.287634995847,0 -117.346537887944,34.2874586886006,0 -117.346517071229,34.2873661247181,0 -117.346515849632,34.2872142962103,0 -117.346424020076,34.2870876667728,0 -117.346362626969,34.2869273448933,0 -117.346383140259,34.2867340251403,0 -117.34638369983,34.2865915350741,0 -117.346434976781,34.2864240548214,0 -117.346293658776,34.2863235117743,0 -117.346223384611,34.2861896077229,0 -117.346244190617,34.2860558491256,0 -117.34637621535,34.2859222496559,0 -117.346494239228,34.2859188315521,0 -117.346703013825,34.2858293349596,0 -117.346892158345,34.2858390971212,0 -117.347104545146,34.2858227002734,0 -117.34726631421,34.2858229681942,0 -117.347468423198,34.28585644687,0 -117.347609902867,34.285898166325,0 -117.347842397603,34.2859071517659,0 -117.348074510457,34.2858840894281,0 -117.348225544157,34.2858607434902,0 -117.348396449595,34.2858459210382,0 -117.348557063759,34.2858476202871,0 -117.348798010356,34.2859410337997,0 -117.348858868556,34.2860154402754,0 -117.348860026568,34.2861222210419,0 -117.348931461444,34.2862214075112,0 -117.349051669295,34.286205831351,0 -117.349050091314,34.2860825433214,0 -117.349018888953,34.2859837634807,0 -117.348997610925,34.2858854198758,0 -117.348936110629,34.2857956907246,0 -117.348795038408,34.2857215860079,0 -117.348674960277,34.2856873789377,0 -117.348524825181,34.2856610069522,0 -117.348364605551,34.2856591184956,0 -117.348204323688,34.2856897440993,0 -117.348093667818,34.2856725368116,0 -117.347962607795,34.2856071256979,0 -117.347801614997,34.2855736625939,0 -117.3476708037,34.285564402885,0 -117.347539893887,34.285554965973,0 -117.347439306685,34.2855056454644,0 -117.347318579052,34.2854641090004,0 -117.347207927452,34.2854224734824,0 -117.34708718378,34.285380628639,0 -117.346966205517,34.2853546646436,0 -117.346795649615,34.2852726368682,0 -117.346608564005,34.2852192075013,0 -117.34646276655,34.2851804724413,0 -117.346297274778,34.2851635576174,0 -117.346223985397,34.2850501481663,0 -117.346298836724,34.284959786303,0 -117.346364028082,34.2848802345048,0 -117.346360185772,34.284779018063,0 -117.346305665277,34.284683833327,0 -117.346342759667,34.2845793611799,0 -117.346466528177,34.2845057930871,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.346466528177,34.2845057930871,0 -117.346645305951,34.2845143323383,0 -117.346711545706,34.2845962168629,0 -117.346840532685,34.284603251622,0 -117.346980618842,34.2845547247721,0 -117.347175947315,34.2845769813544,0 -117.347292381637,34.2846252917129,0 -117.347466966119,34.284688108007,0 -117.347661228324,34.2846894428748,0 -117.347758419729,34.2847259241956,0 -117.347865704045,34.2847766301805,0 -117.348060643318,34.2847675979952,0 -117.34820771604,34.2847946502042,0 -117.348402678209,34.2847554156002,0 -117.348539474948,34.2847547549658,0 -117.348677093327,34.2848002524782,0 -117.348708801091,34.2848985032782,0 -117.348797734052,34.2849694314994,0 -117.348953559249,34.2850041459038,0 -117.349166161212,34.284977336113,0 -117.349240287105,34.2848879959264,0 -117.349424529294,34.2848736398793,0 -117.349497129045,34.2849473165141,0 -117.349494433982,34.2850495796716,0 -117.349674705804,34.2850850039489,0 -117.349860568901,34.2850861245729,0 -117.349945814094,34.2851840040332,0 -117.349846727343,34.2852789109398,0 -117.349705326408,34.2853356196305,0 -117.349634191121,34.2854321197878,0 -117.34971909498,34.285517032425,0 -117.349783195757,34.2856119752036,0 -117.349696938999,34.2856990260604,0 -117.349659881643,34.2858288641419,0 -117.349731513437,34.2859359654662,0 -117.349900856294,34.2859208103542,0 -117.349997934615,34.2858073073075,0 -117.350188151334,34.2858743035098,0 -117.350314927241,34.2857941084499,0 -117.350437283399,34.2856593825609,0 -117.350608246036,34.2856579922016,0 -117.350706978936,34.2857330004559,0 -117.350841530596,34.2857693900897,0 -117.350909611011,34.2856866261336,0 -117.351115436207,34.2856127011514,0 -117.351286991657,34.285675988688,0 -117.351417901288,34.2858331345844,0 -117.351468237169,34.2859839772785,0 -117.351469774548,34.2861518324712,0 -117.351558137915,34.2863138053149,0 -117.351690331524,34.286541864395,0 -117.351778400816,34.2866809522027,0 -117.351794416195,34.2868043601758,0 -117.351727976072,34.2868951242533,0 -117.351618255278,34.2869198517566,0 -117.351499463137,34.2869694010208,0 -117.35143272234,34.2870604691409,0 -117.351315937482,34.2871515669707,0 -117.351329418063,34.2872683091909,0 -117.351271529091,34.2873853107881,0 -117.351121176327,34.2874605898818,0 -117.350969572453,34.2875192648007,0 -117.351010491292,34.2876284718627,0 -117.351020231488,34.2877713493415,0 -117.350900293776,34.2879524537502,0 -117.350687679457,34.2878954578395,0 -117.35056941291,34.2879642697615,0 -117.350516220553,34.2880815371944,0 -117.350565002255,34.2881987522781,0 -117.350419649229,34.2883070143614,0 -117.350345138418,34.2884317177944,0 -117.350339979698,34.2885808470951,0 -117.35030133988,34.288720062452,0 -117.350167158271,34.2887519271118,0 -117.349962106037,34.2887831256252,0 -117.349921309655,34.2889521640386,0 -117.349904613289,34.2890888422957,0 -117.350002275502,34.2892961340506,0 -117.350078632361,34.2894684127626,0 -117.350023695879,34.2895877090456,0 -117.349946945953,34.2897024199809,0 -117.349771021221,34.2898308176463,0 -117.349540196321,34.2898925121686,0 -117.34948507163,34.2900810238969,0 -117.34961159677,34.290215268739,0 -117.349581706973,34.2903477320325,0 -117.349521250344,34.2904920467452,0 -117.349561069397,34.2906004139569,0 -117.34961042031,34.2907331293888,0 -117.349717037801,34.2909125032078,0 -117.349848690873,34.2910364777365,0 -117.349782961303,34.2910815702354,0 -117.34975809128,34.2912924162934,0 -117.349836221495,34.2914449717028,0 -117.350020163295,34.2915883395356,0 -117.350147355146,34.291694749556,0 -117.350344669251,34.2918871604182,0 -117.350535827611,34.2921091592774,0 -117.35075191263,34.2922735526166,0 -117.350947733928,34.2924131637565,0 -117.351096740211,34.2925497012865,0 -117.351240631631,34.2926933020553,0 -117.351302588226,34.2928437216112,0 -117.351461686441,34.2930407666541,0 -117.351416688077,34.2933293888048,0 -117.351499734835,34.2935239759858,0 -117.35148293032,34.2936960761396,0 -117.351433934171,34.2939546231529,0 -117.351274926693,34.294171726621,0 -117.351224462147,34.2943895502776,0 -117.351117678418,34.294537962623,0 -117.350931883222,34.2947275612531,0 -117.350902704753,34.2949189838137,0 -117.350940436527,34.2951023510086,0 -117.351240069666,34.2951006856999,0 -117.351488877282,34.2951286351803,0 -117.351783948714,34.2951537419563,0 -117.352008859722,34.2952548737923,0 -117.352064220491,34.2954428768353,0 -117.35205367133,34.2956370577821,0 -117.35200216468,34.2958223379563,0 -117.351977917009,34.2960296138228,0 -117.352054512284,34.296122933716,0 -117.352035950032,34.2962585755931,0 -117.351945473908,34.2963869541424,0 -117.351906949233,34.2964898565239,0 -117.351814690363,34.2965598771849,0 -117.351681434324,34.296586508345,0 -117.351547951881,34.2965965416858,0 -117.351441063456,34.2966177881714,0 -117.351614977491,34.2966687882516,0 -117.351749089941,34.2966965974726,0 -117.351858169258,34.296772332633,0 -117.351826692997,34.2969371995605,0 -117.35184791304,34.2970479895217,0 -117.351868605801,34.2971762710636,0 -117.351889849458,34.2973156096193,0 -117.351932129958,34.2974381626792,0 -117.351815485077,34.2975621478787,0 -117.351693462718,34.2976686753675,0 -117.351675202838,34.2977917488162,0 -117.351517517947,34.2979039400051,0 -117.351355529444,34.2980440014211,0 -117.351336447321,34.2982020532258,0 -117.351377883793,34.2983210811658,0 -117.3514810162,34.2984409200816,0 -117.351619390732,34.2985563118182,0 -117.351601286737,34.2986840569537,0 -117.351541195385,34.2987604540898,0 -117.35143756756,34.2987366879863,0 -117.351348247413,34.2987194486166,0 -117.351267968559,34.2988225918756,0 -117.351297092829,34.2989419669764,0 -117.351422170761,34.2989884495379,0 -117.351493491073,34.299108105635,0 -117.351446276343,34.2991991008868,0 -117.351419910324,34.299314365041,0 -117.351385154612,34.2993270756044,0 -117.3514356506,34.2994598983873,0 -117.351486011967,34.2995569284852,0 -117.351537584289,34.2996985724543,0 -117.351498121353,34.2998684819558,0 -117.351459980887,34.3000595826693,0 -117.351398401324,34.3001647097232,0 -117.351261191384,34.3001788597861,0 -117.351116850757,34.3002405535952,0 -117.351037921137,34.3003813917797,0 -117.350964815699,34.3005385070786,0 -117.350875088985,34.300611785927,0 -117.350786668064,34.3006804368787,0 -117.350693178581,34.3006978890438,0 -117.350544464541,34.3006512459573,0 -117.350458980694,34.300574012233,0 -117.350312592295,34.3006031925617,0 -117.350176686474,34.3006911986616,0 -117.350066591454,34.3007614900894,0 -117.350067809166,34.3009094261928,0 -117.350082535951,34.3010336363725,0 -117.349921005697,34.3011466696447,0 -117.350033137433,34.3012545926795,0 -117.350019886913,34.3013299505427,0 -117.349894983175,34.3013853133927,0 -117.349746034307,34.3015031198757,0 -117.349583848831,34.3015444823298,0 -117.349542470238,34.3015583308083,0 -117.349384878527,34.3015652275459,0 -117.349386028828,34.3014060952442,0 -117.349186627847,34.3013309325738,0 -117.349089809041,34.3013108636507,0 -117.348979012325,34.3013247381916,0 -117.348914845341,34.3014401775702,0 -117.348861267809,34.3015087497597,0 -117.348774434039,34.3015016387033,0 -117.348775754246,34.3013454968609,0 -117.348688515319,34.3013190082233,0 -117.348558440916,34.301345858933,0 -117.348417461719,34.3014331202278,0 -117.348378485156,34.301576574023,0 -117.348319917003,34.3016881611949,0 -117.348235874511,34.3018091459344,0 -117.348112040727,34.3018523699487,0 -117.347953730104,34.3019031856905,0 -117.347880978457,34.3020138099231,0 -117.347734616908,34.3020627456747,0 -117.34766642128,34.3020412881762,0 -117.347574420668,34.3020491331107,0 -117.347505825685,34.30210794176,0 -117.347456122291,34.3021629882507,0 -117.347357319068,34.3022334989779,0 -117.34733087923,34.3022942025981,0 -117.347245339127,34.3023458048494,0 -117.347166699032,34.3023405708402,0 -117.347119931423,34.3023043920588,0 -117.347067968351,34.3022694090011,0 -117.346984343029,34.3022532316585,0 -117.346897340131,34.3022640223577,0 -117.346789110552,34.3023117737186,0 -117.346692651707,34.3023285419105,0 -117.34660942845,34.302354316298,0 -117.346503810863,34.3023724115094,0 -117.346414656869,34.3023764579026,0 -117.346367705029,34.3022698261133,0 -117.346338691716,34.302195335236,0 -117.346279660285,34.302166923731,0 -117.346144633612,34.3021325688362,0 -117.346008169441,34.302138913334,0 -117.345936368704,34.3021387591733,0 -117.345830534377,34.3021380968383,0 -117.345726343468,34.3021371306531,0 -117.345722349138,34.3022193251164,0 -117.345658561134,34.3022891134834,0 -117.345578830115,34.3023166795014,0 -117.345526488399,34.3023292202764,0 -117.345479399752,34.3023683421206,0 -117.34544409332,34.3024311942026,0 -117.345396677787,34.3024423523143,0 -117.345397003923,34.3025937290057,0 -117.345384804732,34.3027575833315,0 -117.345348010057,34.3028784090721,0 -117.345221797041,34.3029852961136,0 -117.3450647723,34.3031125816272,0 -117.344993478168,34.3032395424264,0 -117.344987653398,34.3033801907472,0 -117.345122336532,34.3035480024361,0 -117.345222680604,34.3036529843566,0 -117.345364133256,34.3037030423182,0 -117.345528400839,34.3037541657688,0 -117.345546419029,34.3038530193235,0 -117.345459381234,34.3039089010424,0 -117.345283392024,34.3038933050963,0 -117.345196954078,34.3038577269677,0 -117.345099753631,34.303837532286,0 -117.344886344861,34.3038693975305,0 -117.344644294207,34.3038945559542,0 -117.344509125128,34.3038452046693,0 -117.344260612629,34.3038553726756,0 -117.344179939391,34.303796985115,0 -117.344261448322,34.3037312696615,0 -117.344465584152,34.3036791019475,0 -117.344420940775,34.3035935238589,0 -117.344245441867,34.3035656881637,0 -117.344132263819,34.3034871430336,0 -117.34406995626,34.3033945749447,0 -117.344085245531,34.3033094537631,0 -117.344193536915,34.3031963568649,0 -117.344181036739,34.303048474148,0 -117.344161655394,34.3029643300415,0 -117.343937973021,34.3028876236782,0 -117.34374230459,34.3029579855556,0 -117.34363901892,34.3029023988637,0 -117.343714540193,34.3027905750006,0 -117.343713395371,34.302672167444,0 -117.34365328238,34.3025819230245,0 -117.343559401576,34.3024920419504,0 -117.343449087119,34.3024440568209,0 -117.343365811378,34.3026175245064,0 -117.343307163224,34.3027707840804,0 -117.343349895167,34.3029101337563,0 -117.343375382242,34.3030289120427,0 -117.343477772781,34.3030986603405,0 -117.34355526161,34.3031966338339,0 -117.343560375767,34.3032424587497,0 -117.343641296561,34.3033355941647,0 -117.343652930867,34.3034221542234,0 -117.343560151718,34.3034449860359,0 -117.343477244325,34.3034010312886,0 -117.343452945125,34.3033493765032,0 -117.343409376826,34.3032780143605,0 -117.343375729752,34.3032187114846,0 -117.34336144857,34.3031673566603,0 -117.343323086307,34.3031279550388,0 -117.343275168909,34.3031083926924,0 -117.343193829574,34.303128417447,0 -117.343150695807,34.3031875250103,0 -117.343069896801,34.3032735238981,0 -117.343097749429,34.3033822857009,0 -117.343144630603,34.30346800413,0 -117.343116270306,34.3035765213478,0 -117.343088220039,34.3036742798638,0 -117.343060440757,34.3037952066557,0 -117.343026300018,34.3039146073482,0 -117.342967526981,34.3039636953988,0 -117.342845108612,34.3039435137617,0 -117.342760021076,34.3038841424764,0 -117.34271086261,34.3037868432779,0 -117.342631256684,34.3037506221095,0 -117.342479091375,34.3037086299635,0 -117.34238952721,34.303735608356,0 -117.342266699546,34.3037851342166,0 -117.34212015128,34.3038366847776,0 -117.342039648176,34.3038655453005,0 -117.341950661861,34.3038085993318,0 -117.341998422524,34.3036885686933,0 -117.341966216209,34.303565659994,0 -117.341986184041,34.303439647408,0 -117.342012948198,34.3033609733576,0 -117.342018996026,34.3033090259209,0 -117.342045412867,34.3032614453888,0 -117.342119066265,34.3032455681654,0 -117.342134151948,34.303132398412,0 -117.342071786416,34.303075303192,0 -117.342007580431,34.3030508714122,0 -117.341997482671,34.303022457814,0 -117.342004763507,34.3029449958781,0 -117.342027619917,34.3029066648692,0 -117.342172722431,34.3028314796802,0 -117.342192486008,34.3027300943962,0 -117.34221765434,34.3026452303129,0 -117.342237059959,34.3025093059109,0 -117.342290572621,34.3024629492488,0 -117.342299501995,34.3024158661802,0 -117.342386635135,34.3024168509592,0 -117.342435841835,34.3024742315222,0 -117.34249361926,34.3024440939479,0 -117.342489587172,34.3023587136375,0 -117.342486192762,34.3022786610526,0 -117.342572540769,34.3022584520882,0 -117.342695809297,34.3022460951606,0 -117.342790565646,34.3021807673251,0 -117.342921433063,34.3021592147474,0 -117.343028667308,34.3021293546322,0 -117.34307506647,34.3020448495063,0 -117.343102606269,34.301957515326,0 -117.343195251792,34.3018991850984,0 -117.343283305552,34.3018449949833,0 -117.343329222925,34.3017931111835,0 -117.343309470337,34.3017420365392,0 -117.343248480473,34.3017150246703,0 -117.3431149007,34.3017174681016,0 -117.34297399759,34.3017226089047,0 -117.34283408925,34.3017519728164,0 -117.342770121999,34.3018036035075,0 -117.342687420116,34.3018548004983,0 -117.342618601903,34.3018713236187,0 -117.342524446461,34.3018414416859,0 -117.342463729414,34.3017887009269,0 -117.34241835434,34.3017211044693,0 -117.342418618167,34.3016521293804,0 -117.342422331856,34.3015851471594,0 -117.342296630903,34.3015264543728,0 -117.342166934731,34.301513969106,0 -117.341971592764,34.3013991912084,0 -117.341889901054,34.3012357185067,0 -117.342010263477,34.3011444123719,0 -117.342219362659,34.3011693926487,0 -117.342379944179,34.3011080414199,0 -117.34265935254,34.300972441048,0 -117.342721146201,34.3008577905178,0 -117.342948754264,34.3007233317381,0 -117.343094405836,34.3006162213127,0 -117.343034854099,34.3004903196552,0 -117.342793738044,34.300345120224,0 -117.342785124374,34.3001997004128,0 -117.3428965567,34.3001154369368,0 -117.342842717954,34.2999835756534,0 -117.342774707099,34.2998308191114,0 -117.342711974068,34.2996918690924,0 -117.342812582619,34.299495293933,0 -117.342765529874,34.299345207205,0 -117.342647251069,34.2992120270296,0 -117.342604803786,34.2991072401621,0 -117.342625308168,34.299001939054,0 -117.34271351005,34.2988863970284,0 -117.342681107867,34.2987309033463,0 -117.342640996701,34.2985601153372,0 -117.342535733386,34.2984988053412,0 -117.342462857287,34.2984824169342,0 -117.342426184337,34.2984071270349,0 -117.342425209349,34.2983922635395,0 -117.342364848603,34.2983296047735,0 -117.342362394701,34.2983152419627,0 -117.342319147398,34.2982743009833,0 -117.342253277719,34.2982782120026,0 -117.342213427395,34.2982374282077,0 -117.342369744545,34.2981114634204,0 -117.342537601922,34.29797493764,0 -117.342759713313,34.2979903681708,0 -117.343011331586,34.2980618817889,0 -117.343012821307,34.2979541323982,0 -117.342905954739,34.2978348133984,0 -117.342777932438,34.2977449960872,0 -117.342729171883,34.2976439090416,0 -117.342817527978,34.2975555828363,0 -117.342760986694,34.2973915456768,0 -117.342580372384,34.2973642887438,0 -117.342420963386,34.2974058065497,0 -117.342295793799,34.2975222918762,0 -117.342200899907,34.2975952114344,0 -117.342080379457,34.297699935448,0 -117.34201389109,34.2979340714253,0 -117.341928554228,34.297979378927,0 -117.34186517561,34.2981754839558,0 -117.341811404001,34.2982340202991,0 -117.341744622006,34.2984755361065,0 -117.341580701178,34.2985482591016,0 -117.341454269034,34.2987375448404,0 -117.341407955577,34.2988552446877,0 -117.341308115869,34.2989866865963,0 -117.341214606999,34.2990795191999,0 -117.341066905742,34.2991550505903,0 -117.341008025373,34.2990665516357,0 -117.341012111629,34.2989835927457,0 -117.340906195632,34.298904050085,0 -117.340856918642,34.2988375285972,0 -117.340852339622,34.2987474775009,0 -117.340790301008,34.2984437494557,0 -117.340667982843,34.2983336700866,0 -117.340503670036,34.2983655952741,0 -117.340482579027,34.2985151860236,0 -117.340420474326,34.2986547061836,0 -117.340241106615,34.2986652234748,0 -117.340102518187,34.2986560488681,0 -117.339881285805,34.2986955855432,0 -117.339759577766,34.2987864930466,0 -117.33972033168,34.2989170053046,0 -117.339790193311,34.2989847729286,0 -117.339814673077,34.2990455518672,0 -117.339799886054,34.2991022206835,0 -117.339686501706,34.2991593620158,0 -117.339595137586,34.2991883570644,0 -117.339555927722,34.2991371385953,0 -117.339529446994,34.2990756388664,0 -117.339529477692,34.2990161464832,0 -117.339476216798,34.2989815219533,0 -117.339379948613,34.2990285546515,0 -117.339374589257,34.2990939176776,0 -117.339359050058,34.2991476921998,0 -117.339383496679,34.299202013081,0 -117.339428906165,34.2992831331764,0 -117.339502775089,34.2993621602292,0 -117.339553257153,34.2994687992393,0 -117.339561562148,34.2995663699713,0 -117.339578729697,34.2996677156662,0 -117.339562904796,34.2997943018285,0 -117.339537423533,34.2999161259648,0 -117.339527353885,34.3000616845631,0 -117.339549548974,34.3001865644457,0 -117.339583917789,34.3003026942885,0 -117.339607222478,34.3004228876021,0 -117.339564784961,34.3005091808175,0 -117.33953128058,34.3005976853925,0 -117.339567441057,34.3006880972599,0 -117.339616952859,34.3007704596068,0 -117.33959868292,34.3008741526115,0 -117.339573869311,34.3009795471454,0 -117.339452303824,34.3010454567554,0 -117.339254691464,34.3011113269344,0 -117.339200911894,34.3011877735258,0 -117.339185380338,34.3012588914362,0 -117.339107675505,34.3013024636698,0 -117.339001790174,34.3012819401456,0 -117.338890576054,34.3012093655132,0 -117.338815142949,34.3010513197646,0 -117.338775563724,34.3009382313661,0 -117.338674710392,34.300864047022,0 -117.338507217677,34.300858691026,0 -117.338378691417,34.3008323253793,0 -117.338212488996,34.3008206245061,0 -117.338030308302,34.3008420274558,0 -117.337919283341,34.3007652861762,0 -117.337805271817,34.3007595561183,0 -117.337654566372,34.300622027155,0 -117.33753717835,34.3005164420664,0 -117.337366971603,34.300497239746,0 -117.337280172937,34.3004376061817,0 -117.337266717042,34.3002995085555,0 -117.337145957109,34.3002238126585,0 -117.337038933437,34.3001272237359,0 -117.336989762412,34.2999692419033,0 -117.336921563721,34.2998314275771,0 -117.336875815214,34.2996465204866,0 -117.336877815144,34.2994800312282,0 -117.336826757001,34.2992509063503,0 -117.336798974131,34.2990611847546,0 -117.336878557646,34.2987865835549,0 -117.33696132086,34.2985294895637,0 -117.337071798473,34.2982691579812,0 -117.337128584617,34.2980792307103,0 -117.337177244088,34.2979315621551,0 -117.337288483,34.2976983143554,0 -117.337426215636,34.2975566832362,0 -117.337547728217,34.2974493401357,0 -117.337637803786,34.2974449042471,0 -117.33784064203,34.2974579565775,0 -117.337915695563,34.2973828772689,0 -117.338001240577,34.2972587852705,0 -117.338112268185,34.2971095473847,0 -117.338187643307,34.296970107107,0 -117.33825846418,34.2968149337006,0 -117.338340769029,34.2966644155191,0 -117.338427031682,34.296578306482,0 -117.338503528081,34.2964682344028,0 -117.33867930313,34.2962616886364,0 -117.338891920453,34.2960191274832,0 -117.339060505801,34.2958541927518,0 -117.339257922669,34.2956845817736,0 -117.339405436265,34.2955420893158,0 -117.339542299195,34.2954194251406,0 -117.339648005003,34.2952864409285,0 -117.33976162571,34.2951561457062,0 -117.339865442218,34.2950537736807,0 -117.340043504323,34.2949121954559,0 -117.340318479821,34.2946351380048,0 -117.34040816776,34.2945229173037,0 -117.340576524278,34.294344269626,0 -117.340690891339,34.2942406868302,0 -117.340804772286,34.2941076875264,0 -117.340900792362,34.2940046777022,0 -117.341109463333,34.2937602336742,0 -117.341233679743,34.2936199623054,0 -117.341337566069,34.2936486921179,0 -117.341506141464,34.2937545710124,0 -117.341525155589,34.2939584536016,0 -117.34154854388,34.2941442556842,0 -117.34154560006,34.2944021894907,0 -117.341414493898,34.294549584449,0 -117.341371311767,34.2946871001827,0 -117.341354558047,34.2948319456574,0 -117.341475188182,34.2949476316757,0 -117.341609933347,34.2950191419394,0 -117.341704611868,34.2951046041798,0 -117.341857674289,34.295195575906,0 -117.342009761483,34.2952772837895,0 -117.342150525491,34.2953155883835,0 -117.342148510286,34.2954324989618,0 -117.342214104732,34.2955522867704,0 -117.342304222252,34.2954608255043,0 -117.342293419174,34.2953595912019,0 -117.342244669519,34.2952101597209,0 -117.342213040219,34.2950859436358,0 -117.342216625343,34.2949530867371,0 -117.342283594281,34.2948265139743,0 -117.342306703225,34.2947066877529,0 -117.342413148754,34.2946084232684,0 -117.342483058621,34.2944443838347,0 -117.342509632967,34.2943201042536,0 -117.342529310492,34.2941721512753,0 -117.342537788687,34.2940100873585,0 -117.342527324141,34.2938638314713,0 -117.342494836384,34.2937256937734,0 -117.342440392667,34.2935785666185,0 -117.342394485587,34.2934744679228,0 -117.342252645098,34.2933437580548,0 -117.342046336289,34.2933620027055,0 -117.342048261799,34.2935007467177,0 -117.342179771625,34.293706189763,0 -117.342170777429,34.2938551825583,0 -117.342039410619,34.293983869396,0 -117.341884078436,34.2939904155605,0 -117.341787902199,34.2938284665017,0 -117.341732934606,34.2937195304089,0 -117.341728793494,34.293573368183,0 -117.341750238911,34.2934532228458,0 -117.341775655745,34.2933132783786,0 -117.341840310191,34.2931766121114,0 -117.341923446327,34.2930399823895,0 -117.342031330717,34.2929140034987,0 -117.342150749959,34.2928158047873,0 -117.342255931038,34.2926930407066,0 -117.342245550575,34.2925843597599,0 -117.342088089444,34.2925454997348,0 -117.341825740776,34.2926442033291,0 -117.341600605196,34.2927710242985,0 -117.341378543815,34.292925243119,0 -117.341231066217,34.2930700826834,0 -117.341143513036,34.2932027072638,0 -117.341154464372,34.2933953169225,0 -117.341051842987,34.2935327770776,0 -117.340907540799,34.2937156869073,0 -117.340731505582,34.2939202382742,0 -117.340556706569,34.2940784252737,0 -117.340327159158,34.2943041431758,0 -117.340059099212,34.294564479779,0 -117.339855649588,34.2947758935636,0 -117.339746543706,34.2949642493469,0 -117.339606070274,34.2951188170926,0 -117.339422873844,34.2952667727348,0 -117.339327464463,34.2952729597335,0 -117.339166458413,34.2952997692326,0 -117.339028749539,34.2954012251655,0 -117.338853581179,34.2955342850713,0 -117.33873985038,34.2956529988097,0 -117.338792521692,34.2958560009433,0 -117.338671049598,34.2960333006666,0 -117.33850536203,34.2962386799007,0 -117.338362930277,34.2964100242013,0 -117.338181113442,34.2965559487322,0 -117.338077557505,34.2965852926244,0 -117.337979771942,34.2965377800726,0 -117.337732328167,34.2965551362686,0 -117.337577006291,34.2966440261136,0 -117.337303586694,34.296806065509,0 -117.337224686686,34.2968595510463,0 -117.337169352535,34.2969824514233,0 -117.337124784267,34.2971563366475,0 -117.337128505608,34.2973519788429,0 -117.337169823014,34.2974486720427,0 -117.337170747878,34.2975566198463,0 -117.337114687842,34.2976291487497,0 -117.337054597633,34.297697238001,0 -117.337024879577,34.2977716269851,0 -117.336976105525,34.2978648685026,0 -117.336960418236,34.2979463834495,0 -117.336925156807,34.2979826637042,0 -117.336879826168,34.2979775077618,0 -117.336867647476,34.2979629628189,0 -117.336854243876,34.2979218002722,0 -117.33689212402,34.2978328917574,0 -117.336880952692,34.297748660798,0 -117.336875381584,34.2976580851193,0 -117.336868740491,34.2975667199967,0 -117.336845965956,34.2974789465136,0 -117.33689527537,34.2973732412687,0 -117.336938660836,34.2972945088587,0 -117.336990089041,34.297250261128,0 -117.336984079026,34.2971409337662,0 -117.336925383695,34.2970991157472,0 -117.336841471732,34.2969998093893,0 -117.336807930522,34.296895116548,0 -117.336830064571,34.296810513089,0 -117.336810936417,34.2967393429961,0 -117.336705745857,34.2967104934314,0 -117.336634007849,34.2967049638141,0 -117.336545174693,34.2966834223597,0 -117.336508065214,34.2966110374024,0 -117.336492880264,34.2965297240485,0 -117.336451183219,34.2964325446345,0 -117.336366604591,34.296444678944,0 -117.336366001325,34.296526784319,0 -117.336398113523,34.2966179213983,0 -117.33645220959,34.2966940637135,0 -117.336454299948,34.296769877006,0 -117.336440584703,34.2968437297599,0 -117.336433875335,34.296921671303,0 -117.336441359871,34.2970097790957,0 -117.336423311338,34.2970749568919,0 -117.336371507172,34.2971257300143,0 -117.336296538949,34.2971454788638,0 -117.336190724815,34.2971120162828,0 -117.33612024636,34.2970751191941,0 -117.336054256963,34.2969918185931,0 -117.335986944307,34.2968913009271,0 -117.335905517338,34.2968147137815,0 -117.335889563323,34.296732575013,0 -117.335933080282,34.2966995011603,0 -117.335945481268,34.296624174102,0 -117.335888663806,34.2965899158022,0 -117.335771071075,34.2966214082763,0 -117.335696968031,34.296721609871,0 -117.335660100852,34.2968101967405,0 -117.335534538806,34.296956266806,0 -117.335458195277,34.2970405602287,0 -117.335323602237,34.2971321355879,0 -117.335239762936,34.2971894161131,0 -117.335127947009,34.2971850648736,0 -117.334979064456,34.2972062019696,0 -117.334801602221,34.2971595911071,0 -117.33461697237,34.2971687069189,0 -117.334451048546,34.2971152376039,0 -117.334351065465,34.2970266095395,0 -117.334351049124,34.2968819641784,0 -117.334477460997,34.2967369862885,0 -117.334603526975,34.2966032161899,0 -117.334735745009,34.2964971254738,0 -117.334775259609,34.2963973569773,0 -117.334821109343,34.2962809581142,0 -117.335011012884,34.2961584165691,0 -117.335004154794,34.2960318705979,0 -117.33491172296,34.2959384655067,0 -117.334752487546,34.2959489487417,0 -117.334690093695,34.2959736697024,0 -117.334631857665,34.2960942070387,0 -117.334524321305,34.2962077122483,0 -117.334383191087,34.2962533066181,0 -117.334316948162,34.2963143526053,0 -117.334190421745,34.296341085815,0 -117.334103881411,34.2962956129345,0 -117.33401765332,34.2962280663611,0 -117.333878980966,34.2962099774859,0 -117.333681863022,34.2962460179127,0 -117.333556819358,34.2963223113462,0 -117.333445154708,34.2963710216199,0 -117.333371143238,34.296460698496,0 -117.333323055145,34.2965839108172,0 -117.333236649271,34.2966502439664,0 -117.333099511228,34.2966369408525,0 -117.332887768032,34.2965381854542,0 -117.332785547285,34.2963899943505,0 -117.332787579269,34.2963616116651,0 -117.332763721577,34.2961759219566,0 -117.332806527775,34.2959991170849,0 -117.33284756574,34.2958275338539,0 -117.332910172356,34.2956915369674,0 -117.333056467155,34.2955386085318,0 -117.333247997055,34.2954280966679,0 -117.333283812907,34.2953093568508,0 -117.333391237545,34.2951730706301,0 -117.333536465284,34.2950900480342,0 -117.333671248577,34.294893514223,0 -117.333859920648,34.2946945581907,0 -117.333860815408,34.294667830899,0 -117.333965783955,34.2945120444758,0 -117.334146203687,34.2944524393711,0 -117.334389581424,34.2944073859325,0 -117.334618957425,34.2944435482145,0 -117.334825089025,34.2945027685648,0 -117.335030981784,34.2945674648857,0 -117.335290509395,34.2946034824207,0 -117.335497373963,34.2944434323488,0 -117.3354200254,34.294345601484,0 -117.335453025124,34.2941608318904,0 -117.335640135036,34.2939863886183,0 -117.335661160014,34.2938166032806,0 -117.335773166708,34.2937207524224,0 -117.335810061103,34.2936134391024,0 -117.335716343668,34.2934715943267,0 -117.335544962108,34.2933320989065,0 -117.335501137977,34.2931545142162,0 -117.335381515118,34.2930232253156,0 -117.335390622308,34.2928588046126,0 -117.335532241703,34.2928302706008,0 -117.335718449811,34.2928947583047,0 -117.335850553041,34.2928242994894,0 -117.336078667004,34.2927785298016,0 -117.336162901217,34.292890230565,0 -117.336299864147,34.29298162039,0 -117.336460198423,34.2930359974848,0 -117.336570115954,34.2931673050402,0 -117.336644967294,34.2932449593213,0 -117.336802125689,34.2932117966194,0 -117.336775869921,34.2930721451374,0 -117.336664779823,34.2929294444773,0 -117.336635018606,34.292792868381,0 -117.336637912731,34.2926696801244,0 -117.336691133571,34.2925356850157,0 -117.336753109855,34.292452619919,0 -117.336734427814,34.2923471456799,0 -117.336718490705,34.2922359444449,0 -117.336818232744,34.2921586533216,0 -117.336969175202,34.292143161272,0 -117.337031980953,34.2919973744452,0 -117.337162776327,34.2919047141807,0 -117.337330233341,34.2917708336696,0 -117.337415575305,34.2916852858513,0 -117.3375233602,34.2915265661642,0 -117.337567605008,34.2913643721729,0 -117.337571198145,34.291237180016,0 -117.337885084037,34.2910154142738,0 -117.337969227313,34.2908333792143,0 -117.338136370837,34.2906151564382,0 -117.338146371995,34.2904772555456,0 -117.338159195813,34.2903278609376,0 -117.338164913703,34.2901877311944,0 -117.33831389177,34.2901162323081,0 -117.338471799103,34.2901766359573,0 -117.338504663919,34.2903040564558,0 -117.338491556345,34.29046296496,0 -117.338555886857,34.2905822112598,0 -117.33860990865,34.2906986363397,0 -117.338668462414,34.2908029322493,0 -117.338802602493,34.290937909273,0 -117.338838539825,34.291031615173,0 -117.338888947105,34.2911333053748,0 -117.339039537823,34.2911627414538,0 -117.339212686027,34.2911924088232,0 -117.339370801984,34.2912321745483,0 -117.339541820629,34.2911612608993,0 -117.339722146828,34.2911056651921,0 -117.339791295457,34.2909848067018,0 -117.339927928503,34.2908721214515,0 -117.340138445513,34.2907451545787,0 -117.340198465627,34.2905353403529,0 -117.340273115402,34.2904504425425,0 -117.340408111349,34.2904486318721,0 -117.340526193287,34.2905320518573,0 -117.340646086805,34.2904990178549,0 -117.340744528051,34.2903961139049,0 -117.340929739382,34.2903177037072,0 -117.340928987711,34.2902185258148,0 -117.340819572872,34.2901733575015,0 -117.340784372939,34.2902305747884,0 -117.340687029692,34.2902227798172,0 -117.340642436823,34.2901731809094,0 -117.34061936351,34.2900654269887,0 -117.340609608752,34.2899946441339,0 -117.340685824556,34.2899443908964,0 -117.340606891807,34.2898365081331,0 -117.340483642178,34.2898377175027,0 -117.340383593349,34.2898154620692,0 -117.340269338735,34.2898072145261,0 -117.340179730158,34.2898284229507,0 -117.340126952912,34.2897948271934,0 -117.340052042571,34.2897220475994,0 -117.340092890145,34.2896820087316,0 -117.340173697041,34.2896858700997,0 -117.340219748114,34.2897128175211,0 -117.340298225579,34.2897088588435,0 -117.340323049801,34.2896532874852,0 -117.340348593049,34.2895941412567,0 -117.340542330743,34.2896139872852,0 -117.340662818772,34.2896695809211,0 -117.340813282198,34.2896521758008,0 -117.34087116206,34.2895851704225,0 -117.340986145099,34.2896191554118,0 -117.341026395818,34.2897217677389,0 -117.341039937255,34.2898026823041,0 -117.341160477435,34.2897906891514,0 -117.341325248992,34.2897626878479,0 -117.341533231523,34.2897387620697,0 -117.341676995486,34.2897876194978,0 -117.341761135036,34.2898696074181,0 -117.341852125377,34.2899035773341,0 -117.341983176385,34.2898648538021,0 -117.342121540238,34.2898521861108,0 -117.342363450825,34.2897837441179,0 -117.34261867782,34.2897621893396,0 -117.342839756381,34.2898130938015,0 -117.343028955362,34.2898728793949,0 -117.343111601659,34.2898209924283,0 -117.343241806094,34.2897801792932,0 -117.343393519255,34.2896285168121,0 -117.343394182563,34.2894038924768,0 -117.343564857588,34.2892266018629,0 -117.343687340202,34.2891410654163,0 -117.343909974144,34.2891930851952,0 -117.344049094388,34.289262609138,0 -117.344180966068,34.2892925254779,0 -117.344184334166,34.289158437775,0 -117.344057016967,34.2889975016026,0 -117.343973040645,34.2889136327417,0 -117.343924329776,34.2887369321773,0 -117.343928538822,34.288572722898,0 -117.343991780599,34.2884699135456,0 -117.344117435566,34.2883659384719,0 -117.344208106369,34.2882455180273,0 -117.344386226485,34.2881563084725,0 -117.344614939561,34.288066623816,0 -117.344770984129,34.2879433979293,0 -117.344899773796,34.2878522993382,0 -117.345104431482,34.287819032571,0 -117.34527112464,34.28777735533,0 -117.345437765158,34.2877188200397,0 -117.345638282132,34.287752278249,0 -117.345796910449,34.2877688808325,0 -117.345956917705,34.2877939655532,0 -117.34604755605,34.2878441678902,0 -117.346127992236,34.2879027123301,0 -117.346248739165,34.2879696437034,0 -117.34646988427,34.2879865233638,0 -117.346561401786,34.2881034505965,0 -117.346613724414,34.2882114763207,0 -117.346764653198,34.2882114856451,0 -117.34691425508,34.2881535839835,0 -117.347104853939,34.2881204964306,0 -117.347346487569,34.2881789380139,0 -117.347325666401,34.2879964581986,0 -117.347229487469,34.2879406493082,0 -117.347138261043,34.2878805175545,0 -117.347016488874,34.2877731909906,0 -117.346881449056,34.2877104880217,0 -117.346724317631,34.2876369036506,0 -117.346626936605,34.2875985570342,0 -117.346528760359,34.287634995847,0 -117.346537887944,34.2874586886006,0 -117.346517071229,34.2873661247181,0 -117.346515849632,34.2872142962103,0 -117.346424020076,34.2870876667728,0 -117.346362626969,34.2869273448933,0 -117.346383140259,34.2867340251403,0 -117.34638369983,34.2865915350741,0 -117.346434976781,34.2864240548214,0 -117.346293658776,34.2863235117743,0 -117.346223384611,34.2861896077229,0 -117.346244190617,34.2860558491256,0 -117.34637621535,34.2859222496559,0 -117.346494239228,34.2859188315521,0 -117.346703013825,34.2858293349596,0 -117.346892158345,34.2858390971212,0 -117.347104545146,34.2858227002734,0 -117.34726631421,34.2858229681942,0 -117.347468423198,34.28585644687,0 -117.347609902867,34.285898166325,0 -117.347842397603,34.2859071517659,0 -117.348074510457,34.2858840894281,0 -117.348225544157,34.2858607434902,0 -117.348396449595,34.2858459210382,0 -117.348557063759,34.2858476202871,0 -117.348798010356,34.2859410337997,0 -117.348858868556,34.2860154402754,0 -117.348860026568,34.2861222210419,0 -117.348931461444,34.2862214075112,0 -117.349051669295,34.286205831351,0 -117.349050091314,34.2860825433214,0 -117.349018888953,34.2859837634807,0 -117.348997610925,34.2858854198758,0 -117.348936110629,34.2857956907246,0 -117.348795038408,34.2857215860079,0 -117.348674960277,34.2856873789377,0 -117.348524825181,34.2856610069522,0 -117.348364605551,34.2856591184956,0 -117.348204323688,34.2856897440993,0 -117.348093667818,34.2856725368116,0 -117.347962607795,34.2856071256979,0 -117.347801614997,34.2855736625939,0 -117.3476708037,34.285564402885,0 -117.347539893887,34.285554965973,0 -117.347439306685,34.2855056454644,0 -117.347318579052,34.2854641090004,0 -117.347207927452,34.2854224734824,0 -117.34708718378,34.285380628639,0 -117.346966205517,34.2853546646436,0 -117.346795649615,34.2852726368682,0 -117.346608564005,34.2852192075013,0 -117.34646276655,34.2851804724413,0 -117.346297274778,34.2851635576174,0 -117.346223985397,34.2850501481663,0 -117.346298836724,34.284959786303,0 -117.346364028082,34.2848802345048,0 -117.346360185772,34.284779018063,0 -117.346305665277,34.284683833327,0 -117.346342759667,34.2845793611799,0 -117.346466528177,34.2845057930871,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
