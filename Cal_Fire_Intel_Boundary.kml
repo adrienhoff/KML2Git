@@ -3671,4 +3671,208 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.316711990669,33.7990011206943,0 -117.316583990688,33.7990451206822,0 -117.316575990685,33.7990941206762,0 -117.316554990673,33.799294120652,0 -117.316546990664,33.7994271206363,0 -117.316510990661,33.799542120621,0 -117.316242990703,33.7995951206001,0 -117.316156990716,33.7996101205936,0 -117.316180990706,33.7996851205864,0 -117.316030990727,33.7997481205708,0 -117.315959990738,33.7997611205654,0 -117.315883990754,33.7997291205649,0 -117.315753990781,33.7996621205654,0 -117.315599990808,33.7996561205576,0 -117.315548990815,33.7996771205523,0 -117.31554699081,33.7997461205443,0 -117.315503990808,33.7998681205279,0 -117.315515990798,33.7999701205168,0 -117.315516990793,33.8000341205095,0 -117.315481990786,33.8001941204892,0 -117.315517990774,33.8002611204835,0 -117.315574990766,33.800240120489,0 -117.315784990733,33.8002031205049,0 -117.315850990717,33.8002661205013,0 -117.315840990716,33.8003031204965,0 -117.315771990725,33.8003291204897,0 -117.315636990743,33.800401120474,0 -117.315571990754,33.8004001204705,0 -117.315511990762,33.8004241204644,0 -117.315439990772,33.8004591204564,0 -117.315448990765,33.8005331204484,0 -117.315479990755,33.800586120444,0 -117.315568990741,33.8005711204506,0 -117.315798990706,33.8005141204699,0 -117.315821990702,33.8005151204711,0 -117.316055990662,33.800515120484,0 -117.31617999064,33.8005161204908,0 -117.316270990617,33.8006121204848,0 -117.316347990598,33.8006881204803,0 -117.316429990581,33.8007171204815,0 -117.316523990565,33.8007211204862,0 -117.316755990528,33.8006851205032,0 -117.316791990522,33.8006761205062,0 -117.316897990505,33.8006641205135,0 -117.317019990485,33.8006491205219,0 -117.317108990471,33.8006371205282,0 -117.317166990466,33.8005791205381,0 -117.317337990441,33.8005161205548,0 -117.317439990422,33.8005401205577,0 -117.317472990418,33.8005171205621,0 -117.317480990419,33.8004801205668,0 -117.317473990424,33.8004381205713,0 -117.317405990438,33.8004041205714,0 -117.317314990461,33.8003131205769,0 -117.317228990497,33.8000501206023,0 -117.3172659905,33.7999351206176,0 -117.317445990476,33.7998451206379,0 -117.317451990482,33.7997571206484,0 -117.317538990484,33.7995341206788,0 -117.317499990503,33.7993901206932,0 -117.317441990522,33.7992731207034,0 -117.317487990532,33.7990391207329,0 -117.317260990573,33.7990171207229,0 -117.317072990607,33.7990051207139,0 -117.317002990609,33.7991321206954,0 -117.316924990612,33.799263120676,0 -117.316770990644,33.7991931206755,0 -117.316711990669,33.7990011206943,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.316711990669,33.7990011206943,0 -117.316583990688,33.7990451206822,0 -117.316575990685,33.7990941206762,0 -117.316554990673,33.799294120652,0 -117.316546990664,33.7994271206363,0 -117.316510990661,33.799542120621,0 -117.316242990703,33.7995951206001,0 -117.316156990716,33.7996101205936,0 -117.316180990706,33.7996851205864,0 -117.316030990727,33.7997481205708,0 -117.315959990738,33.7997611205654,0 -117.315883990754,33.7997291205649,0 -117.315753990781,33.7996621205654,0 -117.315599990808,33.7996561205576,0 -117.315548990815,33.7996771205523,0 -117.31554699081,33.7997461205443,0 -117.315503990808,33.7998681205279,0 -117.315515990798,33.7999701205168,0 -117.315516990793,33.8000341205095,0 -117.315481990786,33.8001941204892,0 -117.315517990774,33.8002611204835,0 -117.315574990766,33.800240120489,0 -117.315784990733,33.8002031205049,0 -117.315850990717,33.8002661205013,0 -117.315840990716,33.8003031204965,0 -117.315771990725,33.8003291204897,0 -117.315636990743,33.800401120474,0 -117.315571990754,33.8004001204705,0 -117.315511990762,33.8004241204644,0 -117.315439990772,33.8004591204564,0 -117.315448990765,33.8005331204484,0 -117.315479990755,33.800586120444,0 -117.315568990741,33.8005711204506,0 -117.315798990706,33.8005141204699,0 -117.315821990702,33.8005151204711,0 -117.316055990662,33.800515120484,0 -117.31617999064,33.8005161204908,0 -117.316270990617,33.8006121204848,0 -117.316347990598,33.8006881204803,0 -117.316429990581,33.8007171204815,0 -117.316523990565,33.8007211204862,0 -117.316755990528,33.8006851205032,0 -117.316791990522,33.8006761205062,0 -117.316897990505,33.8006641205135,0 -117.317019990485,33.8006491205219,0 -117.317108990471,33.8006371205282,0 -117.317166990466,33.8005791205381,0 -117.317337990441,33.8005161205548,0 -117.317439990422,33.8005401205577,0 -117.317472990418,33.8005171205621,0 -117.317480990419,33.8004801205668,0 -117.317473990424,33.8004381205713,0 -117.317405990438,33.8004041205714,0 -117.317314990461,33.8003131205769,0 -117.317228990497,33.8000501206023,0 -117.3172659905,33.7999351206176,0 -117.317445990476,33.7998451206379,0 -117.317451990482,33.7997571206484,0 -117.317538990484,33.7995341206788,0 -117.317499990503,33.7993901206932,0 -117.317441990522,33.7992731207034,0 -117.317487990532,33.7990391207329,0 -117.317260990573,33.7990171207229,0 -117.317072990607,33.7990051207139,0 -117.317002990609,33.7991321206954,0 -117.316924990612,33.799263120676,0 -117.316770990644,33.7991931206755,0 -117.316711990669,33.7990011206943,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>SUMMIT</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>4d636c0b-a08b-44d2-a6fb-0fa6086997ff</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>2.19</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 12:10:00</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2729</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.14800316937,41.5227008323127,0 -123.147997169363,41.5227488323089,0 -123.147967169363,41.5227768323043,0 -123.147925169376,41.5227328323036,0 -123.147951169378,41.5226958323085,0 -123.14796216938,41.5226778323106,0 -123.14800316937,41.5227008323127,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2729_1"><name>SUMMIT_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>4d636c0b-a08b-44d2-a6fb-0fa6086997ff</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>2.19</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 12:10:00</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2729</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148686169386,41.5219478324243,0 -123.148691169369,41.5220488324178,0 -123.148668169354,41.5221688324076,0 -123.148608169351,41.5222448323971,0 -123.148532169353,41.5223028323865,0 -123.148530169332,41.5224398323769,0 -123.148491169321,41.5225518323658,0 -123.148350169336,41.5225908323508,0 -123.148234169358,41.522554832343,0 -123.148096169377,41.5225648323302,0 -123.148023169381,41.5226078323208,0 -123.147893169385,41.5227098323024,0 -123.147856169378,41.5227878322938,0 -123.147809169371,41.5228788322835,0 -123.147688169381,41.5229268322695,0 -123.147608169399,41.5228928322648,0 -123.14749916942,41.5228598322574,0 -123.147372169442,41.5228388322477,0 -123.147330169456,41.5227898322473,0 -123.147313169464,41.5227568322481,0 -123.147150169489,41.5227518322341,0 -123.147088169509,41.5226788322336,0 -123.147098169512,41.5226488322365,0 -123.147217169495,41.522648832247,0 -123.147251169495,41.5226158322523,0 -123.147268169502,41.522552832258,0 -123.147330169496,41.5225298322651,0 -123.147425169482,41.5225308322734,0 -123.147467169482,41.5224938322796,0 -123.1473791695,41.522462832274,0 -123.147385169507,41.522411832278,0 -123.147383169512,41.5223768322802,0 -123.147362169522,41.5223388322809,0 -123.147387169525,41.5222958322861,0 -123.147412169533,41.5222208322934,0 -123.147458169531,41.5221838323,0 -123.147507169532,41.5221318323079,0 -123.147530169533,41.5221078323115,0 -123.147649169512,41.5221258323208,0 -123.147731169489,41.5221948323233,0 -123.147799169479,41.522198832329,0 -123.147862169468,41.5222038323342,0 -123.147856169477,41.5221528323372,0 -123.147866169482,41.5221108323409,0 -123.147955169478,41.5220548323526,0 -123.147972169482,41.5220098323571,0 -123.147977169492,41.5219408323623,0 -123.148023169492,41.5218958323694,0 -123.148076169492,41.5218458323775,0 -123.148117169495,41.5217918323848,0 -123.14816816949,41.5217758323904,0 -123.148256169474,41.5217938323969,0 -123.148329169457,41.5218308324008,0 -123.148415169448,41.5218108324097,0 -123.148474169439,41.5218068324152,0 -123.148575169419,41.5218428324217,0 -123.148616169408,41.5218748324231,0 -123.148686169386,41.5219478324243,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2729_2"><name>SUMMIT_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>4d636c0b-a08b-44d2-a6fb-0fa6086997ff</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>2.19</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 12:10:00</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2729</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148087169327,41.522892832307,0 -123.147998169334,41.5229368322961,0 -123.147954169342,41.522925832293,0 -123.147960169347,41.5228868322962,0 -123.148002169345,41.5228618323016,0 -123.14806116934,41.5228398323083,0 -123.148096169336,41.5228328323119,0 -123.148087169327,41.522892832307,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2729_3"><name>SUMMIT_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>CAL FIRE INTEL FLIGHT DATA</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>SUMMIT</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>4d636c0b-a08b-44d2-a6fb-0fa6086997ff</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>2.19</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 12:10:00</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2729</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148000169312,41.5230768322868,0 -123.148034169297,41.5231358322857,0 -123.147992169299,41.5231638322801,0 -123.147908169314,41.5231508322736,0 -123.14784616932,41.5231698322668,0 -123.147799169324,41.5231918322612,0 -123.147813169329,41.5231468322655,0 -123.147851169329,41.5231048322717,0 -123.147884169331,41.5230648322774,0 -123.147924169326,41.5230548322816,0 -123.148000169312,41.5230768322868,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
