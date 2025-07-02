@@ -3926,4 +3926,565 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148000169312,41.5230768322868,0 -123.148034169297,41.5231358322857,0 -123.147992169299,41.5231638322801,0 -123.147908169314,41.5231508322736,0 -123.14784616932,41.5231698322668,0 -123.147799169324,41.5231918322612,0 -123.147813169329,41.5231468322655,0 -123.147851169329,41.5231048322717,0 -123.147884169331,41.5230648322774,0 -123.147924169326,41.5230548322816,0 -123.148000169312,41.5230768322868,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148000169312,41.5230768322868,0 -123.148034169297,41.5231358322857,0 -123.147992169299,41.5231638322801,0 -123.147908169314,41.5231508322736,0 -123.14784616932,41.5231698322668,0 -123.147799169324,41.5231918322612,0 -123.147813169329,41.5231468322655,0 -123.147851169329,41.5231048322717,0 -123.147884169331,41.5230648322774,0 -123.147924169326,41.5230548322816,0 -123.148000169312,41.5230768322868,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-LNU-OAKDALE-N40Y</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.009535912018,38.6758849166145,0 -122.009559378707,38.6759363877961,0 -122.009555775312,38.6760000252972,0 -122.00953666689,38.6760667528848,0 -122.009564054491,38.6761213794764,0 -122.00964956498,38.6761517258067,0 -122.009731391333,38.6762124771357,0 -122.009739636691,38.6763006795204,0 -122.009739868906,38.6763432966454,0 -122.009693288189,38.676352444078,0 -122.009631143162,38.676358551041,0 -122.009565067598,38.6763555227633,0 -122.009479346742,38.6762946609554,0 -122.009432659527,38.6762733748361,0 -122.009416969764,38.6762277594461,0 -122.00940513065,38.6761700161171,0 -122.009377809313,38.6761214277572,0 -122.009366011339,38.6760698313111,0 -122.009385270398,38.6760273582456,0 -122.009423829743,38.6759636894578,0 -122.009458449809,38.6758909911379,0 -122.009535912018,38.6758849166145,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_1"><name>CA-LNU-OAKDALE-N40Y_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.019235324945,38.6753538751126,0 -122.019260143065,38.675406276172,0 -122.019263606849,38.6754515676511,0 -122.019206120734,38.675475434519,0 -122.019172647632,38.6754682871147,0 -122.019135942305,38.6754372956142,0 -122.019120445926,38.6753991657794,0 -122.019165598861,38.6753562800891,0 -122.019235324945,38.6753538751126,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_2"><name>CA-LNU-OAKDALE-N40Y_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.019244566763,38.6749439373637,0 -122.01931981715,38.674981810043,0 -122.019311761355,38.6750313159221,0 -122.019258613542,38.6750619264788,0 -122.019211337912,38.6751044722314,0 -122.019187749915,38.6751423856404,0 -122.019182117693,38.6751803474952,0 -122.019127744469,38.6751874801863,0 -122.01910625639,38.6751542563137,0 -122.019111775643,38.6750925949387,0 -122.019114205321,38.6750357564475,0 -122.019158695732,38.6749908900688,0 -122.019244566763,38.6749439373637,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_3"><name>CA-LNU-OAKDALE-N40Y_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.990807759191,38.6748871211145,0 -121.990932277805,38.674898825572,0 -121.991037222899,38.6749142751997,0 -121.991093640243,38.674979974894,0 -121.991110254384,38.6750574892762,0 -121.991101595538,38.6751430574897,0 -121.991068000665,38.6752482828919,0 -121.991034313636,38.6753575608996,0 -121.991010435218,38.675455236603,0 -121.990931592911,38.675560838694,0 -121.990852544299,38.6756548009854,0 -121.990808188056,38.6757214096117,0 -121.990813800601,38.6757802146249,0 -121.990869092976,38.6757998192903,0 -121.990974308884,38.6758037324317,0 -121.990999923408,38.6758547347185,0 -121.990945678589,38.6759332584423,0 -121.990896489178,38.6760197042818,0 -121.990842816819,38.676161318797,0 -121.990773728372,38.6762755440468,0 -121.990704254161,38.6763583412207,0 -121.990549276492,38.6764372659889,0 -121.99036939835,38.676559716098,0 -121.990179382507,38.6767021008015,0 -121.990064499718,38.6768169889207,0 -121.989775523182,38.6770055210997,0 -121.9895190151,38.6771542354559,0 -121.989470247826,38.6772825350348,0 -121.989347015905,38.677481140166,0 -121.989263434607,38.6776606094729,0 -121.989129253898,38.6777934684357,0 -121.989004339797,38.6778404037655,0 -121.988904449851,38.6778912738573,0 -121.988764754203,38.6780048432971,0 -121.988615111533,38.6781695483999,0 -121.988414757413,38.6782716455569,0 -121.98829465167,38.6783738167619,0 -121.988089743046,38.6785627032584,0 -121.987868488795,38.6787128708844,0 -121.98772224475,38.6788712308742,0 -121.987464566175,38.6790774695797,0 -121.987297481747,38.679252306216,0 -121.987074350491,38.6794513503054,0 -121.986896572343,38.679602884871,0 -121.986611895477,38.6797826266899,0 -121.986402904294,38.679954676541,0 -121.986244663067,38.6800307349707,0 -121.986095527878,38.6801489817534,0 -121.985913645615,38.6802949028722,0 -121.985735424784,38.6804334784399,0 -121.985529156914,38.6805565375281,0 -121.985342991871,38.6806996332622,0 -121.985126156491,38.6808469129166,0 -121.984985278961,38.6810103635621,0 -121.984818409965,38.6811181442711,0 -121.98473207071,38.6811221376553,0 -121.984665396858,38.6810103611194,0 -121.984705364954,38.6808987078836,0 -121.98482129156,38.68077523473,0 -121.984825544011,38.6806479344203,0 -121.984638055399,38.6806558847228,0 -121.984511514473,38.6806916735795,0 -121.984319248977,38.6807871729276,0 -121.984157223581,38.6808747925357,0 -121.983868206888,38.680994393976,0 -121.983695632124,38.6810462639297,0 -121.984419542841,38.6781417369576,0 -121.984460017284,38.6780667634072,0 -121.984636431375,38.6779209141429,0 -121.984777378651,38.6777438077951,0 -121.984923135755,38.6776180540424,0 -121.985068849921,38.6775944932112,0 -121.985214546431,38.6775787890795,0 -121.985395215553,38.6775042254203,0 -121.985560494474,38.677378768051,0 -121.98569003382,38.6771595915027,0 -121.985789701924,38.6770345607683,0 -121.985859280404,38.6769252857442,0 -121.986093630764,38.6768008070045,0 -121.986300585745,38.6766668385242,0 -121.986442993825,38.6765401204092,0 -121.986581442943,38.6764618802967,0 -121.986663134803,38.6763354016613,0 -121.986774669796,38.6762366977185,0 -121.986936874453,38.6760710931021,0 -121.98702825831,38.675941167273,0 -121.98716934151,38.6758703641293,0 -121.987295042167,38.6758389085006,0 -121.987370553523,38.6757996071552,0 -121.987471508623,38.6756818017889,0 -121.987632439126,38.6755798107099,0 -121.987753145752,38.6754700922643,0 -121.987843577375,38.675391794668,0 -121.987993985335,38.6753291955849,0 -121.988139226639,38.6753096352171,0 -121.98817912089,38.6754269981189,0 -121.988138859641,38.6755445028567,0 -121.988113591331,38.6756660673935,0 -121.988068232644,38.6757799231712,0 -121.988062985699,38.6758978377181,0 -121.988022519773,38.6760355810967,0 -121.988072649576,38.6760986078303,0 -121.98816817443,38.6760828406547,0 -121.988303921703,38.6760237495425,0 -121.988424527298,38.6759135468932,0 -121.988519913414,38.6758270432509,0 -121.988660419826,38.6757838129247,0 -121.988800746789,38.675685669702,0 -121.988945627224,38.6755525879645,0 -121.989060282119,38.6754628282393,0 -121.989269725354,38.6753732299955,0 -121.989418922295,38.6753111400008,0 -121.989583398391,38.6752918142915,0 -121.989713014105,38.6752762916873,0 -121.989797837262,38.675272408049,0 -121.989838159269,38.6753269977318,0 -121.989878614322,38.6753972289859,0 -121.990023504296,38.6753972171658,0 -121.990118205402,38.675369890032,0 -121.990199452052,38.6753107830506,0 -121.990253936913,38.6752483459858,0 -121.990512268974,38.6750924119073,0 -121.990590954927,38.6749834935376,0 -121.990694394686,38.674921628677,0 -121.990807759191,38.6748871211145,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_4"><name>CA-LNU-OAKDALE-N40Y_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.003664021124,38.6745342432598,0 -122.003751156344,38.6745431418211,0 -122.003793052891,38.6745728951393,0 -122.003809001275,38.6746683515858,0 -122.003798055723,38.6747519876993,0 -122.003729814177,38.6748087519403,0 -122.003680494212,38.6748506095489,0 -122.00364630502,38.674868556863,0 -122.003551208252,38.674865581501,0 -122.003486501757,38.6748207516555,0 -122.003482643817,38.6747639951525,0 -122.003486329134,38.6746714405925,0 -122.003512759159,38.6746057830853,0 -122.003569437059,38.6745461870898,0 -122.003664021124,38.6745342432598,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_5"><name>CA-LNU-OAKDALE-N40Y_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.019314428298,38.6739425511222,0 -122.019371756108,38.6739707150478,0 -122.019354293065,38.6740388746941,0 -122.019339664176,38.6740882802145,0 -122.019324966084,38.6741306605226,0 -122.019322318287,38.6741754240166,0 -122.019319706526,38.6742249379206,0 -122.019295909535,38.674262695906,0 -122.01926585511,38.6742721456017,0 -122.0192325234,38.6742461938637,0 -122.019244169224,38.6741919450923,0 -122.01924380159,38.6741424590027,0 -122.019249415859,38.6740883047204,0 -122.019252088761,38.6740436056457,0 -122.019269718027,38.6739895365015,0 -122.019314428298,38.6739425511222,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_6"><name>CA-LNU-OAKDALE-N40Y_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.009709531333,38.6739034867532,0 -122.009744207999,38.6739362720335,0 -122.009775182939,38.673992941597,0 -122.009760157661,38.6740586244105,0 -122.00976040889,38.6741094144165,0 -122.009729997711,38.6741752003213,0 -122.009718863101,38.6742590015228,0 -122.009730680037,38.6743189099238,0 -122.009735026563,38.6743967054141,0 -122.009712503256,38.6744654622886,0 -122.009701510693,38.6745313029252,0 -122.009694701101,38.6746120473863,0 -122.009703167558,38.6746810267628,0 -122.009680607572,38.6747563074164,0 -122.009673303662,38.6748318483046,0 -122.009681361773,38.6748954021558,0 -122.009681654419,38.6749559909733,0 -122.00966640826,38.6750075341445,0 -122.009643403936,38.6750651945051,0 -122.009655279143,38.6751228919121,0 -122.009659442036,38.6751897553465,0 -122.00963261607,38.6752719017296,0 -122.009594109074,38.6753541376751,0 -122.009582765495,38.6754364532562,0 -122.00953232741,38.6754608719156,0 -122.009493351582,38.6754273262616,0 -122.009489224886,38.6753511178871,0 -122.009504464015,38.6752597607095,0 -122.009492528008,38.6751685173853,0 -122.009531053134,38.6750895134274,0 -122.009538491536,38.6749984639408,0 -122.009565342187,38.6749226651671,0 -122.009603698992,38.6748318190921,0 -122.00960333488,38.6747501850242,0 -122.009602401996,38.6746328881364,0 -122.00965174929,38.6745581272492,0 -122.009643230894,38.6744654092298,0 -122.00963889126,38.6744026635846,0 -122.009642365627,38.6743488907684,0 -122.009649756889,38.6742799834295,0 -122.009634020051,38.6741931746826,0 -122.009656730024,38.6741124304155,0 -122.009660185291,38.6740228190287,0 -122.009663713937,38.6739512044321,0 -122.009709531333,38.6739034867532,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_7"><name>CA-LNU-OAKDALE-N40Y_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.991706063834,38.6736520807824,0 -121.991722473233,38.6736611573811,0 -121.991731192377,38.6736740258616,0 -121.991726424297,38.6736891789719,0 -121.99170909903,38.6737005541142,0 -121.99169171739,38.6736937333342,0 -121.991679170302,38.6736899455808,0 -121.991670469399,38.6736793389593,0 -121.991673338408,38.6736679789238,0 -121.991681023687,38.6736566246603,0 -121.991706063834,38.6736520807824,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_8"><name>CA-LNU-OAKDALE-N40Y_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.992803940354,38.6728603501542,0 -121.992818799981,38.6728796343854,0 -121.99281558361,38.6729040813018,0 -121.992807392779,38.6729169565581,0 -121.992782720182,38.6729233998622,0 -121.992762961533,38.6729208278561,0 -121.992743169904,38.6729002335192,0 -121.992751344916,38.6728745025449,0 -121.992771050164,38.6728603562275,0 -121.992803940354,38.6728603501542,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_9"><name>CA-LNU-OAKDALE-N40Y_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.014607618613,38.6723679675836,0 -122.018180609883,38.6730268646644,0 -122.018275245229,38.6730999666455,0 -122.018376123351,38.6732361829877,0 -122.01839049267,38.6733303880225,0 -122.018306359078,38.6734190485738,0 -122.018166249935,38.6734504885647,0 -122.018026162941,38.6734976835829,0 -122.017953381797,38.6735710851459,0 -122.017921184519,38.6736759913426,0 -122.017848455649,38.6737599895559,0 -122.017715170739,38.6738335522123,0 -122.017540785327,38.6738388587416,0 -122.01738618964,38.6738126426418,0 -122.017211760444,38.6738126956116,0 -122.017097910233,38.6738337401948,0 -122.017017977911,38.6738968143707,0 -122.016897871435,38.6739757044201,0 -122.016804553944,38.6740546323583,0 -122.0166370112,38.6740967810159,0 -122.016448968108,38.6740968365784,0 -122.016321194135,38.6740705608657,0 -122.016179952494,38.6740337722791,0 -122.015991869716,38.6740180459577,0 -122.015476888992,38.6755861266359,0 -122.015464615601,38.6756981739602,0 -122.015133482534,38.6770112589883,0 -122.015014324153,38.6772176286788,0 -122.014964258448,38.6773040335683,0 -122.014796472611,38.6773720248997,0 -122.014659254716,38.6773535259698,0 -122.014494678961,38.6773381271488,0 -122.014004925792,38.6772487466332,0 -122.014607618613,38.6723679675836,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2732_10"><name>CA-LNU-OAKDALE-N40Y_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-LNU-OAKDALE-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>78.26154589660123</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-01 19:31:13</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2732</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-122.017065660262,38.6710363279158,0 -122.017133178402,38.6710656021274,0 -122.017219617305,38.6710831601877,0 -122.017354927067,38.6711153663205,0 -122.017475414282,38.6711094717756,0 -122.017674907185,38.67111235073,0 -122.017983561408,38.6711239955144,0 -122.018619797099,38.6711326186954,0 -122.019225988375,38.6711412464221,0 -122.019470615732,38.6711294468552,0 -122.019553572112,38.6711440855236,0 -122.019718984294,38.6711205896124,0 -122.019808757511,38.6710825681299,0 -122.019864309785,38.671044780302,0 -122.01995115542,38.6710681392949,0 -122.01998629164,38.6711323021758,0 -122.019979625509,38.671199738848,0 -122.020010664053,38.6712701702933,0 -122.02004153396,38.671328935143,0 -122.020027239415,38.671393645957,0 -122.019986696413,38.6714731459176,0 -122.019960867946,38.6715232442316,0 -122.019980715378,38.6716058130606,0 -122.019917217919,38.6716678213168,0 -122.019857058982,38.6716944212379,0 -122.019804438013,38.6717210282357,0 -122.019823939733,38.6717771915518,0 -122.019484241892,38.6731891070592,0 -122.017064599358,38.6726813074604,0 -122.017065660262,38.6710363279158,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
