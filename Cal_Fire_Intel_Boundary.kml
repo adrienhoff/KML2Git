@@ -948,7 +948,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -956,11 +956,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -968,7 +968,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.133155171359,41.52408783091,0 -123.132977171363,41.5242308308845,0 -123.132810171381,41.5242778308666,0 -123.132721171407,41.5241948308644,0 -123.132744171422,41.5240768308745,0 -123.13281317142,41.5240218308844,0 -123.132911171406,41.5240198308931,0 -123.133052171389,41.5239948309073,0 -123.133155171359,41.52408783091,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_1"><name>SUMMIT_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148988169075,41.5236568323342,0 -123.149132169048,41.5236878323448,0 -123.149250169032,41.5236808323556,0 -123.14927216902,41.5237358323538,0 -123.149291169003,41.5238278323492,0 -123.14934416898,41.5239228323474,0 -123.149395168964,41.5239768323482,0 -123.149375168954,41.5240588323408,0 -123.149410168944,41.5240948323415,0 -123.149463168924,41.524170832341,0 -123.149458168906,41.5242928323322,0 -123.149296168931,41.5242818323187,0 -123.149222168944,41.524268832313,0 -123.149114168977,41.5241608323109,0 -123.149032169001,41.5240888323086,0 -123.148872169035,41.524022832299,0 -123.148786169059,41.5239478322965,0 -123.148764169069,41.5239078322973,0 -123.14879216907,41.5238738323021,0 -123.14882816907,41.5238408323075,0 -123.148863169062,41.5238568323095,0 -123.148847169085,41.5237218323173,0 -123.148966169069,41.5237128323284,0 -123.148988169075,41.5236568323342,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_1"><name>SUMMIT_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -999,7 +999,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1007,11 +1007,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1019,7 +1019,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.133373171253,41.5245618308968,0 -123.133190171277,41.5245768308796,0 -123.133058171316,41.5244528308765,0 -123.133053171332,41.5243568308826,0 -123.133134171335,41.5242588308964,0 -123.133327171322,41.5241588309203,0 -123.133457171295,41.5242088309283,0 -123.133534171261,41.524355830925,0 -123.133373171253,41.5245618308968,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_2"><name>SUMMIT_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.146529169377,41.5240598320901,0 -123.146593169364,41.5240818320942,0 -123.146609169353,41.5241368320918,0 -123.14665016934,41.5241828320923,0 -123.146669169331,41.5242188320915,0 -123.146652169319,41.5243108320837,0 -123.146590169325,41.5243338320767,0 -123.146510169327,41.5243988320652,0 -123.146445169331,41.5244338320571,0 -123.146381169345,41.5244038320535,0 -123.146371169358,41.5243288320578,0 -123.146387169361,41.5242968320614,0 -123.146337169371,41.5242768320583,0 -123.146328169382,41.5242198320614,0 -123.146427169374,41.5241748320732,0 -123.146439169378,41.5241378320768,0 -123.146478169381,41.5240818320841,0 -123.146529169377,41.5240598320901,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_2"><name>SUMMIT_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1050,7 +1050,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1058,11 +1058,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1070,7 +1070,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.149250169032,41.5236808323556,0 -123.14927216902,41.5237358323538,0 -123.149291169003,41.5238278323492,0 -123.14934416898,41.5239228323474,0 -123.149395168964,41.5239768323482,0 -123.149375168954,41.5240588323408,0 -123.149410168944,41.5240948323415,0 -123.149463168924,41.524170832341,0 -123.149458168906,41.5242928323322,0 -123.149296168931,41.5242818323187,0 -123.149222168944,41.524268832313,0 -123.149114168977,41.5241608323109,0 -123.149032169001,41.5240888323086,0 -123.148872169035,41.524022832299,0 -123.148786169059,41.5239478322965,0 -123.148764169069,41.5239078322973,0 -123.14879216907,41.5238738323021,0 -123.148863169069,41.5238088323128,0 -123.148958169066,41.5237398323259,0 -123.149084169052,41.523710832339,0 -123.149132169048,41.5236878323448,0 -123.149250169032,41.5236808323556,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_3"><name>SUMMIT_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.146125169369,41.5244968320246,0 -123.146171169359,41.5245168320273,0 -123.146197169347,41.5245638320264,0 -123.146154169345,41.5246198320188,0 -123.146086169364,41.5245638320166,0 -123.146087169371,41.5245188320198,0 -123.146125169369,41.5244968320246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_3"><name>SUMMIT_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1101,7 +1101,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1109,11 +1109,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1121,7 +1121,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.146529169377,41.5240598320901,0 -123.146593169364,41.5240818320942,0 -123.146609169353,41.5241368320918,0 -123.14665016934,41.5241828320923,0 -123.146669169331,41.5242188320915,0 -123.146652169319,41.5243108320837,0 -123.146590169325,41.5243338320767,0 -123.146510169327,41.5243988320652,0 -123.146445169331,41.5244338320571,0 -123.146381169345,41.5244038320535,0 -123.146371169358,41.5243288320578,0 -123.146387169361,41.5242968320614,0 -123.146337169371,41.5242768320583,0 -123.146328169382,41.5242198320614,0 -123.146427169374,41.5241748320732,0 -123.146439169378,41.5241378320768,0 -123.146478169381,41.5240818320841,0 -123.146529169377,41.5240598320901,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_4"><name>SUMMIT_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.139521169944,41.5270938312655,0 -123.13944516996,41.5270628312609,0 -123.139418169972,41.5270168312616,0 -123.139543169953,41.5270188312725,0 -123.139521169944,41.5270938312655,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_4"><name>SUMMIT_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1152,7 +1152,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1160,11 +1160,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1172,7 +1172,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.146125169369,41.5244968320246,0 -123.146171169359,41.5245168320273,0 -123.146197169347,41.5245638320264,0 -123.146154169345,41.5246198320188,0 -123.146086169364,41.5245638320166,0 -123.146087169371,41.5245188320198,0 -123.146125169369,41.5244968320246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_5"><name>SUMMIT_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.122055172342,41.5283608296401,0 -123.122004172352,41.5283418296369,0 -123.121982172361,41.5283048296375,0 -123.122031172357,41.528287829643,0 -123.122072172345,41.5283228296442,0 -123.122055172342,41.5283608296401,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_5"><name>SUMMIT_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1203,7 +1203,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1211,11 +1211,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1223,7 +1223,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.132432171308,41.5251048307768,0 -123.132261171326,41.5251528307585,0 -123.132059171344,41.5252258307357,0 -123.13207317136,41.5251138307446,0 -123.13208317137,41.5250408307504,0 -123.132047171387,41.5249648307525,0 -123.13209017139,41.5249058307603,0 -123.132186171373,41.5249178307679,0 -123.132310171351,41.5249438307771,0 -123.132409171348,41.5248688307909,0 -123.132468171358,41.5247508308042,0 -123.13253817135,41.5247348308114,0 -123.132662171326,41.52476983082,0 -123.132760171305,41.5248118308257,0 -123.132780171297,41.5248398308256,0 -123.132726171294,41.5249138308158,0 -123.1326251713,41.524969830803,0 -123.132635171286,41.5250518307983,0 -123.132432171308,41.5251048307768,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_6"><name>SUMMIT_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.138680169866,41.5283938311026,0 -123.138629169879,41.5283618311003,0 -123.138714169873,41.5283178311108,0 -123.138680169866,41.5283938311026,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_6"><name>SUMMIT_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1254,7 +1254,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1262,11 +1262,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1274,7 +1274,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.131450171361,41.5256958306499,0 -123.131313171389,41.5256508306409,0 -123.131321171406,41.5255338306496,0 -123.131483171377,41.5255638306618,0 -123.131450171361,41.5256958306499,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_7"><name>SUMMIT_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.125979171709,41.5286818299639,0 -123.125933171719,41.5286578299615,0 -123.125977171716,41.528633829967,0 -123.12600317171,41.5286468299684,0 -123.125979171709,41.5286818299639,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_7"><name>SUMMIT_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1305,7 +1305,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1313,11 +1313,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1325,7 +1325,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.127981171857,41.5258258303354,0 -123.12789517188,41.5257598303324,0 -123.12793817188,41.5257198303389,0 -123.128009171869,41.525722830345,0 -123.127981171857,41.5258258303354,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_8"><name>SUMMIT_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.13932716971,41.5287818311331,0 -123.139244169728,41.5287408311286,0 -123.139162169744,41.5287198311228,0 -123.139104169762,41.5286598311218,0 -123.139095169772,41.5286038311248,0 -123.13911116978,41.5285378311307,0 -123.139167169773,41.5285318311361,0 -123.139189169779,41.5284698311422,0 -123.139289169762,41.5284818311502,0 -123.139402169744,41.5284878311598,0 -123.139483169732,41.5284908311667,0 -123.139386169738,41.5285448311545,0 -123.139325169742,41.5285798311467,0 -123.139314169735,41.5286318311422,0 -123.139356169716,41.5287148311402,0 -123.13932716971,41.5287818311331,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_8"><name>SUMMIT_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1356,7 +1356,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1364,11 +1364,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1376,7 +1376,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.127602171885,41.5260038302899,0 -123.127404171916,41.5259978302728,0 -123.127427171929,41.5258908302822,0 -123.127609171909,41.5258438303014,0 -123.127602171885,41.5260038302899,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_9"><name>SUMMIT_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.139633169663,41.5287878311596,0 -123.13950916968,41.5288008311478,0 -123.139452169692,41.5287738311447,0 -123.139412169708,41.5287138311452,0 -123.139421169717,41.5286478311505,0 -123.139591169689,41.5286668311642,0 -123.139603169686,41.528670831165,0 -123.139633169663,41.5287878311596,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_9"><name>SUMMIT_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1407,7 +1407,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1415,11 +1415,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1427,7 +1427,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.131824171264,41.5259628306646,0 -123.131637171303,41.5258928306529,0 -123.131646171322,41.5257648306625,0 -123.131786171305,41.5257398306765,0 -123.131901171281,41.5257798306839,0 -123.131824171264,41.5259628306646,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_10"><name>SUMMIT_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.126422171575,41.5291138299734,0 -123.126384171584,41.5290948299713,0 -123.126425171581,41.5290728299764,0 -123.126422171575,41.5291138299734,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_10"><name>SUMMIT_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1458,7 +1458,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1466,11 +1466,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1478,7 +1478,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.130978171386,41.5259878305884,0 -123.130882171405,41.525957830582,0 -123.13094417141,41.5258688305935,0 -123.131061171386,41.5259088306011,0 -123.130978171386,41.5259878305884,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_11"><name>SUMMIT_ring_11</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.123304172032,41.5291588296956,0 -123.123235172044,41.5291428296906,0 -123.123221172054,41.5290948296927,0 -123.123260172052,41.5290698296978,0 -123.123343172044,41.5290408297071,0 -123.123416172033,41.5290418297134,0 -123.123428172029,41.5290588297133,0 -123.123304172032,41.5291588296956,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_11"><name>SUMMIT_ring_11</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1509,7 +1509,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1517,11 +1517,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1529,7 +1529,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.130089171512,41.5260268305074,0 -123.129861171553,41.5259798304905,0 -123.129898171568,41.5258508305026,0 -123.130096171536,41.5258668305189,0 -123.130197171516,41.5258968305258,0 -123.130089171512,41.5260268305074,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_12"><name>SUMMIT_ring_12</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.125002171774,41.5291958298427,0 -123.125009171769,41.5292208298416,0 -123.124902171783,41.5292278298317,0 -123.124839171802,41.5291718298299,0 -123.124696171822,41.5291798298168,0 -123.12468717183,41.5291318298193,0 -123.124722171832,41.5290898298252,0 -123.12470517184,41.5290528298263,0 -123.124651171857,41.5289928298256,0 -123.124722171854,41.528946829835,0 -123.124815171834,41.5289888298403,0 -123.124864171817,41.5290518298403,0 -123.124916171796,41.5291328298394,0 -123.125002171774,41.5291958298427,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_12"><name>SUMMIT_ring_12</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1560,7 +1560,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1568,11 +1568,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1580,7 +1580,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.137171170441,41.5261458311232,0 -123.137009170469,41.5261248311103,0 -123.13697417048,41.5260878311098,0 -123.137066170473,41.5260398311212,0 -123.137114170472,41.5260008311281,0 -123.137209170458,41.5260028311363,0 -123.137276170447,41.5260098311417,0 -123.137171170441,41.5261458311232,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_13"><name>SUMMIT_ring_13</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.134463170327,41.5294558306585,0 -123.134380170344,41.5294238306534,0 -123.134366170352,41.5293898306545,0 -123.134393170353,41.5293548306592,0 -123.134467170344,41.5293438306665,0 -123.134463170327,41.5294558306585,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_13"><name>SUMMIT_ring_13</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1611,7 +1611,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1619,11 +1619,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1631,7 +1631,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.129926171479,41.5263918304681,0 -123.129872171497,41.5263298304676,0 -123.129940171498,41.5262608304783,0 -123.130038171476,41.5263068304838,0 -123.129926171479,41.5263918304681,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_14"><name>SUMMIT_ring_14</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.141352169265,41.5297038312485,0 -123.141228169279,41.5297308312358,0 -123.141174169281,41.5297738312281,0 -123.141074169294,41.5297808312188,0 -123.140956169311,41.5297888312079,0 -123.140904169328,41.5297288312074,0 -123.140919169338,41.5296488312142,0 -123.140897169354,41.5295698312176,0 -123.141018169349,41.5294818312343,0 -123.141104169341,41.5294558312436,0 -123.141180169326,41.5294778312488,0 -123.141172169312,41.5295768312414,0 -123.141303169289,41.5295968312515,0 -123.141387169267,41.5296608312546,0 -123.141352169265,41.5297038312485,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_14"><name>SUMMIT_ring_14</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1662,7 +1662,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1670,11 +1670,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1682,7 +1682,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.131775171207,41.5263748306321,0 -123.131622171225,41.5264068306165,0 -123.131576171238,41.5263648306153,0 -123.131579171247,41.5263068306195,0 -123.131713171234,41.5262648306342,0 -123.131796171222,41.5262628306416,0 -123.131775171207,41.5263748306321,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_15"><name>SUMMIT_ring_15</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.124044171812,41.5298608297128,0 -123.123982171824,41.5298418297086,0 -123.12403617182,41.5298198297149,0 -123.124044171812,41.5298608297128,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_15"><name>SUMMIT_ring_15</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1713,7 +1713,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1721,11 +1721,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1733,7 +1733,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.13788317032,41.5262478311789,0 -123.13760417035,41.5263188311495,0 -123.137443170393,41.5261948311438,0 -123.13739517042,41.5260688311482,0 -123.137405170434,41.5259728311556,0 -123.137442170448,41.5258438311677,0 -123.137553170437,41.5258088311799,0 -123.13775017041,41.5257938311982,0 -123.13786717038,41.5258758312029,0 -123.137929170351,41.5260018311998,0 -123.137974170333,41.5260758311987,0 -123.13788317032,41.5262478311789,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_16"><name>SUMMIT_ring_16</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.147738169583,41.5215868323654,0 -123.147804169564,41.5216468323671,0 -123.147843169549,41.5217068323665,0 -123.147998169523,41.521723832379,0 -123.148072169509,41.5217418323842,0 -123.148131169493,41.5217878323863,0 -123.14816816949,41.5217758323904,0 -123.148256169474,41.5217938323969,0 -123.148329169457,41.5218308324008,0 -123.148415169448,41.5218108324097,0 -123.148474169439,41.5218068324152,0 -123.148575169419,41.5218428324217,0 -123.148616169408,41.5218748324231,0 -123.148686169386,41.5219478324243,0 -123.148691169369,41.5220488324178,0 -123.148682169364,41.522093832414,0 -123.148807169333,41.5221748324194,0 -123.148999169295,41.5222308324325,0 -123.149193169257,41.5222948324452,0 -123.149307169219,41.5224278324462,0 -123.1493041692,41.5225508324376,0 -123.149406169174,41.5226238324416,0 -123.149527169145,41.5226888324478,0 -123.149450169142,41.5227868324343,0 -123.149267169144,41.5229478324072,0 -123.149264169123,41.5230848323976,0 -123.149017169165,41.5230498323782,0 -123.149123169129,41.5231768323789,0 -123.149199169106,41.5232568323801,0 -123.149139169102,41.5233338323696,0 -123.149043169101,41.5234318323544,0 -123.148955169107,41.5234818323432,0 -123.148824169108,41.5236008323236,0 -123.148792169099,41.5236838323151,0 -123.148751169089,41.5237868323045,0 -123.1485651691,41.5238938322808,0 -123.148560169086,41.5239898322738,0 -123.148405169114,41.5239598322622,0 -123.148278169131,41.5239698322503,0 -123.148215169141,41.5239648322451,0 -123.14799816917,41.5239838322247,0 -123.147910169176,41.5240338322135,0 -123.14777516919,41.5240708321991,0 -123.147707169187,41.5241548321874,0 -123.147554169205,41.5241858321718,0 -123.14742516923,41.524147832163,0 -123.147269169261,41.5240978321526,0 -123.14710516929,41.5240678321402,0 -123.146987169305,41.5240838321288,0 -123.146872169315,41.5241278321156,0 -123.146734169341,41.5240968321056,0 -123.146650169361,41.5240448321017,0 -123.146627169382,41.5239358321072,0 -123.1465351694,41.5239038321012,0 -123.146363169425,41.5239088320857,0 -123.14637716944,41.5237988320945,0 -123.146419169445,41.5237298321029,0 -123.146369169466,41.5236388321047,0 -123.146227169478,41.523699832088,0 -123.146185169474,41.52376283208,0 -123.146075169464,41.5239358320585,0 -123.145978169467,41.5240068320451,0 -123.145944169463,41.5240618320384,0 -123.145832169459,41.5241948320194,0 -123.145719169459,41.5243068320018,0 -123.145730169451,41.524347832,0 -123.145690169439,41.524457831989,0 -123.145560169437,41.524597831968,0 -123.14546316944,41.5246688319545,0 -123.145440169432,41.5247438319474,0 -123.145315169442,41.5247948319329,0 -123.145246169441,41.5248718319216,0 -123.145160169435,41.5249898319059,0 -123.145093169427,41.525107831892,0 -123.144951169438,41.525172831875,0 -123.144799169451,41.5252308318577,0 -123.144782169451,41.5252448318552,0 -123.144613169465,41.5253178318354,0 -123.144568169468,41.5253398318299,0 -123.14440616949,41.5253568318145,0 -123.144267169521,41.5252858318071,0 -123.144183169542,41.5252328318033,0 -123.14416116956,41.5251378318078,0 -123.144182169577,41.5250078318185,0 -123.144248169591,41.5248558318348,0 -123.144279169604,41.524745831845,0 -123.14427516962,41.5246438318516,0 -123.14427816964,41.5245138318607,0 -123.144248169656,41.5244388318632,0 -123.144257169657,41.5244268318648,0 -123.14414916967,41.5244488318538,0 -123.144021169692,41.5244248318442,0 -123.143929169711,41.5243928318383,0 -123.14389116972,41.5243728318363,0 -123.143824169743,41.5242858318363,0 -123.143645169763,41.5243318318174,0 -123.143582169771,41.5243398318113,0 -123.143494169777,41.5243848318005,0 -123.143500169758,41.5245008317931,0 -123.143503169744,41.5245858317876,0 -123.143460169736,41.5246778317775,0 -123.143532169719,41.5247168317812,0 -123.143733169684,41.5247518317965,0 -123.143851169657,41.5248118318028,0 -123.143761169653,41.5249248317871,0 -123.143670169658,41.5249818317752,0 -123.143423169677,41.525090831746,0 -123.143325169696,41.5250638317392,0 -123.143273169693,41.5251338317299,0 -123.143039169709,41.5252528317011,0 -123.143056169692,41.5253448316963,0 -123.142921169709,41.5253638316832,0 -123.142905169712,41.5253618316819,0 -123.142862169707,41.5254318316733,0 -123.142842169682,41.5256128316592,0 -123.142801169685,41.5256308316544,0 -123.142807169682,41.525643831654,0 -123.142727169682,41.5257248316414,0 -123.142593169694,41.5257758316261,0 -123.142579169672,41.5259258316147,0 -123.142521169661,41.5260538316008,0 -123.142390169661,41.5261758315809,0 -123.142195169679,41.5262518315586,0 -123.142076169707,41.5261828315528,0 -123.141990169734,41.5260928315513,0 -123.141877169742,41.5261478315376,0 -123.141556169777,41.5262308315037,0 -123.141415169792,41.5262648314889,0 -123.14146316978,41.5263008314907,0 -123.141580169756,41.5263378314985,0 -123.141625169739,41.5264078314977,0 -123.141607169729,41.5264868314907,0 -123.141401169749,41.5265558314678,0 -123.141191169778,41.5265688314484,0 -123.141085169798,41.5265398314411,0 -123.141059169821,41.5264218314469,0 -123.141067169829,41.5263588314519,0 -123.141063169836,41.5263178314543,0 -123.140966169852,41.5263098314463,0 -123.140870169867,41.5263058314381,0 -123.140877169863,41.5263238314375,0 -123.140912169844,41.5264098314347,0 -123.14091616983,41.5264968314291,0 -123.140762169841,41.5265718314105,0 -123.140624169866,41.5265438314002,0 -123.140516169893,41.5264748313954,0 -123.140637169893,41.5263618314138,0 -123.140632169896,41.5263468314144,0 -123.140521169913,41.526340831405,0 -123.140429169919,41.5263898313935,0 -123.140326169927,41.5264398313811,0 -123.140318169919,41.5264958313765,0 -123.140322169903,41.5265978313699,0 -123.140328169883,41.5267168313623,0 -123.140226169886,41.5267978313478,0 -123.140069169908,41.5268018313337,0 -123.139820169937,41.5268558313081,0 -123.13965316996,41.5268678312925,0 -123.139452169996,41.5268258312777,0 -123.139271170031,41.5267748312652,0 -123.139056170081,41.526661831254,0 -123.138825170118,41.5266438312349,0 -123.138864170084,41.526823831226,0 -123.138696170109,41.5268208312114,0 -123.138579170134,41.5267758312042,0 -123.138306170177,41.5267588311813,0 -123.138162170189,41.5268178311646,0 -123.138144170181,41.5268898311581,0 -123.138085170174,41.5269858311463,0 -123.137949170193,41.5269968311336,0 -123.137909170194,41.5270298311278,0 -123.137925170172,41.5271558311206,0 -123.138022170147,41.5272248311244,0 -123.138109170122,41.5273008311269,0 -123.138177170093,41.5274178311249,0 -123.138189170051,41.5276788311082,0 -123.138267170021,41.5277948311071,0 -123.138326169992,41.5279278311032,0 -123.138395169959,41.5280688310997,0 -123.138344169925,41.5283378310768,0 -123.138149169937,41.5284458310522,0 -123.137934169951,41.5285618310254,0 -123.137843169954,41.5286268310129,0 -123.137595169977,41.5287198309847,0 -123.137494169979,41.5288018309702,0 -123.137510169954,41.5289438309619,0 -123.137801169924,41.528864830993,0 -123.137979169895,41.5288768310078,0 -123.138111169855,41.5290078310105,0 -123.138074169845,41.5291108310002,0 -123.137813169878,41.5291418309751,0 -123.137729169891,41.5291438309676,0 -123.137859169855,41.5292508309717,0 -123.137969169823,41.5293508309746,0 -123.137933169804,41.5295018309611,0 -123.137929169784,41.5296358309516,0 -123.137924169764,41.5297708309419,0 -123.137845169758,41.5298828309273,0 -123.137655169793,41.5298408309134,0 -123.137579169811,41.5297948309099,0 -123.137409169845,41.5297438308984,0 -123.137338169884,41.529555830905,0 -123.137262169907,41.529486830903,0 -123.137289169919,41.5293838309124,0 -123.137096169963,41.5292858309021,0 -123.136959169984,41.5292808308904,0 -123.136812170006,41.5292768308777,0 -123.136763170002,41.5293488308685,0 -123.136790169976,41.5294908308611,0 -123.13678416996,41.529601830853,0 -123.136616169985,41.5295978308385,0 -123.136505169989,41.5296798308231,0 -123.136369170006,41.5296988308098,0 -123.13631217003,41.5295978308117,0 -123.136217170047,41.5295838308043,0 -123.136032170061,41.5296678307823,0 -123.135887170078,41.5296948307676,0 -123.135732170092,41.5297538307499,0 -123.135524170117,41.5297908307291,0 -123.135517170142,41.5296408307387,0 -123.135440170166,41.5295558307377,0 -123.135375170184,41.5295028307356,0 -123.135163170223,41.5294598307199,0 -123.134994170253,41.5294248307074,0 -123.134842170292,41.5293178307013,0 -123.134788170308,41.5292718306997,0 -123.134701170331,41.5292028306967,0 -123.134687170344,41.5291328307003,0 -123.134642170362,41.5290628307011,0 -123.134525170386,41.5290178306939,0 -123.134479170407,41.5289318306957,0 -123.134298170444,41.5288658306843,0 -123.13410017047,41.5288868306654,0 -123.133934170487,41.5289378306473,0 -123.133949170471,41.5290248306426,0 -123.133995170448,41.5291258306398,0 -123.134057170403,41.5293538306297,0 -123.133960170393,41.5295138306102,0 -123.133899170396,41.529554830602,0 -123.133826170405,41.5295648305949,0 -123.133733170412,41.5296068305838,0 -123.133629170423,41.5296328305729,0 -123.133465170436,41.5297078305533,0 -123.133382170446,41.5297258305448,0 -123.133325170432,41.5298698305299,0 -123.133203170437,41.5299518305136,0 -123.133107170457,41.5299138305077,0 -123.13295017048,41.5299178304936,0 -123.132863170502,41.5298568304901,0 -123.132808170521,41.52978783049,0 -123.132844170537,41.5296518305024,0 -123.133009170521,41.5296008305205,0 -123.132901170548,41.5295248305162,0 -123.132955170573,41.529317830535,0 -123.133111170555,41.5292818305512,0 -123.133225170542,41.5292558305631,0 -123.133305170542,41.5291828305751,0 -123.13323717057,41.5290658305771,0 -123.133181170593,41.5289728305785,0 -123.133124170616,41.5288788305799,0 -123.133078170639,41.5287778305828,0 -123.133041170664,41.5286518305881,0 -123.132984170687,41.5285588305894,0 -123.132938170711,41.5284488305929,0 -123.132818170744,41.5283498305891,0 -123.132689170775,41.5282738305829,0 -123.13261617082,41.5280548305915,0 -123.132630170843,41.5278958306036,0 -123.132428170886,41.5278138305914,0 -123.132169170911,41.5278998305627,0 -123.132227170883,41.5280248305592,0 -123.132193170859,41.5282068305438,0 -123.132092170862,41.5282888305293,0 -123.131982170856,41.5284258305103,0 -123.131739170863,41.528613830476,0 -123.131526170871,41.5287688304466,0 -123.131233170912,41.5287838304198,0 -123.131001170949,41.5287658304006,0 -123.130827170999,41.5286128303957,0 -123.130715171041,41.5284488303971,0 -123.130669171063,41.5283558303993,0 -123.130852171056,41.5282248304244,0 -123.131142171025,41.5281468304553,0 -123.131135171052,41.527980830466,0 -123.130924171086,41.5279618304487,0 -123.130709171101,41.5280698304224,0 -123.130569171132,41.5280028304147,0 -123.130413171151,41.5280298303991,0 -123.130234171181,41.5280108303846,0 -123.130070171194,41.528085830365,0 -123.130001171188,41.5281908303518,0 -123.129963171177,41.5282938303414,0 -123.12984917119,41.5283208303295,0 -123.129776171199,41.5283308303224,0 -123.12967817119,41.5284828303034,0 -123.129582171172,41.5286908302807,0 -123.129355171193,41.5287678302554,0 -123.129114171228,41.5287738302338,0 -123.129038171248,41.5287198302308,0 -123.128939171241,41.5288568302127,0 -123.128764171256,41.5289318301922,0 -123.128667171281,41.5288638301883,0 -123.128672171301,41.5287288301979,0 -123.128664171328,41.5285638302085,0 -123.128386171391,41.5284278301933,0 -123.128351171372,41.5285788301799,0 -123.128442171332,41.5287508301762,0 -123.128384171322,41.5288708301628,0 -123.128251171332,41.5289288301472,0 -123.128149171336,41.5290028301331,0 -123.128303171287,41.5291728301351,0 -123.128350171264,41.5292748301322,0 -123.128239171263,41.5293878301147,0 -123.128100171295,41.5293118301077,0 -123.12793417131,41.529371830089,0 -123.127842171316,41.5294208300775,0 -123.127571171353,41.5294438300521,0 -123.127370171386,41.5294248300356,0 -123.127202171413,41.5294138300216,0 -123.127064171441,41.529361830013,0 -123.126989171458,41.529323830009,0 -123.126920171488,41.5291988300114,0 -123.126976171505,41.5290398300272,0 -123.127129171497,41.5289418300474,0 -123.12724417148,41.5289388300578,0 -123.127228171503,41.528812830065,0 -123.127224171517,41.5287258300705,0 -123.12715817154,41.5286408300705,0 -123.126958171571,41.5286298300537,0 -123.126817171608,41.528530830048,0 -123.12669317166,41.5283118300521,0 -123.126624171691,41.528179830055,0 -123.126531171738,41.5279688300612,0 -123.126544171764,41.5277868300748,0 -123.126591171777,41.5276588300877,0 -123.126532171809,41.5275108300926,0 -123.126454171836,41.5274098300926,0 -123.126385171869,41.5272698300961,0 -123.126463171876,41.5271488301113,0 -123.126551171885,41.5270048301289,0 -123.126546171906,41.5268778301371,0 -123.126580171929,41.5266958301526,0 -123.126510171964,41.526539830157,0 -123.126505171984,41.5264128301653,0 -123.126583171992,41.5262928301804,0 -123.126653171993,41.5262198301915,0 -123.126680172006,41.5261088302015,0 -123.12652017204,41.526041830192,0 -123.126256172086,41.5260008301715,0 -123.126065172122,41.5259498301582,0 -123.125882172166,41.5258438301493,0 -123.125711172203,41.5257698301393,0 -123.125537172249,41.5256398301328,0 -123.125258172315,41.5254808301191,0 -123.125364172331,41.5252808301421,0 -123.125495172331,41.5251508301626,0 -123.125775172301,41.525080830192,0 -123.125962172281,41.525028830212,0 -123.126138172263,41.5249768302311,0 -123.126452172218,41.5249688302593,0 -123.126766172172,41.5249608302875,0 -123.126989172129,41.5250268303027,0 -123.127227172107,41.5249418303294,0 -123.127402172091,41.5248738303495,0 -123.127611172061,41.5248688303682,0 -123.127628172072,41.5247818303757,0 -123.127636172082,41.5247108303812,0 -123.12781317206,41.5246828303987,0 -123.127861172069,41.5245788304101,0 -123.127910172074,41.5244978304199,0 -123.128116172056,41.5244218304433,0 -123.128202172072,41.5242378304634,0 -123.1281641721,41.5240888304703,0 -123.128426172099,41.5238458305099,0 -123.128679172057,41.52387883053,0 -123.128990172024,41.5237918305633,0 -123.129126172004,41.5237888305755,0 -123.129303171985,41.5237448305941,0 -123.129460171962,41.5237408306082,0 -123.129528171931,41.5238738306051,0 -123.129648171899,41.5239648306095,0 -123.129572171883,41.5241408305907,0 -123.12956817186,41.5242908305801,0 -123.12975717183,41.524301830596,0 -123.129804171842,41.5241828306083,0 -123.129940171825,41.5241638306216,0 -123.129955171844,41.5240288306321,0 -123.13011917183,41.5239618306511,0 -123.130242171824,41.5238798306676,0 -123.130132171857,41.5237718306653,0 -123.130325171853,41.5236168306929,0 -123.130404171856,41.5235198307065,0 -123.130600171838,41.5234518307284,0 -123.130858171814,41.5233588307575,0 -123.131117171788,41.5232808307856,0 -123.131263171769,41.5232618307998,0 -123.131395171766,41.5231558308186,0 -123.13147717176,41.5231138308287,0 -123.131685171735,41.5230768308496,0 -123.131843171708,41.5230968308621,0 -123.132052171681,41.523075830882,0 -123.132090171688,41.5229958308908,0 -123.132255171673,41.5229288309099,0 -123.132358171663,41.5228948309213,0 -123.132354171681,41.5227838309285,0 -123.132382171688,41.5227118309359,0 -123.132505171682,41.5226378309518,0 -123.132640171665,41.522618830965,0 -123.132724171652,41.5226168309725,0 -123.132953171622,41.5225958309941,0 -123.133019171599,41.5226808309941,0 -123.133049171602,41.5226328310001,0 -123.133085171619,41.522489831013,0 -123.133186171618,41.5223998310281,0 -123.133213171628,41.5223048310369,0 -123.133073171665,41.5222048310314,0 -123.13302617169,41.5220878310353,0 -123.133021171706,41.5219928310413,0 -123.133046171725,41.5218428310538,0 -123.13309517173,41.5217628310636,0 -123.133229171719,41.5217118310789,0 -123.133437171695,41.5216668311003,0 -123.133616171665,41.5216858311147,0 -123.13369317164,41.5217708311157,0 -123.133864171606,41.5218298311267,0 -123.133965171603,41.5217488311412,0 -123.13403417161,41.5216438311544,0 -123.134146171602,41.5215858311682,0 -123.134259171595,41.5215198311827,0 -123.134506171573,41.5214268312108,0 -123.134725171547,41.5213898312326,0 -123.134838171536,41.5213478312454,0 -123.135091171496,41.5213648312666,0 -123.135189171467,41.5214578312689,0 -123.135280171431,41.5216048312668,0 -123.135440171397,41.5216648312768,0 -123.135569171365,41.5217478312825,0 -123.135660171364,41.5216668312961,0 -123.136034171319,41.5216018313335,0 -123.136304171289,41.5215398313615,0 -123.136683171226,41.5215778313922,0 -123.136846171182,41.5217088313977,0 -123.136872171162,41.521810831393,0 -123.136794171152,41.5219468313768,0 -123.136840171132,41.522032831375,0 -123.137060171098,41.5220428313937,0 -123.137237171077,41.5220068314117,0 -123.137440171035,41.5220808314246,0 -123.137570171035,41.5219588314443,0 -123.137545171055,41.5218568314491,0 -123.137582171065,41.5217528314595,0 -123.137800171041,41.5217008314822,0 -123.137963170999,41.5218148314888,0 -123.138010171008,41.5217108315001,0 -123.138101171009,41.5216218315141,0 -123.138215170996,41.521594831526,0 -123.138404170966,41.5216068315419,0 -123.138558170956,41.5215238315611,0 -123.138618170957,41.5214588315708,0 -123.138604170971,41.5213878315744,0 -123.138643170976,41.5213158315828,0 -123.138851170953,41.5212638316046,0 -123.139164170909,41.5212478316333,0 -123.139272170884,41.5213078316387,0 -123.139267170866,41.5214268316302,0 -123.139437170833,41.5214778316417,0 -123.139623170815,41.5214178316621,0 -123.139670170827,41.521290831675,0 -123.139591170856,41.5211818316754,0 -123.13953517088,41.5210808316774,0 -123.139614170882,41.5209918316905,0 -123.139579170903,41.5208898316943,0 -123.139440170932,41.5208378316856,0 -123.139497170944,41.5207098316994,0 -123.139654170922,41.5206978317141,0 -123.139900170869,41.5208028317286,0 -123.140119170839,41.5207898317487,0 -123.140264170825,41.520738831765,0 -123.140442170798,41.5207418317805,0 -123.14053317076,41.5208978317778,0 -123.140621170734,41.5209818317798,0 -123.140657170713,41.521083831776,0 -123.140671170699,41.5211628317719,0 -123.140748170673,41.5212558317723,0 -123.140876170647,41.5212998317806,0 -123.140971170628,41.521328831787,0 -123.141098170605,41.5213578317962,0 -123.141126170616,41.5212618318052,0 -123.141227170612,41.5211878318191,0 -123.141341170601,41.5211538318315,0 -123.141451170567,41.5212618318338,0 -123.141620170538,41.5212888318468,0 -123.141819170509,41.5212838318647,0 -123.142029170475,41.5213028318819,0 -123.142159170442,41.5213938318872,0 -123.142315170423,41.5213668319028,0 -123.142520170408,41.5212668319276,0 -123.14267917038,41.5212938319398,0 -123.142724170361,41.5213718319384,0 -123.142848170349,41.5213298319522,0 -123.14308017031,41.5213628319704,0 -123.143153170266,41.5215748319624,0 -123.143144170266,41.521583831961,0 -123.143175170255,41.5216248319609,0 -123.143342170239,41.5215668319796,0 -123.14341217023,41.5215548319865,0 -123.143456170221,41.5215718319893,0 -123.143422170238,41.5214968319914,0 -123.143558170219,41.5214858320041,0 -123.143663170201,41.5215068320119,0 -123.143707170187,41.5215528320127,0 -123.143803170168,41.5215818320191,0 -123.143885170162,41.5215408320291,0 -123.143967170158,41.5214908320398,0 -123.144073170138,41.5215198320471,0 -123.144070170112,41.5216858320356,0 -123.144037170086,41.521884832019,0 -123.144006170087,41.5219078320148,0 -123.144052170071,41.5219648320149,0 -123.144196170041,41.5220248320235,0 -123.144322170024,41.5220108320355,0 -123.144342170022,41.5220048320377,0 -123.144324170027,41.5219878320373,0 -123.14428817005,41.5218778320416,0 -123.144483170034,41.5217938320646,0 -123.144622170007,41.5218378320738,0 -123.144704170001,41.5217968320838,0 -123.144859169986,41.521745832101,0 -123.144950169984,41.521671832114,0 -123.145124169971,41.521588832135,0 -123.145138169969,41.5215878321363,0 -123.14519116997,41.5215318321448,0 -123.145247169963,41.5215198321506,0 -123.145286169969,41.5214438321592,0 -123.145282169983,41.5213588321646,0 -123.145307169991,41.521283832172,0 -123.14547316998,41.5211948321927,0 -123.14561416996,41.5211908322054,0 -123.145740169947,41.5211558322188,0 -123.145798169932,41.5211968322212,0 -123.145843169917,41.5212488322216,0 -123.145902169897,41.5213218322218,0 -123.145959169887,41.5213318322261,0 -123.146087169865,41.5213498322362,0 -123.146371169817,41.5213848322588,0 -123.146386169812,41.5214058322587,0 -123.146418169794,41.5214898322558,0 -123.146411169772,41.5216398322449,0 -123.146416169766,41.5216728322431,0 -123.14646416976,41.5216658322478,0 -123.146584169733,41.5217248322543,0 -123.146606169721,41.5217768322527,0 -123.146647169726,41.5217098322609,0 -123.146709169723,41.5216668322693,0 -123.14673116972,41.5216668322712,0 -123.146731169724,41.5216428322729,0 -123.14685316972,41.5215528322898,0 -123.146991169694,41.5215888322995,0 -123.147050169671,41.5216758322987,0 -123.147161169658,41.5216558323099,0 -123.147243169644,41.5216668323163,0 -123.147345169622,41.5217128323222,0 -123.147452169613,41.5216688323346,0 -123.147460169617,41.5216348323376,0 -123.147532169608,41.5216258323446,0 -123.1475851696,41.5216248323493,0 -123.147567169611,41.5215668323517,0 -123.147713169592,41.5215558323653,0 -123.147724169584,41.5215918323638,0 -123.147738169583,41.5215868323654,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_16"><name>SUMMIT_ring_16</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1764,7 +1764,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1772,11 +1772,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1784,7 +1784,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.135277170682,41.5264088309384,0 -123.135162170705,41.5263688309309,0 -123.135202170707,41.5263148309382,0 -123.135328170694,41.5262798309517,0 -123.135277170682,41.5264088309384,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_17"><name>SUMMIT_ring_17</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.136642169921,41.5299838308144,0 -123.136626169924,41.5299828308131,0 -123.136617169925,41.5299838308122,0 -123.136614169927,41.5299738308126,0 -123.136619169927,41.5299668308136,0 -123.136627169927,41.5299628308145,0 -123.136644169924,41.529963830816,0 -123.136649169922,41.529969830816,0 -123.136642169921,41.5299838308144,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_17"><name>SUMMIT_ring_17</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1815,7 +1815,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1823,11 +1823,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1835,7 +1835,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.136807170489,41.5261898310881,0 -123.136746170462,41.5264148310674,0 -123.136578170484,41.5264398310509,0 -123.136391170522,41.5263698310392,0 -123.13630217055,41.5262768310377,0 -123.136270170568,41.5261928310406,0 -123.13632417057,41.5261268310499,0 -123.136436170557,41.5261028310614,0 -123.136590170538,41.5260778310766,0 -123.13670317052,41.526085831086,0 -123.136807170489,41.5261898310881,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_18"><name>SUMMIT_ring_18</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.135745170054,41.529988830735,0 -123.135727170056,41.5299888307335,0 -123.13571117006,41.5299828307325,0 -123.135712170061,41.5299708307334,0 -123.13572817006,41.5299638307353,0 -123.135743170057,41.5299658307364,0 -123.135745170054,41.529988830735,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_18"><name>SUMMIT_ring_18</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1866,7 +1866,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1874,11 +1874,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1886,7 +1886,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.137223170384,41.5264628311061,0 -123.136964170418,41.5264898310814,0 -123.136797170444,41.526485831067,0 -123.136795170452,41.5264358310702,0 -123.136836170456,41.5263718310782,0 -123.136964170435,41.5263808310889,0 -123.137048170423,41.5263828310961,0 -123.137208170402,41.5263628311116,0 -123.137223170384,41.5264628311061,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_19"><name>SUMMIT_ring_19</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.124463171727,41.5300088297396,0 -123.124355171748,41.5299748297324,0 -123.124401171749,41.5299258297398,0 -123.124473171732,41.5299658297434,0 -123.124463171727,41.5300088297396,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_19"><name>SUMMIT_ring_19</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1917,7 +1917,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1925,11 +1925,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1937,7 +1937,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.131202171252,41.5266358305638,0 -123.131112171274,41.5265788305598,0 -123.131191171266,41.5265548305684,0 -123.13125817125,41.5265908305718,0 -123.131202171252,41.5266358305638,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_20"><name>SUMMIT_ring_20</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.135103170122,41.5301588306669,0 -123.135034170132,41.5301638306604,0 -123.134974170146,41.5301308306574,0 -123.134969170152,41.5300968306593,0 -123.135050170145,41.5300668306685,0 -123.135121170128,41.5301028306723,0 -123.135103170122,41.5301588306669,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_20"><name>SUMMIT_ring_20</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -1968,7 +1968,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -1976,11 +1976,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -1988,7 +1988,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.135722170595,41.5265418309685,0 -123.135648170615,41.5264848309658,0 -123.135680170614,41.5264588309704,0 -123.135757170603,41.5264528309776,0 -123.135775170598,41.5264698309781,0 -123.135722170595,41.5265418309685,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_21"><name>SUMMIT_ring_21</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.123601171816,41.5302568296467,0 -123.123391171847,41.5302618296279,0 -123.123276171887,41.530111829628,0 -123.12324217191,41.5299978296328,0 -123.123326171908,41.5299308296448,0 -123.123434171895,41.5299108296556,0 -123.123553171866,41.5299848296611,0 -123.123668171854,41.5299488296737,0 -123.123781171849,41.5298748296887,0 -123.123828171827,41.5299728296861,0 -123.123694171834,41.5300528296688,0 -123.123601171816,41.5302568296467,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2774_21"><name>SUMMIT_ring_21</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
@@ -2019,7 +2019,7 @@
                 </tr>
                 <tr>
                     <td>Area in Acres</td>
-                    <td>114.97</td>
+                    <td>264.27</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>Description</td>
@@ -2027,11 +2027,11 @@
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
+                    <td>2025-07-05 14:07:00</td>
                 </tr>
                 <tr bgcolor="#D4E4F3">
                     <td>OID</td>
-                    <td>2757</td>
+                    <td>2774</td>
                 </tr>
             </table>
         </td>
@@ -2039,211 +2039,7 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.13551017062,41.5265838309469,0 -123.135327170645,41.5265988309298,0 -123.135310170659,41.5265248309333,0 -123.135363170663,41.5264488309432,0 -123.13546217065,41.5264358309528,0 -123.135576170628,41.5264648309609,0 -123.13551017062,41.5265838309469,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_22"><name>SUMMIT_ring_22</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>CAL FIRE INTEL FLIGHT DATA</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>f24ec5ec-2341-4e5f-8170-d7d36aefa2db</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>114.97</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>2757</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.134259171237,41.5238158310258,0 -123.13455917123,41.5235748310687,0 -123.13466817123,41.5234758310851,0 -123.135010171165,41.5235628311093,0 -123.135389171119,41.5235008311469,0 -123.135750171086,41.523363831188,0 -123.135807171078,41.5233618311932,0 -123.136401171039,41.5230498312668,0 -123.136748171007,41.522923831306,0 -123.13715417096,41.5228388313476,0 -123.137410170909,41.5229198313646,0 -123.137691170886,41.5228028313973,0 -123.137865170869,41.5227448314166,0 -123.138000170867,41.5226268314366,0 -123.13810117087,41.5225088314535,0 -123.13822817086,41.5224528314686,0 -123.138440170827,41.5224648314864,0 -123.138375170817,41.5225908314721,0 -123.138181170824,41.5227288314456,0 -123.138345170795,41.5227628314577,0 -123.138462170787,41.5226998314723,0 -123.138722170778,41.522512831508,0 -123.139030170741,41.5224518315393,0 -123.139463170694,41.5223448315847,0 -123.139783170664,41.5222308316207,0 -123.140034170639,41.5221498316483,0 -123.140427170591,41.5220868316873,0 -123.14091517054,41.5219468317398,0 -123.141154170507,41.521930831762,0 -123.141396170467,41.5219568317815,0 -123.141638170426,41.5219928318004,0 -123.141918170392,41.5219428318284,0 -123.14217017036,41.5219048318532,0 -123.142235170371,41.5217758318678,0 -123.142246170381,41.5217008318739,0 -123.142369170378,41.5216018318915,0 -123.142552170353,41.5215868319086,0 -123.142733170335,41.5215288319285,0 -123.142829170331,41.5214628319414,0 -123.143070170292,41.5214888319609,0 -123.143175170255,41.5216248319609,0 -123.143342170239,41.5215668319796,0 -123.14341217023,41.5215548319865,0 -123.143542170203,41.5216048319946,0 -123.143686170171,41.5216758320024,0 -123.143815170146,41.5217148320111,0 -123.143902170123,41.5217768320145,0 -123.144052170071,41.5219648320149,0 -123.144196170041,41.5220248320235,0 -123.144322170024,41.5220108320355,0 -123.144503170006,41.5219528320555,0 -123.144602169995,41.5219318320656,0 -123.144699169986,41.5218948320767,0 -123.144838169973,41.5218488320921,0 -123.145020169951,41.5218128321106,0 -123.145288169913,41.5218058321346,0 -123.1453731699,41.5218038321423,0 -123.145427169899,41.52175983215,0 -123.145354169918,41.5217088321471,0 -123.145312169924,41.5217098321433,0 -123.145183169949,41.5216698321347,0 -123.145110169968,41.5216188321317,0 -123.14519116997,41.5215318321448,0 -123.145247169963,41.5215198321506,0 -123.145286169969,41.5214438321592,0 -123.145282169983,41.5213588321646,0 -123.145307169991,41.521283832172,0 -123.14547316998,41.5211948321927,0 -123.14561416996,41.5211908322054,0 -123.145740169947,41.5211558322188,0 -123.145798169932,41.5211968322212,0 -123.145843169917,41.5212488322216,0 -123.145902169897,41.5213218322218,0 -123.145959169887,41.5213318322261,0 -123.146087169865,41.5213498322362,0 -123.146371169817,41.5213848322588,0 -123.146386169812,41.5214058322587,0 -123.146418169794,41.5214898322558,0 -123.146411169772,41.5216398322449,0 -123.146416169766,41.5216728322431,0 -123.14646416976,41.5216658322478,0 -123.146584169733,41.5217248322543,0 -123.146606169721,41.5217768322527,0 -123.146647169726,41.5217098322609,0 -123.146709169723,41.5216668322693,0 -123.146763169715,41.5216658322741,0 -123.146982169679,41.5216878322919,0 -123.147161169658,41.5216558323099,0 -123.147243169644,41.5216668323163,0 -123.147345169622,41.5217128323222,0 -123.147452169613,41.5216688323346,0 -123.147460169617,41.5216348323376,0 -123.147532169608,41.5216258323446,0 -123.147631169593,41.5216238323535,0 -123.147738169583,41.5215868323654,0 -123.147804169564,41.5216468323671,0 -123.147843169549,41.5217068323665,0 -123.147998169523,41.521723832379,0 -123.148072169509,41.5217418323842,0 -123.148131169493,41.5217878323863,0 -123.14816816949,41.5217758323904,0 -123.148256169474,41.5217938323969,0 -123.148329169457,41.5218308324008,0 -123.148415169448,41.5218108324097,0 -123.148474169439,41.5218068324152,0 -123.148575169419,41.5218428324217,0 -123.148616169408,41.5218748324231,0 -123.148686169386,41.5219478324243,0 -123.148691169369,41.5220488324178,0 -123.148682169364,41.522093832414,0 -123.148807169333,41.5221748324194,0 -123.148999169295,41.5222308324325,0 -123.149193169257,41.5222948324452,0 -123.149307169219,41.5224278324462,0 -123.1493041692,41.5225508324376,0 -123.149406169174,41.5226238324416,0 -123.149527169145,41.5226888324478,0 -123.149450169142,41.5227868324343,0 -123.149267169144,41.5229478324072,0 -123.149264169123,41.5230848323976,0 -123.149017169165,41.5230498323782,0 -123.149123169129,41.5231768323789,0 -123.149199169106,41.5232568323801,0 -123.149139169102,41.5233338323696,0 -123.149043169101,41.5234318323544,0 -123.148955169107,41.5234818323432,0 -123.148824169108,41.5236008323236,0 -123.148792169099,41.5236838323151,0 -123.148751169089,41.5237868323045,0 -123.1485651691,41.5238938322808,0 -123.148560169086,41.5239898322738,0 -123.148405169114,41.5239598322622,0 -123.148278169131,41.5239698322503,0 -123.148215169141,41.5239648322451,0 -123.14799816917,41.5239838322247,0 -123.147910169176,41.5240338322135,0 -123.14777516919,41.5240708321991,0 -123.147707169187,41.5241548321874,0 -123.147554169205,41.5241858321718,0 -123.14742516923,41.524147832163,0 -123.147269169261,41.5240978321526,0 -123.14710516929,41.5240678321402,0 -123.146987169305,41.5240838321288,0 -123.146872169315,41.5241278321156,0 -123.146734169341,41.5240968321056,0 -123.146650169361,41.5240448321017,0 -123.146627169382,41.5239358321072,0 -123.1465351694,41.5239038321012,0 -123.146363169425,41.5239088320857,0 -123.14637716944,41.5237988320945,0 -123.146419169445,41.5237298321029,0 -123.146369169466,41.5236388321047,0 -123.146227169478,41.523699832088,0 -123.146185169474,41.52376283208,0 -123.146075169464,41.5239358320585,0 -123.145978169467,41.5240068320451,0 -123.145944169463,41.5240618320384,0 -123.145832169459,41.5241948320194,0 -123.145719169459,41.5243068320018,0 -123.145730169451,41.524347832,0 -123.145690169439,41.524457831989,0 -123.145560169437,41.524597831968,0 -123.14546316944,41.5246688319545,0 -123.145440169432,41.5247438319474,0 -123.145315169442,41.5247948319329,0 -123.145246169441,41.5248718319216,0 -123.145160169435,41.5249898319059,0 -123.145093169427,41.525107831892,0 -123.144951169438,41.525172831875,0 -123.144799169451,41.5252308318577,0 -123.144782169451,41.5252448318552,0 -123.144613169465,41.5253178318354,0 -123.144568169468,41.5253398318299,0 -123.14440616949,41.5253568318145,0 -123.144267169521,41.5252858318071,0 -123.144183169542,41.5252328318033,0 -123.14416116956,41.5251378318078,0 -123.144182169577,41.5250078318185,0 -123.144248169591,41.5248558318348,0 -123.144279169604,41.524745831845,0 -123.14427516962,41.5246438318516,0 -123.14427816964,41.5245138318607,0 -123.144248169656,41.5244388318632,0 -123.144257169657,41.5244268318648,0 -123.14414916967,41.5244488318538,0 -123.144021169692,41.5244248318442,0 -123.143929169711,41.5243928318383,0 -123.14389116972,41.5243728318363,0 -123.143824169743,41.5242858318363,0 -123.143645169763,41.5243318318174,0 -123.143582169771,41.5243398318113,0 -123.143494169777,41.5243848318005,0 -123.143500169758,41.5245008317931,0 -123.143503169744,41.5245858317876,0 -123.143452169735,41.5246938317757,0 -123.143613169688,41.52483883178,0 -123.143463169692,41.5249588317586,0 -123.143353169698,41.5250258317443,0 -123.143273169693,41.5251338317299,0 -123.142942169716,41.5253018316892,0 -123.142862169707,41.5254318316733,0 -123.142842169682,41.5256128316592,0 -123.142440169714,41.5257938316114,0 -123.142333169709,41.5259238315931,0 -123.141877169742,41.5261478315376,0 -123.141556169777,41.5262308315037,0 -123.14116416982,41.5263258314627,0 -123.140966169852,41.5263098314463,0 -123.140810169876,41.526302831433,0 -123.140539169927,41.5262348314138,0 -123.140325169966,41.5261868313982,0 -123.140154169986,41.5262218313808,0 -123.14011816998,41.5262988313724,0 -123.140054169964,41.5264598313557,0 -123.13995816997,41.5265158313434,0 -123.139744170009,41.5264678313279,0 -123.13960017004,41.5264078313193,0 -123.139524170062,41.5263398313172,0 -123.139214170111,41.5263208312912,0 -123.138918170153,41.5263288312646,0 -123.138705170187,41.5263128312469,0 -123.138424170225,41.5263408312202,0 -123.138255170248,41.5263558312043,0 -123.138112170277,41.5263058311952,0 -123.1380781703,41.5261898312001,0 -123.138170170311,41.5260278312193,0 -123.138005170372,41.5257978312204,0 -123.137974170384,41.5257458312212,0 -123.137871170414,41.5256518312186,0 -123.138159170404,41.5254428312582,0 -123.13849617036,41.5254028312907,0 -123.13872917035,41.5252478313218,0 -123.138756170353,41.5252048313271,0 -123.138470170406,41.5251368313065,0 -123.13823317043,41.5252068312809,0 -123.138014170437,41.5253718312503,0 -123.137765170456,41.5254848312207,0 -123.137444170489,41.525577831186,0 -123.137337170485,41.5257078311677,0 -123.137199170493,41.5257858311502,0 -123.136994170498,41.5259508311209,0 -123.136664170543,41.5259748310902,0 -123.13659817056,41.5259288310875,0 -123.136526170576,41.5258988310832,0 -123.1363561706,41.525902831068,0 -123.13621817061,41.5259698310512,0 -123.136081170612,41.5260918310308,0 -123.135829170647,41.5261078310076,0 -123.135547170686,41.5261248309815,0 -123.135152170743,41.5261348309461,0 -123.13497617079,41.5260008309397,0 -123.134963170801,41.5259398309427,0 -123.134775170831,41.5259318309267,0 -123.134507170871,41.5259278309034,0 -123.134238170913,41.5259128308807,0 -123.13401317095,41.5258918308623,0 -123.13388217096,41.5259538308465,0 -123.133788170968,41.5259908308357,0 -123.133611170982,41.5260678308149,0 -123.133278171029,41.5260858307843,0 -123.133157171044,41.5261078307721,0 -123.133020171071,41.5260628307632,0 -123.132860171093,41.5260718307484,0 -123.13280017111,41.5260198307467,0 -123.132879171116,41.5259068307614,0 -123.133003171111,41.5258218307781,0 -123.133019171122,41.5257388307852,0 -123.13310917113,41.5256008308026,0 -123.133163171135,41.525517830813,0 -123.133184171148,41.5254108308222,0 -123.133188171148,41.5254068308228,0 -123.13313817117,41.5253128308248,0 -123.133103171197,41.5251748308311,0 -123.133226171196,41.5250658308494,0 -123.133348171195,41.5249558308677,0 -123.133524171198,41.5247708308958,0 -123.133756171192,41.524583830929,0 -123.1337941712,41.5244978309383,0 -123.133858171216,41.5243368309549,0 -123.133971171225,41.5241698309763,0 -123.133968171225,41.524169830976,0 -123.133873171242,41.5241548309687,0 -123.133709171267,41.5241498309546,0 -123.133556171291,41.5241448309414,0 -123.133681171288,41.5240438309593,0 -123.13375017128,41.5240248309667,0 -123.133888171271,41.5239508309839,0 -123.134096171252,41.5238748310074,0 -123.134225171231,41.523885831018,0 -123.134259171237,41.5238158310258,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_23"><name>SUMMIT_ring_23</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>CAL FIRE INTEL FLIGHT DATA</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>f24ec5ec-2341-4e5f-8170-d7d36aefa2db</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>114.97</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>2757</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.129803171416,41.5269178304213,0 -123.129646171447,41.5268678304109,0 -123.129670171456,41.5267828304188,0 -123.129811171436,41.5267788304315,0 -123.129803171416,41.5269178304213,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_24"><name>SUMMIT_ring_24</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>CAL FIRE INTEL FLIGHT DATA</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>f24ec5ec-2341-4e5f-8170-d7d36aefa2db</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>114.97</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>2757</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.136362170457,41.5268148310062,0 -123.136283170471,41.5267998310003,0 -123.13628617048,41.5267408310046,0 -123.136347170473,41.5267268310109,0 -123.136414170462,41.5267338310163,0 -123.136362170457,41.5268148310062,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2757_25"><name>SUMMIT_ring_25</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>CAL FIRE INTEL FLIGHT DATA</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>SUMMIT</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>f24ec5ec-2341-4e5f-8170-d7d36aefa2db</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>114.97</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-07-04 16:27:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>2757</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.138868170076,41.526872831223,0 -123.138757170092,41.5268718312133,0 -123.138726170107,41.5268058312151,0 -123.138757170111,41.5267508312216,0 -123.138912170093,41.5267218312372,0 -123.138920170081,41.5267928312331,0 -123.138868170076,41.526872831223,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>HELENA</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.148925167759,41.5321448317493,0 -123.148837167777,41.5321188317433,0 -123.148773167786,41.5321188317377,0 -123.148749167795,41.5320868317377,0 -123.148763167797,41.5320588317409,0 -123.148803167796,41.5320268317466,0 -123.148839167792,41.5320158317505,0 -123.148902167777,41.5320558317533,0 -123.148938167767,41.5320858317545,0 -123.148925167759,41.5321448317493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>HELENA</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
