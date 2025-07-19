@@ -5813,4 +5813,55 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.337736730297,41.2756305470374,0 -123.337781733818,41.2756591925929,0 -123.337701854329,41.2756754378278,0 -123.337736730297,41.2756305470374,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.337736730297,41.2756305470374,0 -123.337781733818,41.2756591925929,0 -123.337701854329,41.2756754378278,0 -123.337736730297,41.2756305470374,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-SDU-PALA-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-SDU-PALA-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>6.266318847792051</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-19 12:45:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2883</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.113608014692,33.3433150725726,0 -117.113733408959,33.343267055689,0 -117.113749669115,33.3432156298314,0 -117.113741833354,33.3431266988572,0 -117.113524074327,33.3428971434534,0 -117.113559293049,33.3428012666188,0 -117.113573199648,33.3426579188617,0 -117.11357624706,33.3425652384651,0 -117.113627542227,33.3425120477349,0 -117.113736314801,33.3424519814045,0 -117.113785725861,33.342425408043,0 -117.113871274497,33.3423729147451,0 -117.113935035448,33.3423347426518,0 -117.114032306793,33.3423194416822,0 -117.114218195887,33.3422448630887,0 -117.114279451459,33.3421933208553,0 -117.1144066259,33.3422232719265,0 -117.1144891067,33.3421425763488,0 -117.114589525154,33.3421016217839,0 -117.114818111556,33.3420610109816,0 -117.115216757892,33.342013308813,0 -117.115264574537,33.3419765862228,0 -117.115334137235,33.3419215268745,0 -117.115413292084,33.3419398843666,0 -117.115658992515,33.3420575540985,0 -117.115681408906,33.3421347709213,0 -117.115782472597,33.3421862896172,0 -117.115822914308,33.3422783229302,0 -117.115854384718,33.3423777796071,0 -117.115824290907,33.3424625411965,0 -117.115803098011,33.3425510665955,0 -117.115759932562,33.342621224219,0 -117.115707939983,33.3426766807085,0 -117.115594884723,33.342761828818,0 -117.11556502778,33.3429171457237,0 -117.115591993852,33.3429764641897,0 -117.115575781557,33.3430990097982,0 -117.115572512271,33.3431587426196,0 -117.115432141266,33.3432478256216,0 -117.115355550046,33.3433078774115,0 -117.115278232048,33.3433333808506,0 -117.115218495707,33.3433702568466,0 -117.115182177654,33.3433608680129,0 -117.115125812556,33.3433349249435,0 -117.115033887375,33.3433279239278,0 -117.115006376814,33.3432523503665,0 -117.115082104539,33.343139112105,0 -117.115084688563,33.3431148162971,0 -117.115067109354,33.3430939856326,0 -117.114965776821,33.3430939885253,0 -117.114878029082,33.343162931328,0 -117.114763737626,33.3432303621661,0 -117.114652280766,33.3432388089056,0 -117.11454721481,33.3432671720087,0 -117.114468477561,33.343316276255,0 -117.114248008296,33.3434465856687,0 -117.114170218023,33.3435115252182,0 -117.113925630517,33.34353240737,0 -117.113830726922,33.3434803432375,0 -117.113750624606,33.3434497342597,0 -117.113741538912,33.3434155518263,0 -117.113679126387,33.3434186195206,0 -117.113613061496,33.3434470099253,0 -117.113510569109,33.3434741676611,0 -117.11358431263,33.3433548597685,0 -117.113608014692,33.3433150725726,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
