@@ -3926,4 +3926,565 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-118.664793594564,37.4368871354745,0 -118.664821699593,37.4365873605059,0 -118.665025346569,37.4364918725296,0 -118.665316227521,37.4364876645504,0 -118.66575135246,37.4363818185913,0 -118.666009549416,37.4363857036091,0 -118.666295061384,37.4362388226435,0 -118.666626465357,37.435981089692,0 -118.667118049283,37.4359056837339,0 -118.667577665205,37.4359142657653,0 -118.667829329149,37.4360403467706,0 -118.668119376073,37.4362828147672,0 -118.668349666026,37.4363620167755,0 -118.668304872987,37.4367809457312,0 -118.668111271002,37.4369442197016,0 -118.667810679027,37.437173530658,0 -118.667367527086,37.4373107106135,0 -118.666931931147,37.4374185885723,0 -118.666705451201,37.4372778085703,0 -118.666514799233,37.4372709235576,0 -118.6660973613,37.4373052125249,0 -118.665621447392,37.4371874705031,0 -118.665319004445,37.4371714794834,0 -118.664793594564,37.4368871354745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-118.664793594564,37.4368871354745,0 -118.664821699593,37.4365873605059,0 -118.665025346569,37.4364918725296,0 -118.665316227521,37.4364876645504,0 -118.66575135246,37.4363818185913,0 -118.666009549416,37.4363857036091,0 -118.666295061384,37.4362388226435,0 -118.666626465357,37.435981089692,0 -118.667118049283,37.4359056837339,0 -118.667577665205,37.4359142657653,0 -118.667829329149,37.4360403467706,0 -118.668119376073,37.4362828147672,0 -118.668349666026,37.4363620167755,0 -118.668304872987,37.4367809457312,0 -118.668111271002,37.4369442197016,0 -118.667810679027,37.437173530658,0 -118.667367527086,37.4373107106135,0 -118.666931931147,37.4374185885723,0 -118.666705451201,37.4372778085703,0 -118.666514799233,37.4372709235576,0 -118.6660973613,37.4373052125249,0 -118.665621447392,37.4371874705031,0 -118.665319004445,37.4371714794834,0 -118.664793594564,37.4368871354745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-RRU-GREEN-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.648838974488,33.9203256469413,0 -117.648865885908,33.9203536735348,0 -117.64881929711,33.9203935536027,0 -117.64879231915,33.920359849177,0 -117.648838974488,33.9203256469413,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_1"><name>CA-RRU-GREEN-N42Z_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.648524387042,33.9185069778874,0 -117.648547693429,33.9185191321946,0 -117.648559343689,33.918545794702,0 -117.648534561285,33.9185639517391,0 -117.648499534823,33.918555419433,0 -117.64849953202,33.9185578471859,0 -117.648471768666,33.9185529587317,0 -117.648461579687,33.9185262362384,0 -117.648524387042,33.9185069778874,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_2"><name>CA-RRU-GREEN-N42Z_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.648540113948,33.918242638573,0 -117.648564738404,33.9182632300341,0 -117.648567686347,33.918288504752,0 -117.648515593267,33.9183183855851,0 -117.648486548212,33.918307407001,0 -117.648467652832,33.9182964672111,0 -117.648463287783,33.9182783582105,0 -117.64848360719,33.9182507428665,0 -117.648540113948,33.918242638573,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_3"><name>CA-RRU-GREEN-N42Z_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.637809335554,33.8825084694069,0 -117.63784154681,33.8825429078409,0 -117.637813900914,33.8825657677412,0 -117.637726422405,33.8826149709923,0 -117.6376760254,33.8826642785441,0 -117.637621200961,33.8826946059213,0 -117.637552744708,33.8826832981894,0 -117.63753903262,33.8826415982966,0 -117.637525287014,33.8825961339172,0 -117.637525261166,33.882554267446,0 -117.637607584234,33.8825311888088,0 -117.637630430728,33.8825311619342,0 -117.637731190266,33.8825121773618,0 -117.637809335554,33.8825084694069,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_4"><name>CA-RRU-GREEN-N42Z_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.640440804202,33.8822670514413,0 -117.640519050988,33.882294322455,0 -117.6405803434,33.8823178265699,0 -117.64064405846,33.8823082181344,0 -117.640716788785,33.8822793218232,0 -117.640741206762,33.8822788365466,0 -117.640818974822,33.8823015303189,0 -117.64089999805,33.8823213824453,0 -117.640961632331,33.8823493729274,0 -117.641046957695,33.8823773902458,0 -117.641075902139,33.8824089893377,0 -117.641124330804,33.8824603005436,0 -117.6411870022,33.8824997750895,0 -117.641282699523,33.8825235077338,0 -117.641364150521,33.8825313285545,0 -117.641381248767,33.8824643859116,0 -117.641427990867,33.8824170214774,0 -117.641475319632,33.8824012320905,0 -117.641542305891,33.8824090468486,0 -117.64159036259,33.8824088875697,0 -117.641667557476,33.8823966211263,0 -117.641746144607,33.8823918662374,0 -117.641816238798,33.882410736699,0 -117.641805235657,33.8825055184551,0 -117.64178708757,33.8825611718109,0 -117.641859357355,33.8825850210283,0 -117.641936492912,33.8825529317937,0 -117.642047207631,33.8825447983851,0 -117.642114939424,33.8825326515335,0 -117.642141578538,33.8826209710979,0 -117.642121258498,33.8826937689172,0 -117.642095275092,33.8827139993318,0 -117.641996797246,33.8827542318373,0 -117.641888653111,33.8827944101048,0 -117.641771920012,33.8828344053586,0 -117.641724534043,33.8828423294146,0 -117.64164698072,33.8828662855992,0 -117.641553694384,33.8829061782577,0 -117.641474274594,33.8829179657506,0 -117.641381851934,33.8829217389804,0 -117.641274628007,33.882877362939,0 -117.641143277203,33.8828412098018,0 -117.641008994478,33.8828293489213,0 -117.640931741653,33.8828175597553,0 -117.640902940273,33.8828255617691,0 -117.640807180211,33.8828574949166,0 -117.640668879769,33.8829331729431,0 -117.640606752176,33.882953108322,0 -117.640544495667,33.8829571264422,0 -117.640419983501,33.8829731284485,0 -117.640333812145,33.8829811419975,0 -117.640309926488,33.8829891087853,0 -117.640219149304,33.8830090360845,0 -117.640195179379,33.8829971248156,0 -117.640171116692,33.8829613866576,0 -117.640161412756,33.8829177160894,0 -117.640185207717,33.8828938776461,0 -117.640208992078,33.8828581240476,0 -117.640261468434,33.8828342427506,0 -117.64033781087,33.8827705917696,0 -117.640461919405,33.8826949445666,0 -117.640485742928,33.882675064652,0 -117.640561941135,33.8826114689558,0 -117.640546906847,33.882536382974,0 -117.640396537524,33.8825384578023,0 -117.640312930845,33.8825370423215,0 -117.64023946483,33.8825435299295,0 -117.640190860354,33.8825491464354,0 -117.640104517186,33.8825595122388,0 -117.640020314138,33.8825872291966,0 -117.639992337849,33.8825950779069,0 -117.639922085178,33.8825960152654,0 -117.639875241768,33.882585461625,0 -117.639805212278,33.8825530854621,0 -117.639712917713,33.8825388881146,0 -117.639574759515,33.8825309197728,0 -117.639551727662,33.8825309087527,0 -117.639495823927,33.8825639028681,0 -117.639402527599,33.8826126409166,0 -117.639329817488,33.882614402417,0 -117.639265360192,33.8826530654764,0 -117.639246653898,33.882672092949,0 -117.639127324033,33.8827418186264,0 -117.63903569775,33.8827805490316,0 -117.63892437092,33.8828072224544,0 -117.638858115295,33.8828028723648,0 -117.638804690203,33.8828021323127,0 -117.638716485905,33.8827634622601,0 -117.63864681377,33.8827224109694,0 -117.638587734716,33.8826781532033,0 -117.638691516486,33.8826295258744,0 -117.638724110463,33.8826183046612,0 -117.63883501069,33.8825845038454,0 -117.638958733544,33.8825465515725,0 -117.639068497195,33.8825084944292,0 -117.639187265383,33.8824741378336,0 -117.639305982541,33.882439674631,0 -117.639365282454,33.8824394351567,0 -117.639461030822,33.8824577668199,0 -117.639502429303,33.8824278835142,0 -117.639552798355,33.8824129268323,0 -117.639621382421,33.8824244796742,0 -117.639685366827,33.8823984295549,0 -117.639708188181,33.882387207556,0 -117.639781175548,33.8823608102412,0 -117.639895119019,33.8823040975488,0 -117.639963463576,33.8822928303839,0 -117.640018670517,33.8823487823808,0 -117.640073778057,33.8823405429786,0 -117.640160791091,33.8823020889858,0 -117.640240079107,33.8822883885171,0 -117.640342365943,33.882300392202,0 -117.640440804202,33.8822670514413,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_5"><name>CA-RRU-GREEN-N42Z_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.634672429842,33.8821467430204,0 -117.634772782845,33.8821667153273,0 -117.63480913993,33.8822362843346,0 -117.634735828022,33.8822587631424,0 -117.63462792436,33.882258127061,0 -117.63459637597,33.8822112093595,0 -117.634591933016,33.882153632393,0 -117.634672429842,33.8821467430204,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_6"><name>CA-RRU-GREEN-N42Z_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.636973996688,33.8818461479713,0 -117.637022118539,33.8818850663947,0 -117.63706326148,33.881951733058,0 -117.637109651861,33.8819908533755,0 -117.637166826236,33.8820441571914,0 -117.637176820694,33.8821590160117,0 -117.637101398913,33.8822164751573,0 -117.637015605987,33.8822526632749,0 -117.636890569517,33.882231102814,0 -117.636853883381,33.8821880197629,0 -117.636812708959,33.8821061655208,0 -117.636819062272,33.8820442581942,0 -117.63681600117,33.8819567001505,0 -117.636785810105,33.8819226627157,0 -117.636837547651,33.8818656394054,0 -117.636919892544,33.8818740275002,0 -117.636961185342,33.8818500968661,0 -117.636973996688,33.8818461479713,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_7"><name>CA-RRU-GREEN-N42Z_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.638171613906,33.8817234702436,0 -117.63823399955,33.8817284131577,0 -117.638267609517,33.8817673738148,0 -117.638302273793,33.8818444212464,0 -117.638306235807,33.8819494207493,0 -117.638294383681,33.8819670806968,0 -117.638263048341,33.8820170387072,0 -117.638245393664,33.8820754116609,0 -117.638249489622,33.8821279480151,0 -117.638284409321,33.882170280332,0 -117.638283940287,33.8822403128033,0 -117.638179867766,33.8822829279403,0 -117.638164167626,33.8822164825283,0 -117.638135496634,33.8821813453917,0 -117.638067656926,33.8821696770577,0 -117.637996040412,33.8821736788958,0 -117.637942163838,33.8821284524832,0 -117.637955516478,33.8820722493082,0 -117.638003955686,33.8820388353125,0 -117.638034221162,33.881991312219,0 -117.63808508589,33.8819015924874,0 -117.638093420418,33.8818838704032,0 -117.638088514118,33.8818055420007,0 -117.638084144803,33.881787715491,0 -117.638113194294,33.8817393497909,0 -117.638171613906,33.8817234702436,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_8"><name>CA-RRU-GREEN-N42Z_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.636451332005,33.8816832820386,0 -117.636510357185,33.8817258136403,0 -117.636524691704,33.8817850601364,0 -117.636507299754,33.8818685190227,0 -117.636455626156,33.881946569999,0 -117.636393641331,33.8820100539961,0 -117.636302212409,33.8819732752605,0 -117.636257775401,33.8819651076785,0 -117.63620941742,33.8819741984551,0 -117.636147932378,33.8819370927173,0 -117.636159933266,33.8818918924893,0 -117.636190932284,33.8818687137513,0 -117.636233295091,33.8818498297597,0 -117.636273214973,33.8818209750722,0 -117.636287511614,33.8817745091337,0 -117.636338283329,33.8817413651462,0 -117.636380686584,33.8817015567745,0 -117.636427134856,33.8816849962434,0 -117.636451332005,33.8816832820386,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_9"><name>CA-RRU-GREEN-N42Z_ring_9</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.635808709626,33.8814916793004,0 -117.635865063914,33.8815400123776,0 -117.635826275626,33.8816282017752,0 -117.635744098972,33.8816767094047,0 -117.635700999804,33.8817242650297,0 -117.635683998305,33.8817557369112,0 -117.635672767443,33.8818458436545,0 -117.635661227096,33.8818936305001,0 -117.635652309378,33.8819121787524,0 -117.635560875108,33.8819533464549,0 -117.635475781873,33.8820257795762,0 -117.635394494605,33.8820332948337,0 -117.635351698288,33.8819990084384,0 -117.635338470997,33.8819305405379,0 -117.635364673163,33.8818507766696,0 -117.635379435507,33.8817384156495,0 -117.635421358412,33.8816799537397,0 -117.635456438395,33.8816550960149,0 -117.635517917393,33.8816106611669,0 -117.635546407039,33.8815905115163,0 -117.635594863465,33.8815614185774,0 -117.635635429527,33.8815431814675,0 -117.63572218776,33.881498575173,0 -117.635808709626,33.8814916793004,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2899_10"><name>CA-RRU-GREEN-N42Z_ring_10</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-GREEN-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>4.599549336813859</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-07-25 17:06:47</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2899</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-117.633587102348,33.8814196737226,0 -117.633646510675,33.8814213743815,0 -117.633735552901,33.8814260217573,0 -117.633784034988,33.8814329202325,0 -117.633809140058,33.8814830237268,0 -117.633804758891,33.8815432852128,0 -117.633754488075,33.8815761622599,0 -117.633720967335,33.8815995079866,0 -117.63370355378,33.8816095957229,0 -117.633607597353,33.8816469734368,0 -117.633594534471,33.8816996433657,0 -117.633580725524,33.8817673722574,0 -117.633580608869,33.8818177575758,0 -117.633570271653,33.8818359339013,0 -117.633483714831,33.8818844791502,0 -117.633340074376,33.8818675672227,0 -117.633280695236,33.8818531659738,0 -117.633250064354,33.8817938191625,0 -117.633250748574,33.8817533403699,0 -117.633265899459,33.8816842953198,0 -117.633317316162,33.8816485429478,0 -117.633336882077,33.8816379547682,0 -117.633393007924,33.8815924961184,0 -117.633422658663,33.8815754260314,0 -117.633445013136,33.8815272888705,0 -117.633461196079,33.881496742025,0 -117.633480141322,33.8814563579265,0 -117.633501332638,33.8814434976245,0 -117.633587102348,33.8814196737226,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
