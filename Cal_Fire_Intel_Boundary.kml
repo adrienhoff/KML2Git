@@ -1,56 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>CA-INF-CREST-N874EB</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>USFS</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CA-INF-CREST-N874EB</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>None</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>None</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>8.49331537370095</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>Heat Perimeter 7/24 21:59:04</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-07-24 15:01:34</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>2897</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-118.664793594564,37.4368871354745,0 -118.664821699593,37.4365873605059,0 -118.665025346569,37.4364918725296,0 -118.665316227521,37.4364876645504,0 -118.66575135246,37.4363818185913,0 -118.666009549416,37.4363857036091,0 -118.666295061384,37.4362388226435,0 -118.666626465357,37.435981089692,0 -118.667118049283,37.4359056837339,0 -118.667577665205,37.4359142657653,0 -118.667829329149,37.4360403467706,0 -118.668119376073,37.4362828147672,0 -118.668349666026,37.4363620167755,0 -118.668304872987,37.4367809457312,0 -118.668111271002,37.4369442197016,0 -118.667810679027,37.437173530658,0 -118.667367527086,37.4373107106135,0 -118.666931931147,37.4374185885723,0 -118.666705451201,37.4372778085703,0 -118.666514799233,37.4372709235576,0 -118.6660973613,37.4373052125249,0 -118.665621447392,37.4371874705031,0 -118.665319004445,37.4371714794834,0 -118.664793594564,37.4368871354745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-RRU-GREEN-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>CA-RRU-GREEN-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
         <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
           <head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-16">
