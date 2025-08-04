@@ -3569,4 +3569,514 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.906437557993,34.3187569931924,0 -116.906983062129,34.3189405304253,0 -116.90715918128,34.3192673715506,0 -116.907013429857,34.3195536719929,0 -116.907514725643,34.3202287092403,0 -116.907395660918,34.3207204241682,0 -116.907671306007,34.3210483098687,0 -116.907782635345,34.3222801394286,0 -116.907488822499,34.3227078042072,0 -116.907184475499,34.3229506603913,0 -116.906962018983,34.32314003739,0 -116.906755670711,34.3233326584469,0 -116.906266167128,34.323332903963,0 -116.906115536632,34.3236341155116,0 -116.9058358005,34.32364584199,0 -116.905836934126,34.3239692477516,0 -116.905515764151,34.3241962654662,0 -116.904595735917,34.3240935518234,0 -116.904201472648,34.3245889541675,0 -116.903802644096,34.324403369873,0 -116.903331304082,34.3245480557644,0 -116.902933968996,34.324610161334,0 -116.902488192593,34.3249407727021,0 -116.902139824671,34.3248789552963,0 -116.901543394706,34.3249411807507,0 -116.901433209744,34.3254378180477,0 -116.901096257511,34.325379688128,0 -116.9007729141,34.3250241446014,0 -116.900276719912,34.3254170483666,0 -116.899954029442,34.3256860359551,0 -116.899681365488,34.3261414402678,0 -116.899332573589,34.3259759789132,0 -116.899008708736,34.3257691777701,0 -116.898560974046,34.3258935115817,0 -116.898412027099,34.3262454902536,0 -116.897366503193,34.3263287494751,0 -116.896768924338,34.3264947020812,0 -116.896320675335,34.3265570354114,0 -116.895947377926,34.3263914473621,0 -116.8968688346,34.3257700403072,0 -116.897092842715,34.3254597008554,0 -116.897366462572,34.3253562152083,0 -116.897888706656,34.3252113121974,0 -116.898087463715,34.3249426195829,0 -116.898460180976,34.3247359356648,0 -116.898882427523,34.3245086695907,0 -116.899031039717,34.3241990913285,0 -116.899452781634,34.3238895795618,0 -116.899800269834,34.3237863622782,0 -116.900147192511,34.3234977193044,0 -116.900344520904,34.3230445978704,0 -116.900816269897,34.3231061527295,0 -116.901657594323,34.3224885580782,0 -116.902226198304,34.3220772167594,0 -116.90341163922,34.3212554487188,0 -116.903682693707,34.3210091995562,0 -116.903878944259,34.3207016118033,0 -116.903434747655,34.3209683030019,0 -116.903111387525,34.3207224571789,0 -116.903407251455,34.3204969285245,0 -116.904124858924,34.3204351430983,0 -116.904544049903,34.3201891987394,0 -116.904244874298,34.319861850173,0 -116.904440335694,34.319493573298,0 -116.904812532101,34.3196570037875,0 -116.90530701956,34.3198180376642,0 -116.905461613744,34.3204140296224,0 -116.905803927201,34.3198815700703,0 -116.905504601644,34.3195748627183,0 -116.905082102159,34.3193092704295,0 -116.905350716955,34.3188596345332,0 -116.90587002225,34.3188798055344,0 -116.906437557993,34.3187569931924,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.906437557993,34.3187569931924,0 -116.906983062129,34.3189405304253,0 -116.90715918128,34.3192673715506,0 -116.907013429857,34.3195536719929,0 -116.907514725643,34.3202287092403,0 -116.907395660918,34.3207204241682,0 -116.907671306007,34.3210483098687,0 -116.907782635345,34.3222801394286,0 -116.907488822499,34.3227078042072,0 -116.907184475499,34.3229506603913,0 -116.906962018983,34.32314003739,0 -116.906755670711,34.3233326584469,0 -116.906266167128,34.323332903963,0 -116.906115536632,34.3236341155116,0 -116.9058358005,34.32364584199,0 -116.905836934126,34.3239692477516,0 -116.905515764151,34.3241962654662,0 -116.904595735917,34.3240935518234,0 -116.904201472648,34.3245889541675,0 -116.903802644096,34.324403369873,0 -116.903331304082,34.3245480557644,0 -116.902933968996,34.324610161334,0 -116.902488192593,34.3249407727021,0 -116.902139824671,34.3248789552963,0 -116.901543394706,34.3249411807507,0 -116.901433209744,34.3254378180477,0 -116.901096257511,34.325379688128,0 -116.9007729141,34.3250241446014,0 -116.900276719912,34.3254170483666,0 -116.899954029442,34.3256860359551,0 -116.899681365488,34.3261414402678,0 -116.899332573589,34.3259759789132,0 -116.899008708736,34.3257691777701,0 -116.898560974046,34.3258935115817,0 -116.898412027099,34.3262454902536,0 -116.897366503193,34.3263287494751,0 -116.896768924338,34.3264947020812,0 -116.896320675335,34.3265570354114,0 -116.895947377926,34.3263914473621,0 -116.8968688346,34.3257700403072,0 -116.897092842715,34.3254597008554,0 -116.897366462572,34.3253562152083,0 -116.897888706656,34.3252113121974,0 -116.898087463715,34.3249426195829,0 -116.898460180976,34.3247359356648,0 -116.898882427523,34.3245086695907,0 -116.899031039717,34.3241990913285,0 -116.899452781634,34.3238895795618,0 -116.899800269834,34.3237863622782,0 -116.900147192511,34.3234977193044,0 -116.900344520904,34.3230445978704,0 -116.900816269897,34.3231061527295,0 -116.901657594323,34.3224885580782,0 -116.902226198304,34.3220772167594,0 -116.90341163922,34.3212554487188,0 -116.903682693707,34.3210091995562,0 -116.903878944259,34.3207016118033,0 -116.903434747655,34.3209683030019,0 -116.903111387525,34.3207224571789,0 -116.903407251455,34.3204969285245,0 -116.904124858924,34.3204351430983,0 -116.904544049903,34.3201891987394,0 -116.904244874298,34.319861850173,0 -116.904440335694,34.319493573298,0 -116.904812532101,34.3196570037875,0 -116.90530701956,34.3198180376642,0 -116.905461613744,34.3204140296224,0 -116.905803927201,34.3198815700703,0 -116.905504601644,34.3195748627183,0 -116.905082102159,34.3193092704295,0 -116.905350716955,34.3188596345332,0 -116.90587002225,34.3188798055344,0 -116.906437557993,34.3187569931924,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-BDF-GOLD-N50X</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.897959638075,34.3290274951823,0 -116.897665440122,34.3290897971583,0 -116.896955330263,34.3288786251419,0 -116.896372217356,34.3289801370969,0 -116.896060297399,34.3291179280631,0 -116.896004571404,34.3291663460544,0 -116.89560356946,34.3293367850118,0 -116.894748110589,34.3295800299349,0 -116.893736140791,34.3292704449125,0 -116.893273968898,34.3289474829232,0 -116.892799049978,34.3289788828924,0 -116.892207201076,34.3290490388504,0 -116.891473766194,34.3291639047952,0 -116.890615072341,34.3291955807424,0 -116.890374184377,34.3292628207209,0 -116.888509199759,34.328584684692,0 -116.888278836826,34.3282614677161,0 -116.887901796958,34.327456603787,0 -116.887991008005,34.3267066568784,0 -116.88789296708,34.3260134149525,0 -116.887677488231,34.3246448880976,0 -116.887764300254,34.3241837381556,0 -116.88848726517,34.3236807842549,0 -116.889548728012,34.3233590953527,0 -116.891348286711,34.3232062874732,0 -116.892757381456,34.3233198775408,0 -116.893239448401,34.3229768246079,0 -116.89362960635,34.3227674786543,0 -116.894790247186,34.3223142137729,0 -116.896252830938,34.3222278888665,0 -116.897621563725,34.3219235779799,0 -116.898714005578,34.3214075381017,0 -116.899325035477,34.3213382691447,0 -116.899481696443,34.3214267951435,0 -116.899933066365,34.321411892171,0 -116.900748627247,34.3211290852502,0 -116.901039711208,34.3209811622839,0 -116.901142213209,34.3207632043148,0 -116.901279731227,34.3202525383815,0 -116.901885919154,34.3198663614605,0 -116.902316819095,34.3196663285082,0 -116.902520162063,34.3196312305239,0 -116.902902793995,34.3196396735448,0 -116.903067900983,34.3194485345762,0 -116.903262659966,34.3192449056108,0 -116.903516147933,34.3191006316419,0 -116.904339636815,34.3187998387236,0 -116.904724714762,34.318631384765,0 -116.904881820748,34.3184648407932,0 -116.905952810588,34.31815609289,0 -116.906378299508,34.3182191539071,0 -116.906888032399,34.3184709019073,0 -116.90705631835,34.3186973658908,0 -116.90735188424,34.319408780826,0 -116.907514726143,34.320228708741,0 -116.907395661123,34.3207204236777,0 -116.907671306048,34.3210483096558,0 -116.907782634926,34.3222801395205,0 -116.907488822942,34.3227078044545,0 -116.907184475974,34.3229506604092,0 -116.907258647913,34.323536816346,0 -116.906828613903,34.3245600682038,0 -116.906229609968,34.3250241021162,0 -116.905256316071,34.3258239329685,0 -116.905144094084,34.3258999459533,0 -116.90475224713,34.3261749158993,0 -116.904491808153,34.3264438008535,0 -116.904567782097,34.326955424799,0 -116.904286720067,34.327902774674,0 -116.904102983056,34.3284231286037,0 -116.903920407077,34.3285545885781,0 -116.903593415121,34.3287117415413,0 -116.902629329275,34.3288710574677,0 -116.901515276483,34.3287006434236,0 -116.900411545671,34.3287567333539,0 -116.899545579797,34.3290528232703,0 -116.89862565097,34.3289047882346,0 -116.898328578024,34.3288723062213,0 -116.897959638075,34.3290274951823,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_1"><name>CA-BDF-GOLD-N50X_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.8898316174,34.3301229395909,0 -116.889557267447,34.3301306605743,0 -116.889400861484,34.3300149605786,0 -116.88934929251,34.3298085895994,0 -116.889353974533,34.3295212376327,0 -116.889381754535,34.3294486066426,0 -116.889450494526,34.3294088516512,0 -116.889559782507,34.3294087536574,0 -116.889701022478,34.3294638656592,0 -116.889924799416,34.3297350306408,0 -116.889992807394,34.3298654106297,0 -116.889935926394,34.329973455614,0 -116.8898316174,34.3301229395909,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_2"><name>CA-BDF-GOLD-N50X_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.890596909266,34.3301328336335,0 -116.890527694286,34.3300350076409,0 -116.890440015309,34.3299397486468,0 -116.890488573317,34.3297452036719,0 -116.89073336128,34.3296806766934,0 -116.890863803251,34.3297495336929,0 -116.890935544217,34.3300174056662,0 -116.890656486252,34.3301738886322,0 -116.890596909266,34.3301328336335,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_3"><name>CA-BDF-GOLD-N50X_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.888648071664,34.3294328386025,0 -116.888492431699,34.3293355636047,0 -116.888431179717,34.3292425776119,0 -116.888524478714,34.3290847356354,0 -116.88869882969,34.3290092196541,0 -116.888829036664,34.3290499866568,0 -116.888861105657,34.3290694206565,0 -116.888916132641,34.3291432566511,0 -116.888897226627,34.3293528376259,0 -116.888875511627,34.32939337962,0 -116.888824802633,34.3294310406128,0 -116.888648071664,34.3294328386025,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_4"><name>CA-BDF-GOLD-N50X_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.888471152635,34.3301460795103,0 -116.888382631655,34.3300979145107,0 -116.888223061686,34.330050826507,0 -116.888219302691,34.3299994905127,0 -116.888167057707,34.3299173815192,0 -116.888223282707,34.3297979205361,0 -116.888329009695,34.3297254815505,0 -116.888389991686,34.3297046575564,0 -116.888558901653,34.329748674561,0 -116.888623492634,34.3298402305542,0 -116.888634708621,34.3299785065389,0 -116.888577115621,34.3300941305223,0 -116.888471152635,34.3301460795103,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_5"><name>CA-BDF-GOLD-N50X_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.887046276031,34.3283753676323,0 -116.886924072051,34.3283942856232,0 -116.886842848068,34.3283581136227,0 -116.886761204087,34.3282965226251,0 -116.886731958099,34.3282157006327,0 -116.886767183099,34.3281383446436,0 -116.886925636076,34.3280819246592,0 -116.887098022044,34.3281038736665,0 -116.887230323015,34.3281854896647,0 -116.887227592012,34.32822525666,0 -116.887197744012,34.3282908016507,0 -116.887163637014,34.3283356356436,0 -116.887046276031,34.3283753676323,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_6"><name>CA-BDF-GOLD-N50X_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.885811943357,34.3270342317159,0 -116.885689048384,34.3269732017159,0 -116.885657603396,34.3268999457225,0 -116.885664890399,34.3268372767302,0 -116.88581569938,34.326757199748,0 -116.885944880356,34.3267730997536,0 -116.886026365339,34.3268069877544,0 -116.886029163324,34.3269824907343,0 -116.885951461333,34.3270414787231,0 -116.885811943357,34.3270342317159,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_7"><name>CA-BDF-GOLD-N50X_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.884059208879,34.3244333309148,0 -116.88399422189,34.3244365459107,0 -116.883911043918,34.3242756289245,0 -116.883999670909,34.3242007299382,0 -116.884092845893,34.3241954599441,0 -116.884163518877,34.3242461809423,0 -116.884153687868,34.3243723259272,0 -116.884059208879,34.3244333309148,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="2958_8"><name>CA-BDF-GOLD-N50X_ring_8</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>USFS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BDF-GOLD-N50X</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>348.28668913522307</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>Heat Perimeter: 348acres 8/4 20:36:39</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:31</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2958</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.885243966684,34.3243001479979,0 -116.885196759694,34.3242748019982,0 -116.885191656698,34.3242397640019,0 -116.88524578769,34.3242180150075,0 -116.88529170468,34.3242489840065,0 -116.885294106676,34.3242880790022,0 -116.885243966684,34.3243001479979,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-RRU-ROSA-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-RRU-ROSA-N42Z</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>120.20106556383818</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-04 13:52:51</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>2957</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.524675220922,33.5730956983032,0 -116.524320629534,33.573185940003,0 -116.523337651177,33.5732575061142,0 -116.522920323035,33.5730797560105,0 -116.522349436091,33.5732141325741,0 -116.52163110468,33.5731255091269,0 -116.521182722192,33.5737551411238,0 -116.520522719368,33.5740266684276,0 -116.519330147239,33.5738693890869,0 -116.51884747012,33.574165678234,0 -116.517432927961,33.5738704356832,0 -116.516391087927,33.5735310111668,0 -116.515796179591,33.5731929706982,0 -116.515466051292,33.5728784088086,0 -116.515530501258,33.5721208323853,0 -116.516410697908,33.5718105528554,0 -116.517744147348,33.5711211036149,0 -116.518331734619,33.5709798738512,0 -116.520093227298,33.5706977704326,0 -116.520752751179,33.5705735058292,0 -116.521222707151,33.5703171069065,0 -116.521702027095,33.5702961064561,0 -116.522561146607,33.5701371040029,0 -116.523065572323,33.5702603446422,0 -116.523628146391,33.5703211040439,0 -116.52431214628,33.5703441040532,0 -116.524685605294,33.5701672201127,0 -116.524216022671,33.5695811844255,0 -116.524644765373,33.5691464946469,0 -116.524933845368,33.5692081237121,0 -116.525408204394,33.5694221829951,0 -116.524885514579,33.568798701459,0 -116.525279847156,33.5684610100654,0 -116.525571849608,33.5679132057495,0 -116.526071967316,33.56785579708,0 -116.525780082406,33.5682289834226,0 -116.525672566473,33.5686655095189,0 -116.52641381544,33.5686257126881,0 -116.52699910762,33.5679437733345,0 -116.52723767002,33.5676213929263,0 -116.527715508055,33.5672838797073,0 -116.528610145765,33.5671381046688,0 -116.529967842922,33.5665146510168,0 -116.531409237033,33.5659881801608,0 -116.532191890059,33.5658036048678,0 -116.533017145124,33.5655811051048,0 -116.533591834722,33.5654460601788,0 -116.533886961889,33.5657716731939,0 -116.5340511449,33.5662121050704,0 -116.533260369028,33.567003188729,0 -116.532794994768,33.5671245609751,0 -116.532224077495,33.5673993278776,0 -116.531850536626,33.5676468659868,0 -116.531427434432,33.5678012024841,0 -116.531378688502,33.5681957409522,0 -116.531116903226,33.5685026298273,0 -116.530770454915,33.5683486440899,0 -116.529923145444,33.5683521046224,0 -116.529732145452,33.5686731045763,0 -116.528630414081,33.5697483851554,0 -116.528284264595,33.5701712630521,0 -116.527135021099,33.5704398980913,0 -116.5265487254,33.5706094392135,0 -116.526177488063,33.5709264268432,0 -116.52591064618,33.5711908340297,0 -116.525722045487,33.571587443623,0 -116.524985260864,33.5726269676531,0 -116.524675220922,33.5730956983032,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
