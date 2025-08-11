@@ -12698,4 +12698,412 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.002910228064,41.2825338361546,0 -123.003052228041,41.2825498361658,0 -123.003072228028,41.2826108361633,0 -123.003032228026,41.2826638361562,0 -123.002957228038,41.2826618361498,0 -123.002890228048,41.2826598361441,0 -123.002850228065,41.2825918361453,0 -123.002910228064,41.2825338361546,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-123.002910228064,41.2825338361546,0 -123.003052228041,41.2825498361658,0 -123.003072228028,41.2826108361633,0 -123.003032228026,41.2826638361562,0 -123.002957228038,41.2826618361498,0 -123.002890228048,41.2826598361441,0 -123.002850228065,41.2825918361453,0 -123.002910228064,41.2825338361546,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-NEU-PONDEROSA-N57B</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.294455556575,39.3871672246841,0 -121.294471959966,39.3871805690031,0 -121.294473788893,39.3871903083026,0 -121.294470198231,39.3872165109901,0 -121.294455753231,39.3872156593878,0 -121.294440307879,39.3871948615832,0 -121.294442928509,39.3871810502003,0 -121.294455556575,39.3871672246841,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_1"><name>CA-NEU-PONDEROSA-N57B_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.294330675618,39.3871417842569,0 -121.294365550008,39.3871428344641,0 -121.294411719089,39.3871799524974,0 -121.29440966972,39.3872156025895,0 -121.294382495856,39.3872371616052,0 -121.294349062944,39.3872204637542,0 -121.294327496635,39.3871592729581,0 -121.294330675618,39.3871417842569,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_2"><name>CA-NEU-PONDEROSA-N57B_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.289625291781,39.3853214358441,0 -121.289818618596,39.3853725254232,0 -121.289842204825,39.3853873377768,0 -121.289846262556,39.3854112586952,0 -121.289846551526,39.3854291293019,0 -121.289829338923,39.3854422560774,0 -121.289807526248,39.385469654316,0 -121.289739160803,39.385481949419,0 -121.289713440547,39.385475586866,0 -121.289688153835,39.3854805096511,0 -121.289637563046,39.3855199574588,0 -121.289618788719,39.3855447961865,0 -121.28960891667,39.3855711552118,0 -121.289595799307,39.3855872275868,0 -121.289596883759,39.3856297717099,0 -121.289583799075,39.3856389015393,0 -121.289555749176,39.3856391934381,0 -121.28953334697,39.3856471621896,0 -121.289500813295,39.3856431032802,0 -121.289492685118,39.3856221360316,0 -121.289504410941,39.3855709119077,0 -121.289520082586,39.385557679637,0 -121.289519095421,39.3855419505595,0 -121.289507776316,39.385506594516,0 -121.289510905968,39.385495012405,0 -121.289519246096,39.3854791777946,0 -121.289507820536,39.3854637818786,0 -121.289527647395,39.3854169797552,0 -121.289550788144,39.385390242763,0 -121.289576370316,39.3853597172497,0 -121.289625291781,39.3853214358441,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_3"><name>CA-NEU-PONDEROSA-N57B_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.291604143828,39.3849940102952,0 -121.291678383237,39.3850163542283,0 -121.291641329825,39.3850640832377,0 -121.291558279998,39.3850582834348,0 -121.291554767057,39.3850068039057,0 -121.291604143828,39.3849940102952,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_4"><name>CA-NEU-PONDEROSA-N57B_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.290863693356,39.3847002616981,0 -121.290935710851,39.3847043113983,0 -121.29096076054,39.3847211004967,0 -121.290981105865,39.3847688530265,0 -121.29098688558,39.3848062663695,0 -121.290953313144,39.3848498663623,0 -121.290865912615,39.38484693929,0 -121.290829974853,39.384827479146,0 -121.290799988736,39.3847995325106,0 -121.290819069652,39.3847714746719,0 -121.290831784742,39.3847483109279,0 -121.290863693356,39.3847002616981,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_5"><name>CA-NEU-PONDEROSA-N57B_ring_5</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.291764099105,39.3846342534239,0 -121.291799223058,39.3846408269938,0 -121.291837955168,39.3846394828925,0 -121.291846779667,39.3846935254449,0 -121.29179128283,39.3847343065827,0 -121.291703360806,39.3847439875551,0 -121.291688860903,39.3847247275915,0 -121.291687442591,39.3846978914937,0 -121.291715244583,39.3846528220377,0 -121.291742649179,39.3846450503375,0 -121.291764099105,39.3846342534239,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_6"><name>CA-NEU-PONDEROSA-N57B_ring_6</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.291681782852,39.3843737288804,0 -121.291753809935,39.3844144583712,0 -121.29179062978,39.3844798423506,0 -121.291807347395,39.3845001485149,0 -121.29180015969,39.3845260244801,0 -121.291787309683,39.3845576251659,0 -121.291763202576,39.3845636806808,0 -121.29171417689,39.3845588866402,0 -121.291615240023,39.3845476454427,0 -121.291527637665,39.3845355076253,0 -121.291535903517,39.3844839246131,0 -121.291528108663,39.3844647805952,0 -121.2915720618,39.384395033279,0 -121.291615257383,39.3843746155498,0 -121.291645695853,39.3843892810802,0 -121.291681782852,39.3843737288804,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3015_7"><name>CA-NEU-PONDEROSA-N57B_ring_7</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-NEU-PONDEROSA-N57B</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>48.380093744345125</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-08-10 16:35:40</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3015</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.29609723865,39.3838602633804,0 -121.296299894367,39.3839097833332,0 -121.29637919021,39.3839823747368,0 -121.296679969315,39.3840176919268,0 -121.296797446516,39.3839331499143,0 -121.297350803743,39.3841754220756,0 -121.29745946501,39.3844384623243,0 -121.297512652588,39.3847100590692,0 -121.297490989283,39.3848812161948,0 -121.297652693419,39.3848570661664,0 -121.29772973375,39.3849665990544,0 -121.297876521862,39.3850060063015,0 -121.298022809428,39.3851004539772,0 -121.29831659336,39.3851089567846,0 -121.298422854376,39.3850022001068,0 -121.298747317267,39.3849810386083,0 -121.298988892971,39.3849990940078,0 -121.29907915646,39.3850972059925,0 -121.298946215182,39.3851973464518,0 -121.299157374145,39.385294660298,0 -121.299246246092,39.3853995894504,0 -121.299532351216,39.3854334115608,0 -121.299662910369,39.3853552200445,0 -121.299843552012,39.3853397115211,0 -121.299980726427,39.3854448640434,0 -121.299906742862,39.385875226854,0 -121.299800797155,39.386022508209,0 -121.299635133013,39.3861486588198,0 -121.299202223119,39.38638617685,0 -121.299123774102,39.386456623629,0 -121.298877647973,39.386496831917,0 -121.298765041179,39.3864527661562,0 -121.298510849614,39.3865601997489,0 -121.298219569589,39.3867736267393,0 -121.29804288518,39.3868918347228,0 -121.297920220926,39.3870172959035,0 -121.297722027527,39.3870063248202,0 -121.297616435601,39.3869895371412,0 -121.297477169762,39.387083314447,0 -121.297188608885,39.3871039968831,0 -121.29706972446,39.3871291114493,0 -121.296928066055,39.3870625789991,0 -121.296876775179,39.3870940346928,0 -121.296648442577,39.3870617016523,0 -121.296575526189,39.3870035456835,0 -121.296286785486,39.3868727968153,0 -121.296143004886,39.3868482965938,0 -121.29593064955,39.3866676623125,0 -121.295696962112,39.3865130823354,0 -121.295465983829,39.3864187251865,0 -121.295440205694,39.3864688020959,0 -121.295455253945,39.3865643476423,0 -121.295450010919,39.3866064410235,0 -121.29538182981,39.3868841016626,0 -121.295051857796,39.3869243694682,0 -121.294997815021,39.386989901665,0 -121.294915351641,39.387090923402,0 -121.294858088845,39.3870753185177,0 -121.29471128066,39.3870626517131,0 -121.294636024378,39.3870981465644,0 -121.2944576894,39.3870791888025,0 -121.29444288505,39.3870145059153,0 -121.294361997703,39.3869421060538,0 -121.294300785785,39.3869456789044,0 -121.294292689658,39.387021425325,0 -121.294207297101,39.3869963728328,0 -121.294144474273,39.3869460089761,0 -121.294092016634,39.3869572502358,0 -121.294045830812,39.3870336809122,0 -121.293936734158,39.3869956777969,0 -121.293908446275,39.387043507245,0 -121.293823585608,39.3870971302744,0 -121.293767827745,39.387026173557,0 -121.293703703736,39.3870585607813,0 -121.29357189576,39.3870069129635,0 -121.293396470896,39.3870130080744,0 -121.29332282064,39.3870857290924,0 -121.293125088309,39.3871701262512,0 -121.29295989693,39.3872305796201,0 -121.292650650931,39.38722637222,0 -121.292404671566,39.3872210242087,0 -121.292197798887,39.3872769894879,0 -121.291929338133,39.3872522040225,0 -121.291865670512,39.3871725690173,0 -121.291788942258,39.3871737549865,0 -121.291759641962,39.3871660380004,0 -121.291728142754,39.3871895426802,0 -121.291533087292,39.3872972312621,0 -121.291286987286,39.3873295892726,0 -121.290998539738,39.3873329331884,0 -121.290892076536,39.3872374574516,0 -121.290977848175,39.38721581411,0 -121.291072031444,39.3871941706234,0 -121.291109464168,39.3871400558499,0 -121.290988932699,39.387048012638,0 -121.290863073321,39.3871164431126,0 -121.290726938084,39.3870340790367,0 -121.290656978288,39.3869756422545,0 -121.290626578278,39.3869296646961,0 -121.290566498459,39.3868534436046,0 -121.290620659941,39.3866729020709,0 -121.2906452398,39.3865739427395,0 -121.290771971102,39.3865641393011,0 -121.290839934577,39.3866121719724,0 -121.290903332004,39.3865843938657,0 -121.290933805929,39.3864256945863,0 -121.290849053674,39.3862607956522,0 -121.29105202643,39.3861376121931,0 -121.290763584811,39.3859182029579,0 -121.290616662468,39.3858157200571,0 -121.290482085555,39.3856473506839,0 -121.290590818857,39.3855653155851,0 -121.29093344355,39.3855945570839,0 -121.291119150508,39.3856746840269,0 -121.291216354816,39.3857196073517,0 -121.291634605361,39.3858380603027,0 -121.291746308136,39.3858969770532,0 -121.291849811112,39.3859039837841,0 -121.291857187969,39.3858184789449,0 -121.291969313021,39.3857167492077,0 -121.291968560899,39.3855931750747,0 -121.292022325963,39.3854896170355,0 -121.292183987346,39.3853870291911,0 -121.292429249439,39.3852515261585,0 -121.292759153031,39.3851467263123,0 -121.292680359392,39.3849527621034,0 -121.292619243506,39.3847710176758,0 -121.292785385212,39.3846208300076,0 -121.292669344942,39.384457304343,0 -121.292854837724,39.3844672226258,0 -121.292871509748,39.3843304072038,0 -121.292914474592,39.3842270019549,0 -121.293074500965,39.3842085700369,0 -121.293093112604,39.3841248522618,0 -121.293196962904,39.38410103836,0 -121.293464918572,39.3840620325239,0 -121.293485636489,39.3841042031894,0 -121.293540584951,39.3841463081261,0 -121.29362301421,39.384135250312,0 -121.293763843538,39.384213582758,0 -121.294040380497,39.3840313028496,0 -121.294525178528,39.3840149822838,0 -121.294733056725,39.3839827649853,0 -121.295118989395,39.3841675600712,0 -121.295458915042,39.3845140466773,0 -121.295622376042,39.38457318785,0 -121.295743722509,39.3844919784561,0 -121.295796192135,39.3843643570805,0 -121.295892523865,39.3842690317768,0 -121.295833330454,39.3841342919908,0 -121.295860870552,39.3839984459314,0 -121.295957165205,39.3838894877112,0 -121.29609723865,39.3838602633804,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
