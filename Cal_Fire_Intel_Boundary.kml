@@ -30854,4 +30854,259 @@
 </table>
 <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
 </body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-120.439831626175,37.8836155908342,0 -120.439913788051,37.8836826438174,0 -120.439908581966,37.8837679643251,0 -120.439837826859,37.8837515032848,0 -120.439831626175,37.8836155908342,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-120.439831626175,37.8836155908342,0 -120.439913788051,37.8836826438174,0 -120.439908581966,37.8837679643251,0 -120.439837826859,37.8837515032848,0 -120.439831626175,37.8836155908342,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>CA-BTU-Granite-N40Y</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BTU-Granite-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>11.609121449512868</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-09-03 00:51:07</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3626</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.451200213725,39.8950102801323,0 -121.451420716619,39.8950162883943,0 -121.451502118438,39.89519495824,0 -121.451564906846,39.8950783752976,0 -121.451656521292,39.8950917823385,0 -121.451782691671,39.895267478341,0 -121.451814271049,39.8954385615468,0 -121.45168901268,39.8958210266955,0 -121.451605485366,39.8959443288011,0 -121.451450767811,39.8960122719557,0 -121.451321421337,39.8959954640965,0 -121.451317823249,39.8959308234426,0 -121.451186341326,39.8958466170149,0 -121.451096623338,39.8958987551888,0 -121.450979645232,39.895912595171,0 -121.450870928885,39.8959077517104,0 -121.450753807196,39.8958555431857,0 -121.45067819377,39.8957657855005,0 -121.450718298764,39.8956115756006,0 -121.450815509398,39.8954881703908,0 -121.450901021771,39.8954225681683,0 -121.451108375225,39.8954586708769,0 -121.451069913446,39.8953096137611,0 -121.451062247455,39.8950444209858,0 -121.451200213725,39.8950102801323,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3626_1"><name>CA-BTU-Granite-N40Y_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BTU-Granite-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>11.609121449512868</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-09-03 00:51:07</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3626</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.451410385182,39.8942836154424,0 -121.451518741617,39.8942991098625,0 -121.451618458448,39.89434558936,0 -121.451714922946,39.8943571091919,0 -121.451807354335,39.8943324484285,0 -121.451842686669,39.8944280118728,0 -121.451878406084,39.8945696641985,0 -121.451801995257,39.8946164499298,0 -121.45168021644,39.8946787395517,0 -121.451861027289,39.8947282208822,0 -121.451950454296,39.8947874299818,0 -121.451908965309,39.8949092045241,0 -121.45180248659,39.8949631141575,0 -121.451697264699,39.8949480236519,0 -121.451639616609,39.8949163296359,0 -121.451548714003,39.8949133115776,0 -121.451414876301,39.8949603343878,0 -121.451295976869,39.8949187115476,0 -121.451272534104,39.8946971793784,0 -121.451342065197,39.8946667394948,0 -121.451396439754,39.8946130604677,0 -121.451295078672,39.8945985625461,0 -121.451196454027,39.8945586476327,0 -121.451151628424,39.8944881726598,0 -121.451230469817,39.8943725875623,0 -121.451282323987,39.8943418808101,0 -121.451368220034,39.8943428537662,0 -121.451410385182,39.8942836154424,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3626_2"><name>CA-BTU-Granite-N40Y_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BTU-Granite-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>11.609121449512868</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-09-03 00:51:07</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3626</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.452886330695,39.8913291966757,0 -121.453038323524,39.891346446798,0 -121.453081136022,39.891459188649,0 -121.453059934376,39.8915925646254,0 -121.452933215314,39.8916112716776,0 -121.45278481396,39.8916164348987,0 -121.452653481742,39.8915745730025,0 -121.452535636984,39.8914296531933,0 -121.452612505514,39.8913745488406,0 -121.452749184365,39.8913733442973,0 -121.452886330695,39.8913291966757,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3626_3"><name>CA-BTU-Granite-N40Y_ring_3</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BTU-Granite-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>11.609121449512868</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-09-03 00:51:07</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3626</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.451887355519,39.8913029181382,0 -121.451968960196,39.8913272737767,0 -121.45203034089,39.8913819917157,0 -121.452108329474,39.8914354987322,0 -121.452172071594,39.8915279948287,0 -121.452179942899,39.8916570783974,0 -121.452218614113,39.8918863867362,0 -121.452218144917,39.8919579385751,0 -121.452174187821,39.8920318754783,0 -121.452038253778,39.8921033242334,0 -121.451899308827,39.8921526503201,0 -121.451846228187,39.8922574970264,0 -121.452059534339,39.8921757027622,0 -121.452284068255,39.8920961686633,0 -121.452356621956,39.8920402577906,0 -121.452458048439,39.8919916036447,0 -121.452592311168,39.8919615345534,0 -121.452733668933,39.891952125398,0 -121.452827713958,39.8919781494774,0 -121.452872101524,39.8920489141917,0 -121.45287489722,39.8921137903042,0 -121.452928943487,39.8922053001332,0 -121.452996194225,39.8923469938086,0 -121.452948102574,39.892402874601,0 -121.452906260537,39.8924719163169,0 -121.452858206364,39.8924958296094,0 -121.452786572522,39.8926062434443,0 -121.452822678957,39.8926786368547,0 -121.452810809316,39.8927753753628,0 -121.452810938952,39.8928494909113,0 -121.452817207632,39.8929522054915,0 -121.452872443011,39.8929949242828,0 -121.452872660678,39.8930470147869,0 -121.452947479841,39.8931575400781,0 -121.452910254768,39.8932235156798,0 -121.452860832512,39.8933128396745,0 -121.452750317995,39.8934237972298,0 -121.452898337997,39.8934671166799,0 -121.453011309051,39.8935433698223,0 -121.453111971677,39.8936223802295,0 -121.453162257043,39.8937288491996,0 -121.45319946455,39.8937955827264,0 -121.453123988945,39.8938661606688,0 -121.453135689642,39.8939598490633,0 -121.45311618645,39.894076613708,0 -121.452762624143,39.8941512984948,0 -121.452658438011,39.8941758055566,0 -121.452585310027,39.8940973316509,0 -121.452494284882,39.8941412714758,0 -121.452320742347,39.8941506834229,0 -121.452165695904,39.8941425922759,0 -121.452064995844,39.8941169961463,0 -121.45201612249,39.8940601101827,0 -121.452022598207,39.8940003242509,0 -121.452123667493,39.8939035497745,0 -121.451986054643,39.8938993497744,0 -121.45187937916,39.8938568204768,0 -121.45185612091,39.8937138023536,0 -121.451687133846,39.8936420932708,0 -121.451504540327,39.8935844686964,0 -121.451536858704,39.8934657397761,0 -121.451555694113,39.8933032194734,0 -121.451596741228,39.8932446711644,0 -121.451514681048,39.8931780242701,0 -121.45149677183,39.8931140228096,0 -121.451305000625,39.8931347834346,0 -121.451198039716,39.8931404203225,0 -121.451171477859,39.8930906871559,0 -121.451190357443,39.8930134391241,0 -121.451153522666,39.8929601395254,0 -121.451246002844,39.8929115356662,0 -121.451278944288,39.8928416626269,0 -121.451302686636,39.8927920993775,0 -121.451143848022,39.8927853159616,0 -121.451074973011,39.8927495735899,0 -121.450973392094,39.89270652825,0 -121.450901122922,39.8926511371721,0 -121.450856647459,39.8925755627346,0 -121.450892600965,39.8924545251592,0 -121.450890658888,39.8923779268773,0 -121.450849339398,39.8923299262434,0 -121.450962106488,39.8922132086849,0 -121.451020068352,39.8922072711078,0 -121.451046621874,39.8921566249349,0 -121.451167777743,39.8920674060483,0 -121.451298401979,39.8920435929723,0 -121.451376808908,39.892001613985,0 -121.451375403054,39.8918800501516,0 -121.451348766528,39.8917597455306,0 -121.451387861732,39.8917021687424,0 -121.451477292352,39.8916527775967,0 -121.451604315672,39.8916045200897,0 -121.451786803554,39.891604845788,0 -121.451802583273,39.8914630064418,0 -121.451887355519,39.8913029181382,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3626_4"><name>CA-BTU-Granite-N40Y_ring_4</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
+        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+          <head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+          </head>
+          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                    <tr>
+                    <th>Source</th>
+                    <th>FIRIS</th>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Mission</td>
+                    <td>CA-BTU-Granite-N40Y</td>
+                </tr>
+                <tr>
+                    <td>Incident Name</td>
+                    <td>None</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Incident Number</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>Area in Acres</td>
+                    <td>11.609121449512868</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>Description</td>
+                    <td>FIRIS Perimeter</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>2025-09-03 00:51:07</td>
+                </tr>
+                <tr bgcolor="#D4E4F3">
+                    <td>OID</td>
+                    <td>3626</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+</body>
+</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-121.452336761055,39.8910059281032,0 -121.452458119469,39.8910617372014,0 -121.452426696479,39.8911212640006,0 -121.452299215097,39.8911298638958,0 -121.452273988855,39.8910602693786,0 -121.452336761055,39.8910059281032,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
