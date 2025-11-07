@@ -1,155 +1,105 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>CA-SDU-SCISSORS-N42Z</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+<?xml version="1.0" encoding="utf-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+        <Document>
+            <name>Cal_Fire_Intel_Boundary.kml</name>
+            <description>Cal_Fire_Intel_Boundary.kml</description>
+            <Style id="-728573378">
+            <LineStyle>
+                <color>ffa9e600</color>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>00ffffff</color>
+                <fill>true</fill>
+                <outline>true</outline>
+            </PolyStyle>
+            </Style>
+            <Placemark>
+            <name>placeholder</name>
+            <visibility>true</visibility>
+            <description><![CDATA[
+                <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+                <head>
+                    <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+                </head>
+                <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+                    <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+                    <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                        <td></td>
+                    </tr>
                     <tr>
-                    <th>Source</th>
-                    <th>FIRIS</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CA-SDU-SCISSORS-N42Z</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>None</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>None</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>68.08124845513113</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>FIRIS Perimeter</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-11-02 16:54:41</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>3749</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.489888320404,33.1008091236755,0 -116.489995052608,33.100830566368,0 -116.490196230449,33.1008597359343,0 -116.490355634544,33.1010503102449,0 -116.490226668693,33.1012016931456,0 -116.490049276604,33.101228665903,0 -116.489981005844,33.1012565167743,0 -116.489868493451,33.1011628621793,0 -116.489867031776,33.1010356091428,0 -116.489841915331,33.1009046643635,0 -116.489846557409,33.1008929635632,0 -116.489888320404,33.1008091236755,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3749_1"><name>CA-SDU-SCISSORS-N42Z_ring_1</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>FIRIS</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CA-SDU-SCISSORS-N42Z</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>None</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>None</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>68.08124845513113</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>FIRIS Perimeter</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-11-02 16:54:41</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>3749</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.490300964182,33.0998131940301,0 -116.490327619028,33.0998325544861,0 -116.490317200051,33.0998721639801,0 -116.490272466457,33.0998799664121,0 -116.490260137594,33.0998454010713,0 -116.490300964182,33.0998131940301,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark id="3749_2"><name>CA-SDU-SCISSORS-N42Z_ring_2</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
-                    <tr>
-                    <th>Source</th>
-                    <th>FIRIS</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CA-SDU-SCISSORS-N42Z</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>None</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>None</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>68.08124845513113</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>FIRIS Perimeter</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-11-02 16:54:41</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>3749</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.482612662639,33.097729151758,0 -116.482847133509,33.0977615179624,0 -116.483238821702,33.0977694245131,0 -116.483527988655,33.0978134818268,0 -116.483688698767,33.0978701946833,0 -116.48373824311,33.0980535837619,0 -116.484230301179,33.0983391916852,0 -116.484371579415,33.0984851631657,0 -116.484427205464,33.0985550236787,0 -116.484637962187,33.0985107830907,0 -116.484949809134,33.0985108373689,0 -116.485127016368,33.0985680154465,0 -116.485553443937,33.0989111482587,0 -116.485781049721,33.0991509692009,0 -116.485879900863,33.0991711344791,0 -116.486031381384,33.099068261741,0 -116.486130612517,33.0990288843242,0 -116.486439448448,33.0989113145876,0 -116.486659098153,33.0988881197806,0 -116.486799670342,33.0989610753026,0 -116.487007230423,33.0990208522436,0 -116.487205007243,33.0989695198509,0 -116.487297662041,33.0988622666432,0 -116.487522340645,33.0986368407076,0 -116.487663165225,33.0985803813719,0 -116.48785581774,33.0988220888047,0 -116.48799131093,33.0989767179835,0 -116.488058105249,33.0991267280775,0 -116.488233461191,33.0990838266127,0 -116.488382087141,33.0991230451395,0 -116.488637859438,33.0989892476176,0 -116.488773712756,33.0990091142854,0 -116.488786361692,33.0990815015655,0 -116.48862743045,33.0992837940417,0 -116.488867822099,33.0993180066436,0 -116.488890972929,33.0990436864958,0 -116.488981068762,33.0990585369288,0 -116.489025446382,33.0992845054959,0 -116.489245257489,33.0992802120916,0 -116.489524591145,33.0992299889725,0 -116.489550187675,33.0992338721538,0 -116.489822358932,33.0993017759536,0 -116.489977646656,33.0993251409557,0 -116.490002723033,33.0994089669865,0 -116.489864953046,33.0995526211567,0 -116.489735263158,33.0996646283039,0 -116.489439908141,33.0995787790527,0 -116.48928902574,33.0995817999888,0 -116.4892473384,33.0997294235892,0 -116.489353854705,33.0998517029647,0 -116.489332279887,33.0998776579823,0 -116.489198437968,33.1001156829978,0 -116.48924904117,33.1003247684034,0 -116.489007646895,33.100396776991,0 -116.488853187878,33.100505834555,0 -116.48887976556,33.1007151910492,0 -116.488588071062,33.1009055802456,0 -116.488297987015,33.1009601335052,0 -116.488133333116,33.1008606276558,0 -116.487838641294,33.1007906813383,0 -116.487562239224,33.1007936362965,0 -116.487278445932,33.1008553624858,0 -116.48718487628,33.1008966351049,0 -116.486990341152,33.1008445223144,0 -116.486973966777,33.1008500998446,0 -116.486849273929,33.1008724264467,0 -116.486705843703,33.1008054239656,0 -116.486597261513,33.1008641074623,0 -116.486426704422,33.1007998124672,0 -116.486291556159,33.100822145852,0 -116.486215853116,33.1008305276912,0 -116.486213268412,33.1008445219252,0 -116.486068945853,33.1009944425848,0 -116.485871118235,33.1010283682238,0 -116.485652875546,33.1010113924957,0 -116.485399508253,33.1010277813252,0 -116.485197336738,33.1010692433106,0 -116.485060264953,33.1010942912226,0 -116.484976875499,33.1011139343094,0 -116.484880158703,33.1011280364641,0 -116.484686656379,33.1011055380871,0 -116.48459992867,33.1010353349676,0 -116.484466486562,33.1009791702869,0 -116.484342840243,33.1010073107961,0 -116.4840818741,33.1010214945381,0 -116.483994257375,33.1011004518676,0 -116.483893135647,33.101128846911,0 -116.483661289276,33.1011008838824,0 -116.483476080216,33.1011320953947,0 -116.483248542975,33.1011827485838,0 -116.48300601886,33.1011180672286,0 -116.482859714933,33.1011319611937,0 -116.482744045878,33.101004789228,0 -116.482173267253,33.1009980666222,0 -116.481395629519,33.1007648393306,0 -116.480825089636,33.1006110755981,0 -116.47992493517,33.1004890919937,0 -116.479811795399,33.1004776586565,0 -116.47960160813,33.1003086881215,0 -116.479468105756,33.1002210474009,0 -116.479341371595,33.1003450103015,0 -116.479021023295,33.1004129330219,0 -116.478746813382,33.1004023507267,0 -116.478279290502,33.100406644647,0 -116.477976177146,33.1004153607815,0 -116.477895371226,33.1004465839789,0 -116.477577310135,33.1004548253451,0 -116.47731304672,33.10047820308,0 -116.477214156598,33.1005784379905,0 -116.477013716528,33.1006307307493,0 -116.476889711412,33.100650114317,0 -116.476850060432,33.1006503560539,0 -116.476673145756,33.1006848894097,0 -116.476568250783,33.1005349492231,0 -116.476445957651,33.1002455979953,0 -116.476353705082,33.1001469931419,0 -116.476460570095,33.1000226047404,0 -116.476579137677,33.0999962222265,0 -116.476684023295,33.0998386321044,0 -116.476723081274,33.0998255266338,0 -116.476906945941,33.0997664709301,0 -116.476986759292,33.0997010680643,0 -116.476948712648,33.0995394691046,0 -116.477031032275,33.09946884162,0 -116.477302261352,33.0994684291307,0 -116.477385755495,33.099423077429,0 -116.477585117962,33.0993389688168,0 -116.477861964227,33.0992937664275,0 -116.478029812397,33.0992611437803,0 -116.478067053957,33.0992608360033,0 -116.478216449538,33.0991946182802,0 -116.478584519621,33.0991128602349,0 -116.478809051872,33.0991655714893,0 -116.478946054333,33.0991519754256,0 -116.479045953274,33.0990550834091,0 -116.479121543466,33.0991704556521,0 -116.479283185119,33.0990928721787,0 -116.479382497396,33.0990010079153,0 -116.479536813199,33.0989108536683,0 -116.479852369729,33.0987895932202,0 -116.480297023351,33.0987011357835,0 -116.480580094868,33.0986504308881,0 -116.480755920964,33.0986508872525,0 -116.48090833445,33.0985872136221,0 -116.480663226788,33.0984779614385,0 -116.480525246608,33.0983496205645,0 -116.480930189544,33.09809415828,0 -116.480987835832,33.0980141600422,0 -116.481594523958,33.0979659719337,0 -116.481805532751,33.0978910028747,0 -116.482117204226,33.0979230427666,0 -116.482312625952,33.0978351475589,0 -116.482612662639,33.097729151758,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+                        <td>
+                        <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                            <tr>
+                            <th>Source</th>
+                            <th>CAL FIRE INTEL FLIGHT DATA</th>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Mission</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Incident Name</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Incident Number</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr>
+                            <td>Area in Acres</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Description</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Date</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>OID</td>
+                            <td>NULL</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+        </body>
+        </html>]]></description>
+            <styleUrl>#-728573378</styleUrl>
+            <ExtendedData>
+                <Data name="Name">
+                <value>placeholder</value>
+                </Data>
+                <Data name="altitudeMode">
+                <value>clampToGround</value>
+                </Data>
+                <Data name="tessellate">
+                <value>-1</value>
+                </Data>
+                <Data name="visibility">
+                <value>1</value>
+                </Data>
+                <Data name="extrude">
+                <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <altitudeMode>clampToGround</altitudeMode>
+                <outerBoundaryIs>
+                <LinearRing>
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>2.2873237431436531,1.2789565078189336
+        2.2833998044402368,1.3264949997604047
+        2.348437505331455,1.3324488035162723
+        2.3553055207949751,1.2799599562011958
+        2.2873237431436531,1.2789565078189336</coordinates>
+                </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            </Placemark>
+        </Document>
+        </kml>
