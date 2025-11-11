@@ -1,53 +1,105 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Cal_Fire_Intel_Boundary.kmz</name><description>Cal_Fire_Intel_Boundary.kmz</description><Style id="-1073741762"><LineStyle><color>ffa9e600</color><width>2</width></LineStyle><PolyStyle><fill>false</fill><outline>true</outline></PolyStyle><LabelStyle><color>ffa9e600</color></LabelStyle></Style><Placemark><name>CA-SDU-Border18</name><visibility>true</visibility><styleUrl>#-1073741762</styleUrl><description><![CDATA[
-        <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-          <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-16">
-          </head>
-          <body style="margin:0px;overflow:auto;background:#FFFFFF;">
-            <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
-              <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-                <td></td>
-              </tr>
-              <tr>
-                <td>
-                  <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+<?xml version="1.0" encoding="utf-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+        <Document>
+            <name>Cal_Fire_Intel_Boundary.kml</name>
+            <description>Cal_Fire_Intel_Boundary.kml</description>
+            <Style id="-728573378">
+            <LineStyle>
+                <color>ffa9e600</color>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>00ffffff</color>
+                <fill>true</fill>
+                <outline>true</outline>
+            </PolyStyle>
+            </Style>
+            <Placemark>
+            <name>placeholder</name>
+            <visibility>true</visibility>
+            <description><![CDATA[
+                <html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+                <head>
+                    <meta http-equiv="content-type" content="text/html; charset=UTF-16">
+                </head>
+                <body style="margin:0px;overflow:auto;background:#FFFFFF;">
+                    <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px;">
+                    <tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+                        <td></td>
+                    </tr>
                     <tr>
-                    <th>Source</th>
-                    <th>FIRIS</th>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Mission</td>
-                    <td>CA-SDU-Border18</td>
-                </tr>
-                <tr>
-                    <td>Incident Name</td>
-                    <td>None</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Incident Number</td>
-                    <td>None</td>
-                </tr>
-                <tr>
-                    <td>Area in Acres</td>
-                    <td>60.55588454653291</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>Description</td>
-                    <td>FIRIS Perimeter</td>
-                </tr>
-                <tr>
-                    <td>Date</td>
-                    <td>2025-11-08 16:54:00</td>
-                </tr>
-                <tr bgcolor="#D4E4F3">
-                    <td>OID</td>
-                    <td>3750</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-<a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
-</body>
-</html>]]></description><Polygon><extrude>0</extrude><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>-116.76438761709,32.5951196011319,0 -116.764278797988,32.5951828012984,0 -116.764487715307,32.5953155191896,0 -116.764480755127,32.5954258249227,0 -116.764271694963,32.5953880058249,0 -116.764040748716,32.5955229328467,0 -116.763983940959,32.5956661533536,0 -116.763826094522,32.5957010634959,0 -116.76382547162,32.5957170941055,0 -116.763774580583,32.5959038986483,0 -116.763932201185,32.5960381617961,0 -116.763963996841,32.5960719760971,0 -116.76393293584,32.5962896323224,0 -116.763538683509,32.596604578651,0 -116.763376193285,32.5966843887287,0 -116.763401299789,32.5967982493525,0 -116.763632457362,32.5968907369556,0 -116.763700736929,32.5970096471246,0 -116.763637579741,32.5971800944725,0 -116.763536679866,32.5973307427109,0 -116.76355135194,32.5976067775677,0 -116.76321045805,32.5979720564405,0 -116.763118271504,32.598032716617,0 -116.763005855441,32.597933585852,0 -116.76284667775,32.5979269916602,0 -116.762738845395,32.5978042207218,0 -116.762536631232,32.5975836000174,0 -116.762179128985,32.5975116705002,0 -116.761853823082,32.5973190946692,0 -116.761614673115,32.5969740226557,0 -116.761435761498,32.5965664881461,0 -116.761192571276,32.5961103931169,0 -116.761132797938,32.5960616275591,0 -116.760881796968,32.5957686785999,0 -116.760782937793,32.5955195527997,0 -116.760746251044,32.5952090382266,0 -116.760646301037,32.5948911924852,0 -116.760566184944,32.5946036239613,0 -116.760503927552,32.5943256234461,0 -116.760463943842,32.5943431713986,0 -116.760226223914,32.5945628678612,0 -116.760185724862,32.5945907749595,0 -116.759941542144,32.5946971747478,0 -116.759568009317,32.5946912153003,0 -116.759503290595,32.5946915497657,0 -116.759253084642,32.5946070035695,0 -116.758912774345,32.5944355069418,0 -116.758135975729,32.5942254466899,0 -116.757780912173,32.5940660850922,0 -116.757419099543,32.5938002921547,0 -116.757320888937,32.593322963875,0 -116.757146734615,32.5929683942259,0 -116.756978997806,32.5927547617441,0 -116.756795975984,32.5924467618896,0 -116.756721968633,32.5923556393238,0 -116.756750251724,32.5922971417912,0 -116.757008095909,32.5920454126555,0 -116.757422338453,32.5919571418976,0 -116.757454137587,32.5919503543837,0 -116.757726002083,32.5918975161041,0 -116.757830070156,32.5918091988268,0 -116.758124792944,32.5918991018897,0 -116.758342907476,32.5917567074636,0 -116.75875011033,32.5917196719634,0 -116.759087562774,32.5917543729456,0 -116.759460264477,32.59171372674,0 -116.759506989701,32.5916776177504,0 -116.759552841346,32.5915975512505,0 -116.759641515829,32.5915736566698,0 -116.759850316146,32.5916487816726,0 -116.759980923001,32.5916285719656,0 -116.760006357728,32.591637650226,0 -116.760185444504,32.5918061910754,0 -116.760524204339,32.5918255335721,0 -116.760708536233,32.5918561740228,0 -116.760772720294,32.5918588804947,0 -116.760854255763,32.5918186326921,0 -116.760766120125,32.5916374559832,0 -116.760674571837,32.5915149024677,0 -116.760848801262,32.5914604100438,0 -116.761046421228,32.5915129738842,0 -116.761265596966,32.5913484931254,0 -116.761363077674,32.5912944465015,0 -116.761448801259,32.5913519386636,0 -116.761460064831,32.5913942629458,0 -116.761560100751,32.5916644325587,0 -116.76161684405,32.5919225764523,0 -116.761626912617,32.5919367555005,0 -116.761698031544,32.5921352944283,0 -116.761701218194,32.5921636848975,0 -116.76169896628,32.5923598310563,0 -116.761860171207,32.5925097440479,0 -116.761898473663,32.5925327256342,0 -116.762120716171,32.5927162565976,0 -116.762257779794,32.5928027821772,0 -116.762581816231,32.5931617395615,0 -116.762585870979,32.5931996065057,0 -116.762602487153,32.5932513282456,0 -116.762710983234,32.5933991266,0 -116.762806563285,32.5934362573399,0 -116.763159055188,32.5936210893137,0 -116.763174752782,32.5936376420505,0 -116.763497091339,32.5939377192738,0 -116.763802400371,32.5942117375802,0 -116.764217204928,32.5944038470944,0 -116.764337000756,32.5947668725825,0 -116.764479085506,32.594912388079,0 -116.764469507951,32.5949302342772,0 -116.76438761709,32.5951196011319,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document></kml>
+                        <td>
+                        <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px;padding:3px;">
+                            <tr>
+                            <th>Source</th>
+                            <th>CAL FIRE INTEL FLIGHT DATA</th>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Mission</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Incident Name</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Incident Number</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr>
+                            <td>Area in Acres</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>Description</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Date</td>
+                            <td>NULL</td>
+                        </tr>
+                        <tr bgcolor="#D4E4F3">
+                            <td>OID</td>
+                            <td>NULL</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=025fb2ea05f14890b2b11573341b5b18" style="font-size: large; font-weight: bold;">Open in Browser</a>
+        </body>
+        </html>]]></description>
+            <styleUrl>#-728573378</styleUrl>
+            <ExtendedData>
+                <Data name="Name">
+                <value>placeholder</value>
+                </Data>
+                <Data name="altitudeMode">
+                <value>clampToGround</value>
+                </Data>
+                <Data name="tessellate">
+                <value>-1</value>
+                </Data>
+                <Data name="visibility">
+                <value>1</value>
+                </Data>
+                <Data name="extrude">
+                <value>0</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <altitudeMode>clampToGround</altitudeMode>
+                <outerBoundaryIs>
+                <LinearRing>
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>2.2873237431436531,1.2789565078189336
+        2.2833998044402368,1.3264949997604047
+        2.348437505331455,1.3324488035162723
+        2.3553055207949751,1.2799599562011958
+        2.2873237431436531,1.2789565078189336</coordinates>
+                </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            </Placemark>
+        </Document>
+        </kml>
